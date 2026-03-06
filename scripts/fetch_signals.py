@@ -84,9 +84,9 @@ def main():
 
     events = []
 
-        events.extend(fetch_github_ai_repos())
-        events.extend(fetch_openai_blog())
-        events.extend(fetch_huggingface_models())
+    events.extend(fetch_github_ai_repos())
+    events.extend(fetch_openai_blog())
+    events.extend(fetch_huggingface_models())
 
     with open(events_path, "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2)
