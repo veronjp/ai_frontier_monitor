@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const todayChangesContainer = document.getElementById("today-changes-container");
   const watchlistContainer = document.getElementById("watchlist-container");
   const layersContainer = document.getElementById("layers-container");
+  const automatedSignalFeed = document.getElementById("automated-signal-feed");
 
   const historyInferenceCost = document.getElementById("history-inference-cost");
   const historyFrontierCapability = document.getElementById("history-frontier-capability");
@@ -117,6 +118,30 @@ document.addEventListener("DOMContentLoaded", async () => {
       `;
     }
   }
+
+  function renderAutomatedSignals(items) {
+  if (!automatedSignalFeed) return;
+
+  if (!Array.isArray(items) || items.length === 0) {
+    automatedSignalFeed.innerHTML = `
+      <div class="item">
+        <div class="item-title">No automated signals yet</div>
+        <div class="item-summary">Run the workflow or wait for the next scheduled update.</div>
+      </div>
+    `;
+    return;
+  }
+
+  automatedSignalFeed.innerHTML = items.map(item => `
+    <div class="item">
+      <div class="item-title">${item.source}: ${item.title}</div>
+      <div class="item-summary">
+        ${item.summary}<br /><br />
+        <span class="small">Category: ${item.category} | Signal: ${item.signal_type} | Score: ${item.importance_score}</span>
+      </div>
+    </div>
+  `).join("");
+}
 
   function renderTrendChart(historyData) {
     if (!chartCanvas || !Array.isArray(historyData) || historyData.length === 0) return;
@@ -276,5 +301,13 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   } catch (error) {
     console.error("Failed to load history data:", error);
+  }
+
+    try {
+    const eventsResponse = await fetch("./data/events.json");
+    const eventsData = await eventsResponse.json();
+    renderAutomatedSignals(eventsData);
+  } catch (error) {
+    console.error("Failed to load automated signal feed:", error);
   }
 });
