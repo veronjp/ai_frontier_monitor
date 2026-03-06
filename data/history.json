@@ -1,5 +1,38 @@
 [
   {
+    "date": "2026-03-03",
+    "signals": {
+      "inference_cost": 0,
+      "frontier_capability": 0,
+      "developer_velocity": 0,
+      "enterprise_adoption": 0
+    },
+    "themes": ["baseline"],
+    "notes": "Initial baseline entry for AI Frontier Monitor."
+  },
+  {
+    "date": "2026-03-04",
+    "signals": {
+      "inference_cost": -1,
+      "frontier_capability": 1,
+      "developer_velocity": 0,
+      "enterprise_adoption": 0
+    },
+    "themes": ["cost compression", "model progress"],
+    "notes": "Capability beginning to outpace adoption."
+  },
+  {
+    "date": "2026-03-05",
+    "signals": {
+      "inference_cost": -1,
+      "frontier_capability": 1,
+      "developer_velocity": 1,
+      "enterprise_adoption": 0
+    },
+    "themes": ["open-source momentum", "workflow redesign"],
+    "notes": "Developer ecosystem strengthening."
+  },
+  {
     "date": "2026-03-06",
     "signals": {
       "inference_cost": -1,
@@ -7,11 +40,7 @@
       "developer_velocity": 1,
       "enterprise_adoption": 0
     },
-    "themes": [
-      "workflow redesign",
-      "open-source momentum",
-      "cost compression"
-    ],
+    "themes": ["workflow redesign", "open-source momentum", "cost compression"],
     "notes": "Initial dataset entry for AI Frontier Monitor."
   }
 ]
