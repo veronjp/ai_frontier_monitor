@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2026-03-06",
+    "signals": {
+      "inference_cost": -1,
+      "frontier_capability": 1,
+      "developer_velocity": 1,
+      "enterprise_adoption": 0
+    },
+    "themes": [
+      "workflow redesign",
+      "open-source momentum",
+      "cost compression"
+    ],
+    "notes": "Initial dataset entry for AI Frontier Monitor."
+  }
+]
