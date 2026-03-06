@@ -206,3 +206,17 @@ h1{
 canvas{
   max-width:100%;
 }
+
+.chart-box{
+  background:var(--panel-2);
+  border:1px dashed #3b4b6b;
+  border-radius:14px;
+  padding:18px;
+  height:320px;
+}
+
+.chart-box canvas{
+  width:100% !important;
+  height:240px !important;
+  display:block;
+}
