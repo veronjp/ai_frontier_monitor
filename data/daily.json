@@ -1,0 +1,88 @@
+{
+  "date": "2026-03-06",
+  "version": "v0.2",
+  "kpis": [
+    {
+      "label": "Inference Cost Trend",
+      "value": "↓",
+      "note": "Commercial viability improving as costs compress"
+    },
+    {
+      "label": "Frontier Capability",
+      "value": "↗",
+      "note": "Tool use and multimodal performance improving"
+    },
+    {
+      "label": "Developer Velocity",
+      "value": "↗",
+      "note": "Open-source experimentation and tooling rising"
+    },
+    {
+      "label": "Enterprise Adoption",
+      "value": "→",
+      "note": "Adoption remains uneven across firms"
+    }
+  ],
+  "regime_tags": [
+    { "text": "Cost Compression", "level": "good" },
+    { "text": "Compute Constraint", "level": "warn" },
+    { "text": "Regulatory Uncertainty", "level": "warn" },
+    { "text": "Workflow Redesign", "level": "" }
+  ],
+  "talking_points": [
+    {
+      "title": "Workflow redesign is still the real unlock",
+      "summary": "AI tools alone do not create value unless teams redesign how work flows across functions."
+    },
+    {
+      "title": "Open-source momentum is an early signal",
+      "summary": "Following developer tools and repos often shows where enterprise demand will emerge next."
+    },
+    {
+      "title": "Falling cost curves will reshape who wins",
+      "summary": "As AI gets cheaper to run, more use cases become viable and old moats weaken."
+    }
+  ],
+  "today_changes": [
+    {
+      "title": "Major signal placeholder",
+      "summary": "This section will hold today’s most important AI, tech, and economics developments."
+    },
+    {
+      "title": "Another key shift",
+      "summary": "Keep this area short, sharp, and high signal."
+    }
+  ],
+  "watchlist": [
+    {
+      "title": "Upcoming event or signal to monitor",
+      "summary": "Use this for launches, regulation, earnings, platform shifts, or major releases."
+    }
+  ],
+  "layers": [
+    {
+      "title": "Economics",
+      "summary": "Cost curves, capex, compute economics, pricing shifts."
+    },
+    {
+      "title": "Frontier Models",
+      "summary": "Capability shifts, multimodal releases, agents, tool use."
+    },
+    {
+      "title": "Developer Ecosystem",
+      "summary": "Open-source momentum, frameworks, repo velocity, tooling."
+    },
+    {
+      "title": "Enterprise Adoption",
+      "summary": "Workflow changes, business rollouts, and internal use cases."
+    },
+    {
+      "title": "Policy & Regulation",
+      "summary": "AI governance, export controls, legal and compliance changes."
+    },
+    {
+      "title": "Career / Business Implication",
+      "summary": "What this means for skills, positioning, products, and strategy."
+    }
+  ]
+}
