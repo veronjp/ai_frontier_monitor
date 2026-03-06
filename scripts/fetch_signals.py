@@ -5,8 +5,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 GITHUB_TRENDING_URL = "https://api.github.com/search/repositories?q=topic:ai&sort=stars&order=desc&per_page=5"
-OPENAI_RSS = "https://openai.com/blog/rss/"
-
+OPENAI_RSS = "https://openai.com/news/rss.xml"
 
 def fetch_github_ai_repos():
     response = requests.get(GITHUB_TRENDING_URL)
@@ -30,6 +29,30 @@ def fetch_github_ai_repos():
 
     return events
 
+def fetch_huggingface_models():
+    url = "https://huggingface.co/api/models?sort=downloads&limit=5"
+
+    response = requests.get(url)
+    response.raise_for_status()
+
+    data = response.json()
+
+    events = []
+
+    for model in data[:5]:
+        events.append({
+            "source": "HuggingFace",
+            "category": "model_ecosystem",
+            "title": model["id"],
+            "url": f"https://huggingface.co/{model['id']}",
+            "published_at": datetime.now(timezone.utc).isoformat(),
+            "summary": f"Trending model with {model.get('downloads',0)} downloads.",
+            "signal_type": "model_capability",
+            "importance_score": model.get("downloads",0),
+            "theme_tags": ["models","open-source","ml"]
+        })
+
+    return events
 
 def fetch_openai_blog():
     feed = feedparser.parse(OPENAI_RSS)
@@ -61,8 +84,9 @@ def main():
 
     events = []
 
-    events.extend(fetch_github_ai_repos())
-    events.extend(fetch_openai_blog())
+        events.extend(fetch_github_ai_repos())
+        events.extend(fetch_openai_blog())
+        events.extend(fetch_huggingface_models())
 
     with open(events_path, "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2)
