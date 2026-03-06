@@ -4,14 +4,17 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-06T20:00:16.373101+00:00",
-    "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
+    "published_at": "2026-03-06T20:08:10.815940+00:00",
+    "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 270675,
+    "importance_score": 270688,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": [
+      "copilots"
     ]
   },
   {
@@ -19,7 +22,7 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-06T20:00:16.373120+00:00",
+    "published_at": "2026-03-06T20:08:10.815986+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
     "importance_score": 182223,
@@ -27,29 +30,31 @@
       "open-source",
       "ai",
       "developer"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "GitHub",
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-06T20:00:16.373124+00:00",
+    "published_at": "2026-03-06T20:08:10.816003+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 177902,
+    "importance_score": 177903,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "GitHub",
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-06T20:00:16.373126+00:00",
+    "published_at": "2026-03-06T20:08:10.816014+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
     "importance_score": 161523,
@@ -57,21 +62,25 @@
       "open-source",
       "ai",
       "developer"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "GitHub",
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-06T20:00:16.373128+00:00",
-    "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source \u2014 self-host for your organization with complete privacy.",
+    "published_at": "2026-03-06T20:08:10.816022+00:00",
+    "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
     "importance_score": 150360,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": [
+      "open-source"
     ]
   },
   {
@@ -87,6 +96,9 @@
       "models",
       "research",
       "capability"
+    ],
+    "narratives": [
+      "agents"
     ]
   },
   {
@@ -102,6 +114,9 @@
       "models",
       "research",
       "capability"
+    ],
+    "narratives": [
+      "open-source"
     ]
   },
   {
@@ -117,6 +132,9 @@
       "models",
       "research",
       "capability"
+    ],
+    "narratives": [
+      "agents"
     ]
   },
   {
@@ -125,19 +143,20 @@
     "title": "Introducing GPT-5.4",
     "url": "https://openai.com/index/introducing-gpt-5-4",
     "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "summary": "Introducing GPT-5.4, OpenAI\u2019s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+    "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
       "models",
       "research",
       "capability"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Reasoning models struggle to control their chains of thought, and that\u2019s good",
+    "title": "Reasoning models struggle to control their chains of thought, and that’s good",
     "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
     "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
     "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
@@ -147,6 +166,9 @@
       "models",
       "research",
       "capability"
+    ],
+    "narratives": [
+      "reasoning"
     ]
   },
   {
@@ -154,7 +176,7 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-06T20:00:17.099044+00:00",
+    "published_at": "2026-03-06T20:08:11.663419+00:00",
     "summary": "Trending model with 198720813 downloads.",
     "signal_type": "model_capability",
     "importance_score": 198720813,
@@ -162,14 +184,15 @@
       "models",
       "open-source",
       "ml"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-06T20:00:17.099058+00:00",
+    "published_at": "2026-03-06T20:08:11.663446+00:00",
     "summary": "Trending model with 65190605 downloads.",
     "signal_type": "model_capability",
     "importance_score": 65190605,
@@ -177,14 +200,15 @@
       "models",
       "open-source",
       "ml"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-06T20:00:17.099061+00:00",
+    "published_at": "2026-03-06T20:08:11.663456+00:00",
     "summary": "Trending model with 48194492 downloads.",
     "signal_type": "model_capability",
     "importance_score": 48194492,
@@ -192,14 +216,15 @@
       "models",
       "open-source",
       "ml"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-06T20:00:17.099065+00:00",
+    "published_at": "2026-03-06T20:08:11.663465+00:00",
     "summary": "Trending model with 41437569 downloads.",
     "signal_type": "model_capability",
     "importance_score": 41437569,
@@ -207,14 +232,15 @@
       "models",
       "open-source",
       "ml"
-    ]
+    ],
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-06T20:00:17.099068+00:00",
+    "published_at": "2026-03-06T20:08:11.663474+00:00",
     "summary": "Trending model with 27556129 downloads.",
     "signal_type": "model_capability",
     "importance_score": 27556129,
@@ -222,6 +248,7 @@
       "models",
       "open-source",
       "ml"
-    ]
+    ],
+    "narratives": []
   }
 ]
