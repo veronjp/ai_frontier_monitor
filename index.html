@@ -19,35 +19,14 @@
         <div class="meta">
           <div class="pill">Today: <span id="today-date">—</span></div>
           <div class="pill">Last updated: <span id="last-updated">—</span></div>
-          <div class="pill">Version: v0.1</div>
+          <div class="pill">Version: <span id="version">—</span></div>
         </div>
       </div>
     </header>
 
     <section class="card">
       <h2>Topline Indicators</h2>
-      <div class="grid grid-4">
-        <div class="kpi">
-          <div class="kpi-label">Inference Cost Trend</div>
-          <div class="kpi-value">↓</div>
-          <div class="kpi-note">Placeholder for cost compression tracking</div>
-        </div>
-        <div class="kpi">
-          <div class="kpi-label">Frontier Capability</div>
-          <div class="kpi-value">↗</div>
-          <div class="kpi-note">Placeholder for model/tool progress</div>
-        </div>
-        <div class="kpi">
-          <div class="kpi-label">Developer Velocity</div>
-          <div class="kpi-value">→</div>
-          <div class="kpi-note">Placeholder for repo and tooling signals</div>
-        </div>
-        <div class="kpi">
-          <div class="kpi-label">Enterprise Adoption</div>
-          <div class="kpi-value">↗</div>
-          <div class="kpi-note">Placeholder for workflow and business uptake</div>
-        </div>
-      </div>
+   <div class="grid grid-4" id="kpi-container"></div>
     </section>
 
     <br />
@@ -55,29 +34,13 @@
     <section class="grid grid-2">
       <div class="card">
         <h2>Summary Talking Points</h2>
-        <div class="list">
-          <div class="item">
-            <div class="item-title">Talking point 1</div>
-            <div class="item-summary">This area will hold your daily concise briefing points for career conversations, business thinking, and content.</div>
-          </div>
-          <div class="item">
-            <div class="item-title">Talking point 2</div>
-            <div class="item-summary">Later this will be populated from structured data rather than hardcoded text.</div>
-          </div>
-          <div class="item">
-            <div class="item-title">Talking point 3</div>
-            <div class="item-summary">Think of this as your polished “what matters today” section.</div>
-          </div>
-        </div>
+      <div class="list" id="talking-points-container"></div>
       </div>
 
       <div class="card">
         <h2>Regime Tags</h2>
-        <span class="tag good">Cost Compression</span>
-        <span class="tag warn">Compute Constraint</span>
-        <span class="tag warn">Regulatory Uncertainty</span>
-        <span class="tag">Workflow Redesign</span>
-        <p class="small">These tags will later become dynamic and data-driven.</p>
+        <div id="regime-tags-container"></div>
+<p class="small">These tags will later become more analytical and rules-based.</p>
       </div>
     </section>
 
@@ -86,10 +49,7 @@
     <section class="grid grid-2">
       <div class="card">
         <h2>What Changed Today</h2>
-        <div class="list">
-          <div class="item">
-            <div class="item-title">Major signal placeholder</div>
-            <div class="item-summary">This section will hold today’s most important AI / tech / economics developments.</div>
+        <div class="list" id="today-changes-container"></div>
           </div>
           <div class="item">
             <div class="item-title">Major signal placeholder</div>
@@ -100,7 +60,7 @@
 
       <div class="card">
         <h2>Watchlist</h2>
-        <div class="list">
+      <div class="list" id="watchlist-container"></div>
           <div class="item">
             <div class="item-title">What to watch next</div>
             <div class="item-summary">Use this for upcoming events, earnings, launches, regulation, or platform shifts.</div>
@@ -113,31 +73,7 @@
 
     <section class="card">
       <h2>Signals by Layer</h2>
-      <div class="grid grid-3">
-        <div class="item">
-          <div class="item-title">Economics</div>
-          <div class="item-summary">Cost curves, capex, compute economics, pricing shifts.</div>
-        </div>
-        <div class="item">
-          <div class="item-title">Frontier Models</div>
-          <div class="item-summary">Capability shifts, multimodal releases, agents, tool use.</div>
-        </div>
-        <div class="item">
-          <div class="item-title">Developer Ecosystem</div>
-          <div class="item-summary">Open-source momentum, frameworks, repo velocity, tooling.</div>
-        </div>
-        <div class="item">
-          <div class="item-title">Enterprise Adoption</div>
-          <div class="item-summary">Workflow changes, business rollouts, internal use cases.</div>
-        </div>
-        <div class="item">
-          <div class="item-title">Policy & Regulation</div>
-          <div class="item-summary">AI governance, export controls, legal and compliance changes.</div>
-        </div>
-        <div class="item">
-          <div class="item-title">Career / Business Implication</div>
-          <div class="item-summary">What this means for skills, positioning, products, and strategy.</div>
-        </div>
+      <div class="grid grid-3" id="layers-container"></div>
       </div>
     </section>
 
