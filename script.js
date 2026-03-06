@@ -15,6 +15,10 @@ document.addEventListener("DOMContentLoaded", async () => {
   const historyDeveloperVelocity = document.getElementById("history-developer-velocity");
   const historyEnterpriseAdoption = document.getElementById("history-enterprise-adoption");
 
+  const topThemesBox = document.getElementById("top-themes-box");
+  const historyDepthBox = document.getElementById("history-depth-box");
+  const latestNoteBox = document.getElementById("latest-note-box");
+
   const chartCanvas = document.getElementById("signal-trend-chart");
 
   const now = new Date();
@@ -223,11 +227,54 @@ document.addEventListener("DOMContentLoaded", async () => {
     const historyData = await historyResponse.json();
 
     if (Array.isArray(historyData) && historyData.length > 0) {
-      const latestEntry = historyData[historyData.length - 1];
-      renderHistorySummary(latestEntry);
-      renderTrendChart(historyData);
-    }
+    const latestEntry = historyData[historyData.length - 1];
+    renderHistorySummary(latestEntry);
+    renderTrendChart(historyData);
+    renderExecutiveAnalytics(historyData);
+  }
   } catch (error) {
     console.error("Failed to load history data:", error);
   }
 });
+
+function renderExecutiveAnalytics(historyData) {
+  if (!Array.isArray(historyData) || historyData.length === 0) return;
+
+  const latestEntry = historyData[historyData.length - 1];
+
+  const themeCounts = {};
+  historyData.forEach(entry => {
+    (entry.themes || []).forEach(theme => {
+      themeCounts[theme] = (themeCounts[theme] || 0) + 1;
+    });
+  });
+
+  const sortedThemes = Object.entries(themeCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5);
+
+  if (topThemesBox) {
+    topThemesBox.innerHTML = `
+      <strong>Top Recurring Themes</strong><br /><br />
+      ${sortedThemes.length > 0
+        ? sortedThemes.map(([theme, count]) => `<div class="small">${theme} (${count})</div>`).join("")
+        : `<div class="small">No theme data yet.</div>`}
+    `;
+  }
+
+  if (historyDepthBox) {
+    historyDepthBox.innerHTML = `
+      <strong>History Depth</strong><br /><br />
+      <div class="small">Entries logged: ${historyData.length}</div>
+      <div class="small">First record: ${historyData[0].date}</div>
+      <div class="small">Latest record: ${latestEntry.date}</div>
+    `;
+  }
+
+  if (latestNoteBox) {
+    latestNoteBox.innerHTML = `
+      <strong>Latest Analytical Note</strong><br /><br />
+      <div class="small">${latestEntry.notes || "No note available."}</div>
+    `;
+  }
+}
