@@ -1,10 +1,11 @@
 import json
 import requests
+import feedparser
 from datetime import datetime, timezone
 from pathlib import Path
 
-
 GITHUB_TRENDING_URL = "https://api.github.com/search/repositories?q=topic:ai&sort=stars&order=desc&per_page=5"
+OPENAI_RSS = "https://openai.com/blog/rss/"
 
 
 def fetch_github_ai_repos():
@@ -30,6 +31,27 @@ def fetch_github_ai_repos():
     return events
 
 
+def fetch_openai_blog():
+    feed = feedparser.parse(OPENAI_RSS)
+
+    events = []
+
+    for entry in feed.entries[:5]:
+        events.append({
+            "source": "OpenAI",
+            "category": "core_tech",
+            "title": entry.title,
+            "url": entry.link,
+            "published_at": entry.published,
+            "summary": entry.summary[:200],
+            "signal_type": "model_capability",
+            "importance_score": 8,
+            "theme_tags": ["models", "research", "capability"]
+        })
+
+    return events
+
+
 def main():
     repo_root = Path(__file__).resolve().parent.parent
     data_dir = repo_root / "data"
@@ -37,12 +59,15 @@ def main():
 
     events_path = data_dir / "events.json"
 
-    events = fetch_github_ai_repos()
+    events = []
+
+    events.extend(fetch_github_ai_repos())
+    events.extend(fetch_openai_blog())
 
     with open(events_path, "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2)
 
-    print(f"Wrote {len(events)} GitHub AI repo signals")
+    print(f"Wrote {len(events)} signals")
 
 
 if __name__ == "__main__":
