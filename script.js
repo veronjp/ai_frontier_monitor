@@ -118,72 +118,88 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
   }
 
-  function renderTrendChart(historyData) {
-    if (!chartCanvas || !Array.isArray(historyData) || historyData.length === 0) return;
+ function renderTrendChart(historyData) {
+  if (!chartCanvas || !Array.isArray(historyData) || historyData.length === 0) return;
+  if (typeof Chart === "undefined") {
+    console.error("Chart.js failed to load.");
+    return;
+  }
 
-    const labels = historyData.map(entry => entry.date);
-    const inferenceCost = historyData.map(entry => entry.signals?.inference_cost ?? null);
-    const frontierCapability = historyData.map(entry => entry.signals?.frontier_capability ?? null);
-    const developerVelocity = historyData.map(entry => entry.signals?.developer_velocity ?? null);
-    const enterpriseAdoption = historyData.map(entry => entry.signals?.enterprise_adoption ?? null);
+  const labels = historyData.map(entry => entry.date);
+  const inferenceCost = historyData.map(entry => entry.signals?.inference_cost ?? null);
+  const frontierCapability = historyData.map(entry => entry.signals?.frontier_capability ?? null);
+  const developerVelocity = historyData.map(entry => entry.signals?.developer_velocity ?? null);
+  const enterpriseAdoption = historyData.map(entry => entry.signals?.enterprise_adoption ?? null);
 
-    new Chart(chartCanvas, {
-      type: "line",
-      data: {
-        labels,
-        datasets: [
-          {
-            label: "Inference Cost",
-            data: inferenceCost
-          },
-          {
-            label: "Frontier Capability",
-            data: frontierCapability
-          },
-          {
-            label: "Developer Velocity",
-            data: developerVelocity
-          },
-          {
-            label: "Enterprise Adoption",
-            data: enterpriseAdoption
+  new Chart(chartCanvas.getContext("2d"), {
+    type: "line",
+    data: {
+      labels,
+      datasets: [
+        {
+          label: "Inference Cost",
+          data: inferenceCost,
+          borderColor: "#7cc4ff",
+          backgroundColor: "transparent",
+          tension: 0.3
+        },
+        {
+          label: "Frontier Capability",
+          data: frontierCapability,
+          borderColor: "#35c759",
+          backgroundColor: "transparent",
+          tension: 0.3
+        },
+        {
+          label: "Developer Velocity",
+          data: developerVelocity,
+          borderColor: "#ffb020",
+          backgroundColor: "transparent",
+          tension: 0.3
+        },
+        {
+          label: "Enterprise Adoption",
+          data: enterpriseAdoption,
+          borderColor: "#ff6b6b",
+          backgroundColor: "transparent",
+          tension: 0.3
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          labels: {
+            color: "#edf2f7"
           }
-        ]
+        }
       },
-      options: {
-        responsive: true,
-        maintainAspectRatio: false,
-        plugins: {
-          legend: {
-            labels: {
-              color: "#edf2f7"
-            }
+      scales: {
+        x: {
+          ticks: {
+            color: "#9fb0c7"
+          },
+          grid: {
+            color: "#25324a"
           }
         },
-        scales: {
-          x: {
-            ticks: {
-              color: "#9fb0c7"
-            },
-            grid: {
-              color: "#25324a"
-            }
+        y: {
+          min: -1,
+          max: 1,
+          ticks: {
+            stepSize: 1,
+            color: "#9fb0c7"
           },
-          y: {
-            min: -1,
-            max: 1,
-            ticks: {
-              stepSize: 1,
-              color: "#9fb0c7"
-            },
-            grid: {
-              color: "#25324a"
-            }
+          grid: {
+            color: "#25324a"
           }
         }
       }
-    });
-  }
+    }
+  });
+}
 
   try {
     const dailyResponse = await fetch("./data/daily.json");
