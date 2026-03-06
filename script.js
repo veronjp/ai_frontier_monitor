@@ -227,11 +227,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     const historyData = await historyResponse.json();
 
     if (Array.isArray(historyData) && historyData.length > 0) {
-    const latestEntry = historyData[historyData.length - 1];
-    renderHistorySummary(latestEntry);
-    renderTrendChart(historyData);
-    renderExecutiveAnalytics(historyData);
-  }
+  const latestEntry = historyData[historyData.length - 1];
+  renderHistorySummary(latestEntry);
+  renderTrendChart(historyData);
+  renderExecutiveAnalytics(historyData);
+}
   } catch (error) {
     console.error("Failed to load history data:", error);
   }
