@@ -202,3 +202,7 @@ h1{
   color:var(--muted);
   font-size:13px;
 }
+
+canvas{
+  max-width:100%;
+}
