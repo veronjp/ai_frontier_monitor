@@ -231,38 +231,20 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function renderNarrativeMonitor(items) {
-  if (!Array.isArray(items)) return;
-
-  const narrativeCounts = {};
-  const sourceCounts = {};
-
-  items.forEach(item => {
-    const source = item.source || "Unknown";
-    sourceCounts[source] = (sourceCounts[source] || 0) + 1;
-
-    (item.narratives || []).forEach(narrative => {
-      narrativeCounts[narrative] = (narrativeCounts[narrative] || 0) + 1;
-    });
-  });
-
-  const sortedNarratives = Object.entries(narrativeCounts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 5);
-
-  const sortedSources = Object.entries(sourceCounts)
-    .sort((a, b) => b[1] - a[1]);
+  const topNarrativesBox = document.getElementById("top-narratives-box");
+  const narrativeSourceBox = document.getElementById("narrative-source-box");
+  const narrativeSummaryBox = document.getElementById("narrative-summary-box");
 
   if (topNarrativesBox) {
-    if (sortedNarratives.length === 0) {
-      topNarrativesBox.innerHTML = `
-        <strong>Top Narratives</strong><br /><br />
-        <div class="small">No narratives detected in current signal set.</div>
-    `;
-  } else {
-    topNarrativesBox.innerHTML = `
-      <strong>Top Narratives</strong><br /><br />
-      ${sortedNarratives.map(([name, count]) => `<div class="small">${name} (${count})</div>`).join("")}
-    `;
+    topNarrativesBox.innerHTML = `<strong>Test OK</strong><br /><br /><div class="small">Narrative function is running.</div>`;
+  }
+
+  if (narrativeSourceBox) {
+    narrativeSourceBox.innerHTML = `<strong>Test OK</strong><br /><br /><div class="small">Source box is connected.</div>`;
+  }
+
+  if (narrativeSummaryBox) {
+    narrativeSummaryBox.innerHTML = `<strong>Test OK</strong><br /><br /><div class="small">Summary box is connected.</div>`;
   }
 }
 
