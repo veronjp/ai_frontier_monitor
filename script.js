@@ -11,10 +11,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   const layersContainer = document.getElementById("layers-container");
   const automatedSignalFeed = document.getElementById("automated-signal-feed");
 
-  const topNarrativesBox = document.getElementById("top-narratives-box");
-  const narrativeSourceBox = document.getElementById("narrative-source-box");
-  const narrativeSummaryBox = document.getElementById("narrative-summary-box");
-
   const historyInferenceCost = document.getElementById("history-inference-cost");
   const historyFrontierCapability = document.getElementById("history-frontier-capability");
   const historyDeveloperVelocity = document.getElementById("history-developer-velocity");
@@ -34,48 +30,53 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   function renderKpis(items) {
     if (!kpiContainer) return;
-    kpiContainer.innerHTML = items.map(item => `
+
+    kpiContainer.innerHTML = (items || []).map(item => `
       <div class="kpi">
-        <div class="kpi-label">${item.label}</div>
-        <div class="kpi-value">${item.value}</div>
-        <div class="kpi-note">${item.note}</div>
+        <div class="kpi-label">${item.label || ""}</div>
+        <div class="kpi-value">${item.value || ""}</div>
+        <div class="kpi-note">${item.note || ""}</div>
       </div>
     `).join("");
   }
 
   function renderTalkingPoints(items) {
     if (!talkingPointsContainer) return;
-    talkingPointsContainer.innerHTML = items.map(item => `
+
+    talkingPointsContainer.innerHTML = (items || []).map(item => `
       <div class="item">
-        <div class="item-title">${item.title}</div>
-        <div class="item-summary">${item.summary}</div>
+        <div class="item-title">${item.title || ""}</div>
+        <div class="item-summary">${item.summary || ""}</div>
       </div>
     `).join("");
   }
 
   function renderTags(items) {
     if (!regimeTagsContainer) return;
-    regimeTagsContainer.innerHTML = items.map(item => `
-      <span class="tag ${item.level || ""}">${item.text}</span>
+
+    regimeTagsContainer.innerHTML = (items || []).map(item => `
+      <span class="tag ${item.level || ""}">${item.text || ""}</span>
     `).join("");
   }
 
   function renderList(container, items) {
     if (!container) return;
-    container.innerHTML = items.map(item => `
+
+    container.innerHTML = (items || []).map(item => `
       <div class="item">
-        <div class="item-title">${item.title}</div>
-        <div class="item-summary">${item.summary}</div>
+        <div class="item-title">${item.title || ""}</div>
+        <div class="item-summary">${item.summary || ""}</div>
       </div>
     `).join("");
   }
 
   function renderLayers(items) {
     if (!layersContainer) return;
-    layersContainer.innerHTML = items.map(item => `
+
+    layersContainer.innerHTML = (items || []).map(item => `
       <div class="item">
-        <div class="item-title">${item.title}</div>
-        <div class="item-summary">${item.summary}</div>
+        <div class="item-title">${item.title || ""}</div>
+        <div class="item-summary">${item.summary || ""}</div>
       </div>
     `).join("");
   }
@@ -94,7 +95,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       historyInferenceCost.innerHTML = `
         <strong>Inference Cost</strong><br />
         ${formatSignalValue(latestEntry.signals.inference_cost)}<br /><br />
-        <span class="small">Latest record: ${latestEntry.date}</span>
+        <span class="small">Latest record: ${latestEntry.date || ""}</span>
       `;
     }
 
@@ -102,7 +103,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       historyFrontierCapability.innerHTML = `
         <strong>Frontier Capability</strong><br />
         ${formatSignalValue(latestEntry.signals.frontier_capability)}<br /><br />
-        <span class="small">Latest record: ${latestEntry.date}</span>
+        <span class="small">Latest record: ${latestEntry.date || ""}</span>
       `;
     }
 
@@ -110,7 +111,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       historyDeveloperVelocity.innerHTML = `
         <strong>Developer Velocity</strong><br />
         ${formatSignalValue(latestEntry.signals.developer_velocity)}<br /><br />
-        <span class="small">Latest record: ${latestEntry.date}</span>
+        <span class="small">Latest record: ${latestEntry.date || ""}</span>
       `;
     }
 
@@ -118,34 +119,10 @@ document.addEventListener("DOMContentLoaded", async () => {
       historyEnterpriseAdoption.innerHTML = `
         <strong>Enterprise Adoption</strong><br />
         ${formatSignalValue(latestEntry.signals.enterprise_adoption)}<br /><br />
-        <span class="small">Latest record: ${latestEntry.date}</span>
+        <span class="small">Latest record: ${latestEntry.date || ""}</span>
       `;
     }
   }
-
-  function renderAutomatedSignals(items) {
-  if (!automatedSignalFeed) return;
-
-  if (!Array.isArray(items) || items.length === 0) {
-    automatedSignalFeed.innerHTML = `
-      <div class="item">
-        <div class="item-title">No automated signals yet</div>
-        <div class="item-summary">Run the workflow or wait for the next scheduled update.</div>
-      </div>
-    `;
-    return;
-  }
-
-  automatedSignalFeed.innerHTML = items.map(item => `
-    <div class="item">
-      <div class="item-title">${item.source}: ${item.title}</div>
-      <div class="item-summary">
-        ${item.summary}<br /><br />
-        <span class="small">Category: ${item.category} | Signal: ${item.signal_type} | Score: ${item.importance_score}</span>
-      </div>
-    </div>
-  `).join("");
-}
 
   function renderTrendChart(historyData) {
     if (!chartCanvas || !Array.isArray(historyData) || historyData.length === 0) return;
@@ -154,7 +131,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       return;
     }
 
-    const labels = historyData.map(entry => entry.date);
+    const labels = historyData.map(entry => entry.date || "");
     const inferenceCost = historyData.map(entry => entry.signals?.inference_cost ?? null);
     const frontierCapability = historyData.map(entry => entry.signals?.frontier_capability ?? null);
     const developerVelocity = historyData.map(entry => entry.signals?.developer_velocity ?? null);
@@ -230,55 +207,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   }
 
-  function renderNarrativeMonitor(items) {
-  const topNarrativesBox = document.getElementById("top-narratives-box");
-  const narrativeSourceBox = document.getElementById("narrative-source-box");
-  const narrativeSummaryBox = document.getElementById("narrative-summary-box");
-
-  if (!Array.isArray(items)) return;
-
-  const narrativeCounts = {};
-  const sourceCounts = {};
-
-  items.forEach(item => {
-    const source = item.source || "Unknown";
-    sourceCounts[source] = (sourceCounts[source] || 0) + 1;
-
-    (item.narratives || []).forEach(n => {
-      narrativeCounts[n] = (narrativeCounts[n] || 0) + 1;
-    });
-  });
-
-  const sortedNarratives = Object.entries(narrativeCounts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, 5);
-
-  const sortedSources = Object.entries(sourceCounts)
-    .sort((a, b) => b[1] - a[1]);
-
-  if (topNarrativesBox) {
-    topNarrativesBox.innerHTML =
-      "<strong>Top Narratives</strong><br/><br/>" +
-      (sortedNarratives.length
-        ? sortedNarratives.map(([n, c]) => `<div class="small">${n} (${c})</div>`).join("")
-        : `<div class="small">No narratives detected.</div>`);
-  }
-
-  if (narrativeSourceBox) {
-    narrativeSourceBox.innerHTML =
-      "<strong>Source Mix</strong><br/><br/>" +
-      sortedSources.map(([s, c]) => `<div class="small">${s}: ${c}</div>`).join("");
-  }
-
-  if (narrativeSummaryBox) {
-    const strongest = sortedNarratives.length ? sortedNarratives[0][0] : "none";
-
-    narrativeSummaryBox.innerHTML =
-      "<strong>Strongest Narrative</strong><br/><br/>" +
-      `<div class="small">${strongest}</div>`;
-  }
-}
-
   function renderExecutiveAnalytics(historyData) {
     if (!Array.isArray(historyData) || historyData.length === 0) return;
 
@@ -300,20 +228,19 @@ document.addEventListener("DOMContentLoaded", async () => {
       .slice(0, 5);
 
     if (topThemesBox) {
-      topThemesBox.innerHTML = `
-        <strong>Top Recurring Themes</strong><br /><br />
-        ${sortedThemes.length > 0
+      topThemesBox.innerHTML =
+        "<strong>Top Recurring Themes</strong><br /><br />" +
+        (sortedThemes.length
           ? sortedThemes.map(([theme, count]) => `<div class="small">${theme} (${count})</div>`).join("")
-          : `<div class="small">No theme data yet.</div>`}
-      `;
+          : `<div class="small">No theme data yet.</div>`);
     }
 
     if (historyDepthBox) {
       historyDepthBox.innerHTML = `
         <strong>History Depth</strong><br /><br />
         <div class="small">Entries logged: ${historyData.length}</div>
-        <div class="small">First record: ${historyData[0].date}</div>
-        <div class="small">Latest record: ${latestEntry.date}</div>
+        <div class="small">First record: ${historyData[0].date || ""}</div>
+        <div class="small">Latest record: ${latestEntry.date || ""}</div>
       `;
     }
 
@@ -322,6 +249,89 @@ document.addEventListener("DOMContentLoaded", async () => {
         <strong>Latest Analytical Note</strong><br /><br />
         <div class="small">${latestEntry.notes || "No note available."}</div>
       `;
+    }
+  }
+
+  function renderAutomatedSignals(items) {
+    if (!automatedSignalFeed) return;
+
+    if (!Array.isArray(items) || items.length === 0) {
+      automatedSignalFeed.innerHTML = `
+        <div class="item">
+          <div class="item-title">No automated signals yet</div>
+          <div class="item-summary">Run the workflow or wait for the next scheduled update.</div>
+        </div>
+      `;
+      return;
+    }
+
+    automatedSignalFeed.innerHTML = items.map(item => `
+      <div class="item">
+        <div class="item-title">${item.source || "Unknown"}: ${item.title || ""}</div>
+        <div class="item-summary">
+          ${item.summary || ""}<br /><br />
+          <span class="small">
+            Category: ${item.category || "n/a"} |
+            Signal: ${item.signal_type || "n/a"} |
+            Score: ${item.importance_score ?? "n/a"}
+          </span>
+        </div>
+      </div>
+    `).join("");
+  }
+
+  function renderNarrativeMonitor(items) {
+    const topNarrativesBox = document.getElementById("top-narratives-box");
+    const narrativeSourceBox = document.getElementById("narrative-source-box");
+    const narrativeSummaryBox = document.getElementById("narrative-summary-box");
+
+    if (!Array.isArray(items)) return;
+
+    const narrativeCounts = {};
+    const sourceCounts = {};
+
+    items.forEach(item => {
+      const source = item.source || "Unknown";
+      sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+
+      (item.narratives || []).forEach(narrative => {
+        narrativeCounts[narrative] = (narrativeCounts[narrative] || 0) + 1;
+      });
+    });
+
+    const sortedNarratives = Object.entries(narrativeCounts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 5);
+
+    const sortedSources = Object.entries(sourceCounts)
+      .sort((a, b) => b[1] - a[1]);
+
+    if (topNarrativesBox) {
+      topNarrativesBox.innerHTML =
+        "<strong>Top Narratives</strong><br /><br />" +
+        (sortedNarratives.length
+          ? sortedNarratives.map(([name, count]) => `<div class="small">${name} (${count})</div>`).join("")
+          : `<div class="small">No narratives detected.</div>`);
+    }
+
+    if (narrativeSourceBox) {
+      narrativeSourceBox.innerHTML =
+        "<strong>Source Mix</strong><br /><br />" +
+        (sortedSources.length
+          ? sortedSources.map(([name, count]) => `<div class="small">${name}: ${count}</div>`).join("")
+          : `<div class="small">No source data yet.</div>`);
+    }
+
+    if (narrativeSummaryBox) {
+      const strongest = sortedNarratives.length ? sortedNarratives[0][0] : "none";
+
+      narrativeSummaryBox.innerHTML =
+        "<strong>Strongest Current Narrative</strong><br /><br />" +
+        `<div class="small">${
+          strongest === "none"
+            ? "No clear narrative detected yet."
+            : `The strongest current narrative is <strong>${strongest}</strong>.`
+        }</div>`;
     }
   }
 
@@ -356,16 +366,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Failed to load history data:", error);
   }
 
-try {
-  const eventsResponse = await fetch("./data/events.json");
-  const eventsData = await eventsResponse.json();
+  try {
+    const eventsResponse = await fetch("./data/events.json");
+    const eventsData = await eventsResponse.json();
 
-  if (Array.isArray(eventsData)) {
-    renderAutomatedSignals(eventsData);
-    renderNarrativeMonitor(eventsData);
+    if (Array.isArray(eventsData)) {
+      renderAutomatedSignals(eventsData);
+      renderNarrativeMonitor(eventsData);
+    }
+  } catch (error) {
+    console.error("Failed to load automated signal feed:", error);
   }
-
-} catch (error) {
-  console.error("Failed to load automated signal feed:", error);
-}
 });
