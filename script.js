@@ -230,7 +230,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   }
 
-  function renderNarrativeMonitor(items) {
+  function renderNarrativeMonitor(eventsData); {
   const topNarrativesBox = document.getElementById("top-narratives-box");
   const narrativeSourceBox = document.getElementById("narrative-source-box");
   const narrativeSummaryBox = document.getElementById("narrative-summary-box");
@@ -348,8 +348,10 @@ document.addEventListener("DOMContentLoaded", async () => {
  try {
   const eventsResponse = await fetch("./data/events.json");
   const eventsData = await eventsResponse.json();
+   
   renderAutomatedSignals(eventsData);
   renderNarrativeMonitor(eventsData);
+   
 } catch (error) {
   console.error("Failed to load automated signal feed:", error);
 }
