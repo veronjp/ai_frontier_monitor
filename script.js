@@ -11,6 +11,10 @@ document.addEventListener("DOMContentLoaded", async () => {
   const layersContainer = document.getElementById("layers-container");
   const automatedSignalFeed = document.getElementById("automated-signal-feed");
 
+  const topNarrativesBox = document.getElementById("top-narratives-box");
+  const narrativeSourceBox = document.getElementById("narrative-source-box");
+  const narrativeSummaryBox = document.getElementById("narrative-summary-box");
+
   const historyInferenceCost = document.getElementById("history-inference-cost");
   const historyFrontierCapability = document.getElementById("history-frontier-capability");
   const historyDeveloperVelocity = document.getElementById("history-developer-velocity");
@@ -226,6 +230,57 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   }
 
+  function renderNarrativeMonitor(items) {
+  if (!Array.isArray(items) || items.length === 0) return;
+
+  const narrativeCounts = {};
+  const sourceCounts = {};
+
+  items.forEach(item => {
+    const source = item.source || "Unknown";
+    sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+
+    (item.narratives || []).forEach(narrative => {
+      narrativeCounts[narrative] = (narrativeCounts[narrative] || 0) + 1;
+    });
+  });
+
+  const sortedNarratives = Object.entries(narrativeCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5);
+
+  const sortedSources = Object.entries(sourceCounts)
+    .sort((a, b) => b[1] - a[1]);
+
+  if (topNarrativesBox) {
+    topNarrativesBox.innerHTML = `
+      <strong>Top Narratives</strong><br /><br />
+      ${sortedNarratives.length > 0
+        ? sortedNarratives.map(([name, count]) => `<div class="small">${name} (${count})</div>`).join("")
+        : `<div class="small">No narratives detected yet.</div>`}
+    `;
+  }
+
+  if (narrativeSourceBox) {
+    narrativeSourceBox.innerHTML = `
+      <strong>Source Mix</strong><br /><br />
+      ${sortedSources.map(([name, count]) => `<div class="small">${name}: ${count}</div>`).join("")}
+    `;
+  }
+
+  if (narrativeSummaryBox) {
+    const strongest = sortedNarratives.length > 0 ? sortedNarratives[0][0] : "none";
+    narrativeSummaryBox.innerHTML = `
+      <strong>Strongest Current Narrative</strong><br /><br />
+      <div class="small">
+        ${strongest === "none"
+          ? "No clear narrative detected yet."
+          : `The strongest current narrative is <strong>${strongest}</strong>, based on the latest automated signal set.`}
+      </div>
+    `;
+  }
+}
+
   function renderExecutiveAnalytics(historyData) {
     if (!Array.isArray(historyData) || historyData.length === 0) return;
 
@@ -303,11 +358,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Failed to load history data:", error);
   }
 
-    try {
-    const eventsResponse = await fetch("./data/events.json");
-    const eventsData = await eventsResponse.json();
-    renderAutomatedSignals(eventsData);
-  } catch (error) {
-    console.error("Failed to load automated signal feed:", error);
-  }
+ try {
+  const eventsResponse = await fetch("./data/events.json");
+  const eventsData = await eventsResponse.json();
+  renderAutomatedSignals(eventsData);
+  renderNarrativeMonitor(eventsData);
+} catch (error) {
+  console.error("Failed to load automated signal feed:", error);
+}
 });
