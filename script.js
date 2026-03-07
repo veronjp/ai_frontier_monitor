@@ -231,7 +231,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function renderNarrativeMonitor(items) {
-  if (!Array.isArray(items) || items.length === 0) return;
+  if (!Array.isArray(items)) return;
 
   const narrativeCounts = {};
   const sourceCounts = {};
@@ -253,13 +253,18 @@ document.addEventListener("DOMContentLoaded", async () => {
     .sort((a, b) => b[1] - a[1]);
 
   if (topNarrativesBox) {
+    if (sortedNarratives.length === 0) {
+      topNarrativesBox.innerHTML = `
+        <strong>Top Narratives</strong><br /><br />
+        <div class="small">No narratives detected in current signal set.</div>
+    `;
+  } else {
     topNarrativesBox.innerHTML = `
       <strong>Top Narratives</strong><br /><br />
-      ${sortedNarratives.length > 0
-        ? sortedNarratives.map(([name, count]) => `<div class="small">${name} (${count})</div>`).join("")
-        : `<div class="small">No narratives detected yet.</div>`}
+      ${sortedNarratives.map(([name, count]) => `<div class="small">${name} (${count})</div>`).join("")}
     `;
   }
+}
 
   if (narrativeSourceBox) {
     narrativeSourceBox.innerHTML = `
