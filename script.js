@@ -230,41 +230,52 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   }
 
-  function renderNarrativeMonitor(eventsData); {
+  function renderNarrativeMonitor(items) {
   const topNarrativesBox = document.getElementById("top-narratives-box");
   const narrativeSourceBox = document.getElementById("narrative-source-box");
   const narrativeSummaryBox = document.getElementById("narrative-summary-box");
 
+  if (!Array.isArray(items)) return;
+
+  const narrativeCounts = {};
+  const sourceCounts = {};
+
+  items.forEach(item => {
+    const source = item.source || "Unknown";
+    sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+
+    (item.narratives || []).forEach(n => {
+      narrativeCounts[n] = (narrativeCounts[n] || 0) + 1;
+    });
+  });
+
+  const sortedNarratives = Object.entries(narrativeCounts)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 5);
+
+  const sortedSources = Object.entries(sourceCounts)
+    .sort((a, b) => b[1] - a[1]);
+
   if (topNarrativesBox) {
-    topNarrativesBox.innerHTML = `<strong>Test OK</strong><br /><br /><div class="small">Narrative function is running.</div>`;
+    topNarrativesBox.innerHTML =
+      "<strong>Top Narratives</strong><br/><br/>" +
+      (sortedNarratives.length
+        ? sortedNarratives.map(([n, c]) => `<div class="small">${n} (${c})</div>`).join("")
+        : `<div class="small">No narratives detected.</div>`);
   }
 
   if (narrativeSourceBox) {
-    narrativeSourceBox.innerHTML = `<strong>Test OK</strong><br /><br /><div class="small">Source box is connected.</div>`;
+    narrativeSourceBox.innerHTML =
+      "<strong>Source Mix</strong><br/><br/>" +
+      sortedSources.map(([s, c]) => `<div class="small">${s}: ${c}</div>`).join("");
   }
 
   if (narrativeSummaryBox) {
-    narrativeSummaryBox.innerHTML = `<strong>Test OK</strong><br /><br /><div class="small">Summary box is connected.</div>`;
-  }
-}
+    const strongest = sortedNarratives.length ? sortedNarratives[0][0] : "none";
 
-  if (narrativeSourceBox) {
-    narrativeSourceBox.innerHTML = `
-      <strong>Source Mix</strong><br /><br />
-      ${sortedSources.map(([name, count]) => `<div class="small">${name}: ${count}</div>`).join("")}
-    `;
-  }
-
-  if (narrativeSummaryBox) {
-    const strongest = sortedNarratives.length > 0 ? sortedNarratives[0][0] : "none";
-    narrativeSummaryBox.innerHTML = `
-      <strong>Strongest Current Narrative</strong><br /><br />
-      <div class="small">
-        ${strongest === "none"
-          ? "No clear narrative detected yet."
-          : `The strongest current narrative is <strong>${strongest}</strong>, based on the latest automated signal set.`}
-      </div>
-    `;
+    narrativeSummaryBox.innerHTML =
+      "<strong>Strongest Narrative</strong><br/><br/>" +
+      `<div class="small">${strongest}</div>`;
   }
 }
 
@@ -345,13 +356,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Failed to load history data:", error);
   }
 
- try {
+try {
   const eventsResponse = await fetch("./data/events.json");
   const eventsData = await eventsResponse.json();
-   
-  renderAutomatedSignals(eventsData);
-  renderNarrativeMonitor(eventsData);
-   
+
+  if (Array.isArray(eventsData)) {
+    renderAutomatedSignals(eventsData);
+    renderNarrativeMonitor(eventsData);
+  }
+
 } catch (error) {
   console.error("Failed to load automated signal feed:", error);
 }
