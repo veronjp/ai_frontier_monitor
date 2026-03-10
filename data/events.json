@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-09T20:38:43.999022+00:00",
+    "published_at": "2026-03-10T20:38:23.551118+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 289520,
+    "importance_score": 297917,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-09T20:38:43.999061+00:00",
+    "published_at": "2026-03-10T20:38:23.551173+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182307,
+    "importance_score": 182336,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-09T20:38:43.999075+00:00",
+    "published_at": "2026-03-10T20:38:23.551193+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 178334,
+    "importance_score": 178540,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-09T20:38:43.999085+00:00",
+    "published_at": "2026-03-10T20:38:23.551212+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 161614,
+    "importance_score": 161654,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-09T20:38:43.999094+00:00",
+    "published_at": "2026-03-10T20:38:23.551227+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 151142,
+    "importance_score": 151325,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,38 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Improving instruction hierarchy in frontier LLMs",
+    "url": "https://openai.com/index/instruction-hierarchy-challenge",
+    "published_at": "Tue, 10 Mar 2026 11:00:00 GMT",
+    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "New ways to learn math and science in ChatGPT",
+    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+    "published_at": "Tue, 10 Mar 2026 10:00:00 GMT",
+    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -136,48 +168,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Balyasny Asset Management built an AI research engine for investing",
-    "url": "https://openai.com/index/balyasny-asset-management",
-    "published_at": "Fri, 06 Mar 2026 07:00:00 GMT",
-    "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "GPT-5.4 Thinking System Card",
-    "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-    "published_at": "Thu, 05 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI update.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-09T20:38:44.773544+00:00",
-    "summary": "Trending model with 200187461 downloads.",
+    "published_at": "2026-03-10T20:38:24.223965+00:00",
+    "summary": "Trending model with 202130878 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 200187461,
+    "importance_score": 202130878,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-09T20:38:44.773569+00:00",
-    "summary": "Trending model with 67112469 downloads.",
+    "published_at": "2026-03-10T20:38:24.223994+00:00",
+    "summary": "Trending model with 68133004 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 67112469,
+    "importance_score": 68133004,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-09T20:38:44.773579+00:00",
-    "summary": "Trending model with 48435237 downloads.",
+    "published_at": "2026-03-10T20:38:24.224008+00:00",
+    "summary": "Trending model with 48598806 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48435237,
+    "importance_score": 48598806,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-09T20:38:44.773588+00:00",
-    "summary": "Trending model with 41654388 downloads.",
+    "published_at": "2026-03-10T20:38:24.224020+00:00",
+    "summary": "Trending model with 41928714 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41654388,
+    "importance_score": 41928714,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-09T20:38:44.773597+00:00",
-    "summary": "Trending model with 27494556 downloads.",
+    "published_at": "2026-03-10T20:38:24.224031+00:00",
+    "summary": "Trending model with 28229272 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 27494556,
+    "importance_score": 28229272,
     "theme_tags": [
       "models",
       "open-source",
