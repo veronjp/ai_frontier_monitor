@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-10T20:38:23.551118+00:00",
+    "published_at": "2026-03-11T20:37:45.922201+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 297917,
+    "importance_score": 303613,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-10T20:38:23.551173+00:00",
+    "published_at": "2026-03-11T20:37:45.922243+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182336,
+    "importance_score": 182362,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-10T20:38:23.551193+00:00",
+    "published_at": "2026-03-11T20:37:45.922259+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 178540,
+    "importance_score": 178708,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-10T20:38:23.551212+00:00",
+    "published_at": "2026-03-11T20:37:45.922272+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 161654,
+    "importance_score": 161675,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-10T20:38:23.551227+00:00",
+    "published_at": "2026-03-11T20:37:45.922282+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 151325,
+    "importance_score": 151464,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,77 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Rakuten fixes issues twice as fast with Codex",
+    "url": "https://openai.com/index/rakuten",
+    "published_at": "Wed, 11 Mar 2026 13:00:00 GMT",
+    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Designing AI agents to resist prompt injection",
+    "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+    "published_at": "Wed, 11 Mar 2026 11:30:00 GMT",
+    "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "From model to agent: Equipping the Responses API with a computer environment",
+    "url": "https://openai.com/index/equip-responses-api-computer-environment",
+    "published_at": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+    "url": "https://openai.com/index/wayfair",
+    "published_at": "Wed, 11 Mar 2026 11:00:00 GMT",
+    "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -100,82 +171,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "New ways to learn math and science in ChatGPT",
-    "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
-    "published_at": "Tue, 10 Mar 2026 10:00:00 GMT",
-    "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI to acquire Promptfoo",
-    "url": "https://openai.com/index/openai-to-acquire-promptfoo",
-    "published_at": "Mon, 09 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Descript enables multilingual video dubbing at scale",
-    "url": "https://openai.com/index/descript",
-    "published_at": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Codex Security: now in research preview",
-    "url": "https://openai.com/index/codex-security-now-in-research-preview",
-    "published_at": "Fri, 06 Mar 2026 10:00:00 GMT",
-    "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-10T20:38:24.223965+00:00",
-    "summary": "Trending model with 202130878 downloads.",
+    "published_at": "2026-03-11T20:37:46.701300+00:00",
+    "summary": "Trending model with 203633600 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 202130878,
+    "importance_score": 203633600,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-10T20:38:24.223994+00:00",
-    "summary": "Trending model with 68133004 downloads.",
+    "published_at": "2026-03-11T20:37:46.701329+00:00",
+    "summary": "Trending model with 68879514 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 68133004,
+    "importance_score": 68879514,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-10T20:38:24.224008+00:00",
-    "summary": "Trending model with 48598806 downloads.",
+    "published_at": "2026-03-11T20:37:46.701341+00:00",
+    "summary": "Trending model with 49706634 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48598806,
+    "importance_score": 49706634,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-10T20:38:24.224020+00:00",
-    "summary": "Trending model with 41928714 downloads.",
+    "published_at": "2026-03-11T20:37:46.701352+00:00",
+    "summary": "Trending model with 42119374 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41928714,
+    "importance_score": 42119374,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-10T20:38:24.224031+00:00",
-    "summary": "Trending model with 28229272 downloads.",
+    "published_at": "2026-03-11T20:37:46.701363+00:00",
+    "summary": "Trending model with 28352227 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28229272,
+    "importance_score": 28352227,
     "theme_tags": [
       "models",
       "open-source",
