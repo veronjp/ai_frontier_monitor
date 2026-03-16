@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-15T20:34:21.883400+00:00",
+    "published_at": "2026-03-16T20:41:44.469402+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 314781,
+    "importance_score": 317238,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-15T20:34:21.883468+00:00",
+    "published_at": "2026-03-16T20:41:44.469439+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182493,
+    "importance_score": 182519,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-15T20:34:21.883485+00:00",
+    "published_at": "2026-03-16T20:41:44.469455+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 179285,
+    "importance_score": 179443,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-15T20:34:21.883499+00:00",
+    "published_at": "2026-03-16T20:41:44.469468+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 161767,
+    "importance_score": 161812,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-15T20:34:21.883509+00:00",
+    "published_at": "2026-03-16T20:41:44.469476+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 152679,
+    "importance_score": 152870,
     "theme_tags": [
       "open-source",
       "ai",
@@ -81,6 +81,24 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Why Codex Security Doesn’t Include a SAST Report",
+    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+    "published_at": "Mon, 16 Mar 2026 00:00:00 GMT",
+    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "reasoning"
     ]
   },
   {
@@ -155,30 +173,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Improving instruction hierarchy in frontier LLMs",
-    "url": "https://openai.com/index/instruction-hierarchy-challenge",
-    "published_at": "Tue, 10 Mar 2026 11:00:00 GMT",
-    "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-15T20:34:22.764667+00:00",
-    "summary": "Trending model with 205055121 downloads.",
+    "published_at": "2026-03-16T20:41:45.431456+00:00",
+    "summary": "Trending model with 205347835 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 205055121,
+    "importance_score": 205347835,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +193,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-15T20:34:22.764693+00:00",
-    "summary": "Trending model with 69145651 downloads.",
+    "published_at": "2026-03-16T20:41:45.431475+00:00",
+    "summary": "Trending model with 69658209 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69145651,
+    "importance_score": 69658209,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +209,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-15T20:34:22.764707+00:00",
-    "summary": "Trending model with 51174546 downloads.",
+    "published_at": "2026-03-16T20:41:45.431485+00:00",
+    "summary": "Trending model with 50275460 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51174546,
+    "importance_score": 50275460,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +225,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-15T20:34:22.764719+00:00",
-    "summary": "Trending model with 41775237 downloads.",
+    "published_at": "2026-03-16T20:41:45.431494+00:00",
+    "summary": "Trending model with 41767951 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41775237,
+    "importance_score": 41767951,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +241,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-15T20:34:22.764730+00:00",
-    "summary": "Trending model with 28446166 downloads.",
+    "published_at": "2026-03-16T20:41:45.431503+00:00",
+    "summary": "Trending model with 28400147 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28446166,
+    "importance_score": 28400147,
     "theme_tags": [
       "models",
       "open-source",
