@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-18T20:41:07.999971+00:00",
+    "published_at": "2026-03-19T20:41:56.561483+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 322768,
+    "importance_score": 325064,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-18T20:41:08.000013+00:00",
+    "published_at": "2026-03-19T20:41:56.561515+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182581,
+    "importance_score": 182615,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-18T20:41:08.000034+00:00",
+    "published_at": "2026-03-19T20:41:56.561529+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 179835,
+    "importance_score": 180034,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-18T20:41:08.000047+00:00",
+    "published_at": "2026-03-19T20:41:56.561544+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 161842,
+    "importance_score": 161874,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-18T20:41:08.000055+00:00",
+    "published_at": "2026-03-19T20:41:56.561552+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 153204,
+    "importance_score": 153343,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,58 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How we monitor internal coding agents for misalignment",
+    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+    "published_at": "Thu, 19 Mar 2026 10:00:00 GMT",
+    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "reasoning",
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI to acquire Astral",
+    "url": "https://openai.com/index/openai-to-acquire-astral",
+    "published_at": "Thu, 19 Mar 2026 00:00:00 GMT",
+    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+    "url": "https://openai.com/index/japan-teen-safety-blueprint",
+    "published_at": "Tue, 17 Mar 2026 10:00:00 GMT",
+    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -105,22 +157,6 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "published_at": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
     "title": "Equipping workers with insights about compensation",
     "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
     "published_at": "Tue, 17 Mar 2026 00:00:00 GMT",
@@ -135,50 +171,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Why Codex Security Doesn’t Include a SAST Report",
-    "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
-    "published_at": "Mon, 16 Mar 2026 00:00:00 GMT",
-    "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Rakuten fixes issues twice as fast with Codex",
-    "url": "https://openai.com/index/rakuten",
-    "published_at": "Wed, 11 Mar 2026 13:00:00 GMT",
-    "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-18T20:41:08.764181+00:00",
-    "summary": "Trending model with 207727584 downloads.",
+    "published_at": "2026-03-19T20:41:57.469477+00:00",
+    "summary": "Trending model with 208907215 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 207727584,
+    "importance_score": 208907215,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-18T20:41:08.764207+00:00",
-    "summary": "Trending model with 71053483 downloads.",
+    "published_at": "2026-03-19T20:41:57.469495+00:00",
+    "summary": "Trending model with 71898897 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 71053483,
+    "importance_score": 71898897,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-18T20:41:08.764217+00:00",
-    "summary": "Trending model with 51108322 downloads.",
+    "published_at": "2026-03-19T20:41:57.469504+00:00",
+    "summary": "Trending model with 51345120 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51108322,
+    "importance_score": 51345120,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-18T20:41:08.764226+00:00",
-    "summary": "Trending model with 41938876 downloads.",
+    "published_at": "2026-03-19T20:41:57.469513+00:00",
+    "summary": "Trending model with 42158915 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41938876,
+    "importance_score": 42158915,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-18T20:41:08.764235+00:00",
-    "summary": "Trending model with 28547636 downloads.",
+    "published_at": "2026-03-19T20:41:57.469521+00:00",
+    "summary": "Trending model with 28604821 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28547636,
+    "importance_score": 28604821,
     "theme_tags": [
       "models",
       "open-source",
