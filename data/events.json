@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-22T20:32:43.320500+00:00",
+    "published_at": "2026-03-23T20:44:19.997804+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 330070,
+    "importance_score": 332130,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-22T20:32:43.320538+00:00",
+    "published_at": "2026-03-23T20:44:19.997843+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182708,
+    "importance_score": 182761,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-22T20:32:43.320551+00:00",
+    "published_at": "2026-03-23T20:44:19.997860+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 180515,
+    "importance_score": 180694,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-22T20:32:43.320567+00:00",
+    "published_at": "2026-03-23T20:44:19.997872+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 161942,
+    "importance_score": 161976,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-22T20:32:43.320575+00:00",
+    "published_at": "2026-03-23T20:44:19.997881+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 153826,
+    "importance_score": 154012,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,22 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Creating with Sora Safely",
+    "url": "https://openai.com/index/creating-with-sora-safely",
+    "published_at": "Mon, 23 Mar 2026 00:00:00 GMT",
+    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -155,30 +171,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Equipping workers with insights about compensation",
-    "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
-    "published_at": "Tue, 17 Mar 2026 00:00:00 GMT",
-    "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-22T20:32:44.230495+00:00",
-    "summary": "Trending model with 207265061 downloads.",
+    "published_at": "2026-03-23T20:44:20.840213+00:00",
+    "summary": "Trending model with 206317527 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 207265061,
+    "importance_score": 206317527,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-22T20:32:44.230520+00:00",
-    "summary": "Trending model with 72555594 downloads.",
+    "published_at": "2026-03-23T20:44:20.840233+00:00",
+    "summary": "Trending model with 72165979 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 72555594,
+    "importance_score": 72165979,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-22T20:32:44.230533+00:00",
-    "summary": "Trending model with 50941860 downloads.",
+    "published_at": "2026-03-23T20:44:20.840243+00:00",
+    "summary": "Trending model with 51103849 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50941860,
+    "importance_score": 51103849,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-22T20:32:44.230543+00:00",
-    "summary": "Trending model with 41406084 downloads.",
+    "published_at": "2026-03-23T20:44:20.840252+00:00",
+    "summary": "Trending model with 41256659 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41406084,
+    "importance_score": 41256659,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-22T20:32:44.230553+00:00",
-    "summary": "Trending model with 28310284 downloads.",
+    "published_at": "2026-03-23T20:44:20.840260+00:00",
+    "summary": "Trending model with 28036141 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28310284,
+    "importance_score": 28036141,
     "theme_tags": [
       "models",
       "open-source",
