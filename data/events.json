@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-23T20:44:19.997804+00:00",
+    "published_at": "2026-03-24T20:45:54.081933+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 332130,
+    "importance_score": 334254,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-23T20:44:19.997843+00:00",
+    "published_at": "2026-03-24T20:45:54.081964+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182761,
+    "importance_score": 182784,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-23T20:44:19.997860+00:00",
+    "published_at": "2026-03-24T20:45:54.081977+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 180694,
+    "importance_score": 180864,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,7 +54,7 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-23T20:44:19.997872+00:00",
+    "published_at": "2026-03-24T20:45:54.081993+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
     "importance_score": 161976,
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-23T20:44:19.997881+00:00",
+    "published_at": "2026-03-24T20:45:54.082002+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 154012,
+    "importance_score": 154140,
     "theme_tags": [
       "open-source",
       "ai",
@@ -81,6 +81,58 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Helping developers build safer AI experiences for teens",
+    "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+    "published_at": "Tue, 24 Mar 2026 11:00:00 GMT",
+    "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Update on the OpenAI Foundation",
+    "url": "https://openai.com/index/update-on-the-openai-foundation",
+    "published_at": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Powering product discovery in ChatGPT",
+    "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+    "published_at": "Tue, 24 Mar 2026 09:00:00 GMT",
+    "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
     ]
   },
   {
@@ -120,65 +172,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI to acquire Astral",
-    "url": "https://openai.com/index/openai-to-acquire-astral",
-    "published_at": "Thu, 19 Mar 2026 00:00:00 GMT",
-    "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing GPT-5.4 mini and nano",
-    "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-    "published_at": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-    "url": "https://openai.com/index/japan-teen-safety-blueprint",
-    "published_at": "Tue, 17 Mar 2026 10:00:00 GMT",
-    "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-23T20:44:20.840213+00:00",
-    "summary": "Trending model with 206317527 downloads.",
+    "published_at": "2026-03-24T20:45:54.921336+00:00",
+    "summary": "Trending model with 207080182 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 206317527,
+    "importance_score": 207080182,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-23T20:44:20.840233+00:00",
-    "summary": "Trending model with 72165979 downloads.",
+    "published_at": "2026-03-24T20:45:54.921359+00:00",
+    "summary": "Trending model with 72635793 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 72165979,
+    "importance_score": 72635793,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-23T20:44:20.840243+00:00",
-    "summary": "Trending model with 51103849 downloads.",
+    "published_at": "2026-03-24T20:45:54.921371+00:00",
+    "summary": "Trending model with 50652054 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51103849,
+    "importance_score": 50652054,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-23T20:44:20.840252+00:00",
-    "summary": "Trending model with 41256659 downloads.",
+    "published_at": "2026-03-24T20:45:54.921380+00:00",
+    "summary": "Trending model with 41264876 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41256659,
+    "importance_score": 41264876,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-23T20:44:20.840260+00:00",
-    "summary": "Trending model with 28036141 downloads.",
+    "published_at": "2026-03-24T20:45:54.921388+00:00",
+    "summary": "Trending model with 28127629 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28036141,
+    "importance_score": 28127629,
     "theme_tags": [
       "models",
       "open-source",
