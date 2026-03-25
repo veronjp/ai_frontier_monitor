@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-03-24T20:45:54.081933+00:00",
+    "published_at": "2026-03-25T20:42:42.095956+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 334254,
+    "importance_score": 335808,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-03-24T20:45:54.081964+00:00",
+    "published_at": "2026-03-25T20:42:42.095994+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 182784,
+    "importance_score": 182826,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-03-24T20:45:54.081977+00:00",
+    "published_at": "2026-03-25T20:42:42.096007+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 180864,
+    "importance_score": 181052,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-03-24T20:45:54.081993+00:00",
+    "published_at": "2026-03-25T20:42:42.096023+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 161976,
+    "importance_score": 161990,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-03-24T20:45:54.082002+00:00",
+    "published_at": "2026-03-25T20:42:42.096032+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 154140,
+    "importance_score": 154228,
     "theme_tags": [
       "open-source",
       "ai",
@@ -81,6 +81,40 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Inside our approach to the Model Spec",
+    "url": "https://openai.com/index/our-approach-to-the-model-spec",
+    "published_at": "Wed, 25 Mar 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing the OpenAI Safety Bug Bounty program",
+    "url": "https://openai.com/index/safety-bug-bounty",
+    "published_at": "Wed, 25 Mar 2026 00:00:00 GMT",
+    "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
     ]
   },
   {
@@ -136,50 +170,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Creating with Sora Safely",
-    "url": "https://openai.com/index/creating-with-sora-safely",
-    "published_at": "Mon, 23 Mar 2026 00:00:00 GMT",
-    "summary": "To address the novel safety challenges posed by a state-of-the-art video model as well as a new social creation platform, we’ve built Sora 2 and the Sora app with safety at the foundation. Our approac",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How we monitor internal coding agents for misalignment",
-    "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
-    "published_at": "Thu, 19 Mar 2026 10:00:00 GMT",
-    "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "reasoning",
-      "infrastructure"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-03-24T20:45:54.921336+00:00",
-    "summary": "Trending model with 207080182 downloads.",
+    "published_at": "2026-03-25T20:42:42.939268+00:00",
+    "summary": "Trending model with 206994378 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 207080182,
+    "importance_score": 206994378,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-03-24T20:45:54.921359+00:00",
-    "summary": "Trending model with 72635793 downloads.",
+    "published_at": "2026-03-25T20:42:42.939292+00:00",
+    "summary": "Trending model with 72315930 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 72635793,
+    "importance_score": 72315930,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-03-24T20:45:54.921371+00:00",
-    "summary": "Trending model with 50652054 downloads.",
+    "published_at": "2026-03-25T20:42:42.939304+00:00",
+    "summary": "Trending model with 50904691 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50652054,
+    "importance_score": 50904691,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-03-24T20:45:54.921380+00:00",
-    "summary": "Trending model with 41264876 downloads.",
+    "published_at": "2026-03-25T20:42:42.939315+00:00",
+    "summary": "Trending model with 41155377 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41264876,
+    "importance_score": 41155377,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-03-24T20:45:54.921388+00:00",
-    "summary": "Trending model with 28127629 downloads.",
+    "published_at": "2026-03-25T20:42:42.939326+00:00",
+    "summary": "Trending model with 28344265 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28127629,
+    "importance_score": 28344265,
     "theme_tags": [
       "models",
       "open-source",
