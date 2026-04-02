@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-04-01T20:50:06.800268+00:00",
+    "published_at": "2026-04-02T20:39:04.865419+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 344484,
+    "importance_score": 345936,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-04-01T20:50:06.800305+00:00",
+    "published_at": "2026-04-02T20:39:04.865459+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 183027,
+    "importance_score": 183068,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-04-01T20:50:06.800316+00:00",
+    "published_at": "2026-04-02T20:39:04.865475+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 182044,
+    "importance_score": 182207,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-04-01T20:50:06.800329+00:00",
+    "published_at": "2026-04-02T20:39:04.865487+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162074,
+    "importance_score": 162099,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-04-01T20:50:06.800335+00:00",
+    "published_at": "2026-04-02T20:39:04.865495+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 155904,
+    "importance_score": 156714,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,38 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI acquires TBPN",
+    "url": "https://openai.com/index/openai-acquires-tbpn",
+    "published_at": "Thu, 02 Apr 2026 10:30:00 GMT",
+    "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Codex now offers more flexible pricing for teams",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "published_at": "Thu, 02 Apr 2026 10:00:00 GMT",
+    "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -137,48 +169,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "url": "https://openai.com/index/stadler",
-    "published_at": "Fri, 27 Mar 2026 22:00:00 GMT",
-    "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Inside our approach to the Model Spec",
-    "url": "https://openai.com/index/our-approach-to-the-model-spec",
-    "published_at": "Wed, 25 Mar 2026 10:00:00 GMT",
-    "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-04-01T20:50:07.426500+00:00",
-    "summary": "Trending model with 200932461 downloads.",
+    "published_at": "2026-04-02T20:39:05.652885+00:00",
+    "summary": "Trending model with 200411800 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 200932461,
+    "importance_score": 200411800,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-04-01T20:50:07.426525+00:00",
-    "summary": "Trending model with 70778597 downloads.",
+    "published_at": "2026-04-02T20:39:05.652911+00:00",
+    "summary": "Trending model with 71391068 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 70778597,
+    "importance_score": 71391068,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +205,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-04-01T20:50:07.426533+00:00",
-    "summary": "Trending model with 49420661 downloads.",
+    "published_at": "2026-04-02T20:39:05.652923+00:00",
+    "summary": "Trending model with 49309333 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 49420661,
+    "importance_score": 49309333,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +221,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-04-01T20:50:07.426541+00:00",
-    "summary": "Trending model with 40117533 downloads.",
+    "published_at": "2026-04-02T20:39:05.652934+00:00",
+    "summary": "Trending model with 40009827 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 40117533,
+    "importance_score": 40009827,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +237,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-04-01T20:50:07.426548+00:00",
-    "summary": "Trending model with 28727656 downloads.",
+    "published_at": "2026-04-02T20:39:05.652945+00:00",
+    "summary": "Trending model with 28948794 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 28727656,
+    "importance_score": 28948794,
     "theme_tags": [
       "models",
       "open-source",
