@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-04-11T20:37:54.479389+00:00",
+    "published_at": "2026-04-12T20:40:35.316284+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 354859,
+    "importance_score": 355632,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-04-11T20:37:54.479423+00:00",
+    "published_at": "2026-04-12T20:40:35.316323+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 183592,
+    "importance_score": 183731,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-04-11T20:37:54.479436+00:00",
+    "published_at": "2026-04-12T20:40:35.316336+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 183320,
+    "importance_score": 183349,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-04-11T20:37:54.479449+00:00",
+    "published_at": "2026-04-12T20:40:35.316349+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162312,
+    "importance_score": 162328,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-04-11T20:37:54.479457+00:00",
+    "published_at": "2026-04-12T20:40:35.316357+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 159308,
+    "importance_score": 159449,
     "theme_tags": [
       "open-source",
       "ai",
@@ -86,58 +86,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Healthcare",
-    "url": "https://openai.com/academy/healthcare",
+    "title": "Using projects in ChatGPT",
+    "url": "https://openai.com/academy/projects",
     "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Using skills",
-    "url": "https://openai.com/academy/skills",
-    "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Analyzing data with ChatGPT",
-    "url": "https://openai.com/academy/data-analysis",
-    "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Writing with ChatGPT",
-    "url": "https://openai.com/academy/writing",
-    "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+    "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -164,14 +116,64 @@
     "narratives": []
   },
   {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our response to the Axios developer tool compromise",
+    "url": "https://openai.com/index/axios-developer-tool-compromise",
+    "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Using custom GPTs",
+    "url": "https://openai.com/academy/custom-gpts",
+    "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "copilots"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Analyzing data with ChatGPT",
+    "url": "https://openai.com/academy/data-analysis",
+    "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-04-11T20:37:55.313507+00:00",
-    "summary": "Trending model with 195486590 downloads.",
+    "published_at": "2026-04-12T20:40:36.149636+00:00",
+    "summary": "Trending model with 195533068 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 195486590,
+    "importance_score": 195533068,
     "theme_tags": [
       "models",
       "open-source",
@@ -184,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-04-11T20:37:55.313532+00:00",
-    "summary": "Trending model with 66735744 downloads.",
+    "published_at": "2026-04-12T20:40:36.149663+00:00",
+    "summary": "Trending model with 65056218 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66735744,
+    "importance_score": 65056218,
     "theme_tags": [
       "models",
       "open-source",
@@ -200,10 +202,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-04-11T20:37:55.313545+00:00",
-    "summary": "Trending model with 48673892 downloads.",
+    "published_at": "2026-04-12T20:40:36.149675+00:00",
+    "summary": "Trending model with 48286098 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48673892,
+    "importance_score": 48286098,
     "theme_tags": [
       "models",
       "open-source",
@@ -216,10 +218,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-04-11T20:37:55.313555+00:00",
-    "summary": "Trending model with 37915338 downloads.",
+    "published_at": "2026-04-12T20:40:36.149687+00:00",
+    "summary": "Trending model with 37639677 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 37915338,
+    "importance_score": 37639677,
     "theme_tags": [
       "models",
       "open-source",
@@ -232,10 +234,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-mpnet-base-v2",
     "url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
-    "published_at": "2026-04-11T20:37:55.313566+00:00",
-    "summary": "Trending model with 30081204 downloads.",
+    "published_at": "2026-04-12T20:40:36.149697+00:00",
+    "summary": "Trending model with 30240804 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 30081204,
+    "importance_score": 30240804,
     "theme_tags": [
       "models",
       "open-source",
