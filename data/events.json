@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-04-19T20:42:00.978394+00:00",
+    "published_at": "2026-04-20T20:52:22.055189+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 360531,
+    "importance_score": 361161,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-04-19T20:42:00.978425+00:00",
+    "published_at": "2026-04-20T20:52:22.055229+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 184727,
+    "importance_score": 184877,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-04-19T20:42:00.978438+00:00",
+    "published_at": "2026-04-20T20:52:22.055242+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 183567,
+    "importance_score": 183611,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-04-19T20:42:00.978450+00:00",
+    "published_at": "2026-04-20T20:52:22.055255+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162470,
+    "importance_score": 162496,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,14 +70,32 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-04-19T20:42:00.978458+00:00",
+    "published_at": "2026-04-20T20:52:22.055264+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 160112,
+    "importance_score": 160207,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "published_at": "Mon, 20 Apr 2026 00:00:00 GMT",
+    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": [
       "open-source"
@@ -153,46 +171,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Trusted access for the next era of cyber defense",
-    "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-    "published_at": "Tue, 14 Apr 2026 00:00:00 GMT",
-    "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-04-19T20:42:01.812616+00:00",
-    "summary": "Trending model with 202457760 downloads.",
+    "published_at": "2026-04-20T20:52:22.971650+00:00",
+    "summary": "Trending model with 203915902 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 202457760,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
-    "title": "google-bert/bert-base-uncased",
-    "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-04-19T20:42:01.812666+00:00",
-    "summary": "Trending model with 61107059 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 61107059,
+    "importance_score": 203915902,
     "theme_tags": [
       "models",
       "open-source",
@@ -205,10 +191,26 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-04-19T20:42:01.812682+00:00",
-    "summary": "Trending model with 51737575 downloads.",
+    "published_at": "2026-04-20T20:52:22.971678+00:00",
+    "summary": "Trending model with 64924584 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51737575,
+    "importance_score": 64924584,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
+    "title": "google-bert/bert-base-uncased",
+    "url": "https://huggingface.co/google-bert/bert-base-uncased",
+    "published_at": "2026-04-20T20:52:22.971688+00:00",
+    "summary": "Trending model with 60352266 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 60352266,
     "theme_tags": [
       "models",
       "open-source",
@@ -221,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-04-19T20:42:01.812692+00:00",
-    "summary": "Trending model with 47456524 downloads.",
+    "published_at": "2026-04-20T20:52:22.971696+00:00",
+    "summary": "Trending model with 47077693 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 47456524,
+    "importance_score": 47077693,
     "theme_tags": [
       "models",
       "open-source",
@@ -237,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "Falconsai/nsfw_image_detection",
     "url": "https://huggingface.co/Falconsai/nsfw_image_detection",
-    "published_at": "2026-04-19T20:42:01.812703+00:00",
-    "summary": "Trending model with 36569210 downloads.",
+    "published_at": "2026-04-20T20:52:22.971705+00:00",
+    "summary": "Trending model with 35808992 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 36569210,
+    "importance_score": 35808992,
     "theme_tags": [
       "models",
       "open-source",
