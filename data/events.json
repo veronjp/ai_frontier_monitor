@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-04-22T20:59:10.280971+00:00",
+    "published_at": "2026-04-23T20:56:25.581465+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 362383,
+    "importance_score": 362908,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-04-22T20:59:10.281013+00:00",
+    "published_at": "2026-04-23T20:56:25.581505+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 185155,
+    "importance_score": 185326,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-04-22T20:59:10.281026+00:00",
+    "published_at": "2026-04-23T20:56:25.581518+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 183672,
+    "importance_score": 183692,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-04-22T20:59:10.281043+00:00",
+    "published_at": "2026-04-23T20:56:25.581531+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162555,
+    "importance_score": 162564,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-04-22T20:59:10.281052+00:00",
+    "published_at": "2026-04-23T20:56:25.581539+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 160417,
+    "importance_score": 160476,
     "theme_tags": [
       "open-source",
       "ai",
@@ -86,66 +86,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Workspace agents",
-    "url": "https://openai.com/academy/workspace-agents",
-    "published_at": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing workspace agents in ChatGPT",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-    "published_at": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-    "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-    "published_at": "Wed, 22 Apr 2026 10:00:00 GMT",
-    "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "inference_cost"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing OpenAI Privacy Filter",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter",
-    "published_at": "Wed, 22 Apr 2026 00:00:00 GMT",
-    "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "published_at": "Thu, 23 Apr 2026 11:00:00 GMT",
+    "summary": "OpenAI update.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -158,10 +102,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Scaling Codex to enterprises worldwide",
-    "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
-    "published_at": "Tue, 21 Apr 2026 00:00:00 GMT",
-    "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+    "title": "Introducing GPT-5.5",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "published_at": "Thu, 23 Apr 2026 11:00:00 GMT",
+    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -174,14 +118,62 @@
     ]
   },
   {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "What is Codex?",
+    "url": "https://openai.com/academy/what-is-codex",
+    "published_at": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Automations",
+    "url": "https://openai.com/academy/codex-automations",
+    "published_at": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Plugins and skills",
+    "url": "https://openai.com/academy/codex-plugins-and-skills",
+    "published_at": "Thu, 23 Apr 2026 10:00:00 GMT",
+    "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-04-22T20:59:11.067317+00:00",
-    "summary": "Trending model with 209210613 downloads.",
+    "published_at": "2026-04-23T20:56:26.870626+00:00",
+    "summary": "Trending model with 210971565 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 209210613,
+    "importance_score": 210971565,
     "theme_tags": [
       "models",
       "open-source",
@@ -194,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-04-22T20:59:11.067387+00:00",
-    "summary": "Trending model with 86338948 downloads.",
+    "published_at": "2026-04-23T20:56:26.870651+00:00",
+    "summary": "Trending model with 98836433 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 86338948,
+    "importance_score": 98836433,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,10 +202,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-04-22T20:59:11.067409+00:00",
-    "summary": "Trending model with 60675227 downloads.",
+    "published_at": "2026-04-23T20:56:26.870661+00:00",
+    "summary": "Trending model with 60494282 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 60675227,
+    "importance_score": 60494282,
     "theme_tags": [
       "models",
       "open-source",
@@ -226,10 +218,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-04-22T20:59:11.067421+00:00",
-    "summary": "Trending model with 47392502 downloads.",
+    "published_at": "2026-04-23T20:56:26.870670+00:00",
+    "summary": "Trending model with 47967344 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 47392502,
+    "importance_score": 47967344,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +234,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-04-22T20:59:11.067431+00:00",
-    "summary": "Trending model with 35800432 downloads.",
+    "published_at": "2026-04-23T20:56:26.870679+00:00",
+    "summary": "Trending model with 36496231 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 35800432,
+    "importance_score": 36496231,
     "theme_tags": [
       "models",
       "open-source",
