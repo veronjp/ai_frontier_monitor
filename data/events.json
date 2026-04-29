@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-04-28T21:09:22.346759+00:00",
+    "published_at": "2026-04-29T21:08:42.895715+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 365844,
+    "importance_score": 366344,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-04-28T21:09:22.346798+00:00",
+    "published_at": "2026-04-29T21:08:42.895762+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 185980,
+    "importance_score": 186123,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-04-28T21:09:22.346811+00:00",
+    "published_at": "2026-04-29T21:08:42.895776+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 183859,
+    "importance_score": 183883,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-04-28T21:09:22.346824+00:00",
+    "published_at": "2026-04-29T21:08:42.895790+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162656,
+    "importance_score": 162662,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-04-28T21:09:22.346832+00:00",
+    "published_at": "2026-04-29T21:08:42.895799+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 161042,
+    "importance_score": 161150,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,38 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Cybersecurity in the Intelligence Age",
+    "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "published_at": "Wed, 29 Apr 2026 04:00:00 GMT",
+    "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our commitment to community safety",
+    "url": "https://openai.com/index/our-commitment-to-community-safety",
+    "published_at": "Tue, 28 Apr 2026 00:00:00 GMT",
+    "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -134,51 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "An open-source spec for orchestration: Symphony",
-    "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
-    "published_at": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Choco automates food distribution with AI agents",
-    "url": "https://openai.com/index/choco",
-    "published_at": "Mon, 27 Apr 2026 00:00:00 GMT",
-    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-04-28T21:09:23.410855+00:00",
-    "summary": "Trending model with 216610403 downloads.",
+    "published_at": "2026-04-29T21:08:43.901978+00:00",
+    "summary": "Trending model with 219030744 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 216610403,
+    "importance_score": 219030744,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,7 +186,7 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-04-28T21:09:23.410885+00:00",
+    "published_at": "2026-04-29T21:08:43.902009+00:00",
     "summary": "Trending model with 165732702 downloads.",
     "signal_type": "model_capability",
     "importance_score": 165732702,
@@ -207,10 +202,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-04-28T21:09:23.410897+00:00",
-    "summary": "Trending model with 58054642 downloads.",
+    "published_at": "2026-04-29T21:08:43.902020+00:00",
+    "summary": "Trending model with 58193500 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58054642,
+    "importance_score": 58193500,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +218,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-04-28T21:09:23.410908+00:00",
-    "summary": "Trending model with 50000400 downloads.",
+    "published_at": "2026-04-29T21:08:43.902029+00:00",
+    "summary": "Trending model with 51023303 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50000400,
+    "importance_score": 51023303,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +234,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-04-28T21:09:23.410919+00:00",
-    "summary": "Trending model with 39731414 downloads.",
+    "published_at": "2026-04-29T21:08:43.902038+00:00",
+    "summary": "Trending model with 40578123 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 39731414,
+    "importance_score": 40578123,
     "theme_tags": [
       "models",
       "open-source",
