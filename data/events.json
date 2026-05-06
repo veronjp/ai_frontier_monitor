@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-05T21:06:00.482696+00:00",
+    "published_at": "2026-05-06T21:13:13.849073+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 368618,
+    "importance_score": 369038,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-05T21:06:00.482735+00:00",
+    "published_at": "2026-05-06T21:13:13.849112+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 186788,
+    "importance_score": 186886,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-05T21:06:00.482754+00:00",
+    "published_at": "2026-05-06T21:13:13.849125+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184006,
+    "importance_score": 184034,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-05T21:06:00.482766+00:00",
+    "published_at": "2026-05-06T21:13:13.849139+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162731,
+    "importance_score": 162748,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-05-05T21:06:00.482775+00:00",
+    "published_at": "2026-05-06T21:13:13.849149+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 161611,
+    "importance_score": 161712,
     "theme_tags": [
       "open-source",
       "ai",
@@ -81,6 +81,40 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "published_at": "Wed, 06 May 2026 00:00:00 GMT",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How frontier enterprises are building an AI advantage",
+    "url": "https://openai.com/index/introducing-b2b-signals",
+    "published_at": "Wed, 06 May 2026 00:00:00 GMT",
+    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
     ]
   },
   {
@@ -118,26 +152,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "New ways to buy ChatGPT ads",
-    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-    "published_at": "Tue, 05 May 2026 00:00:00 GMT",
-    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-    "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-    "published_at": "Mon, 04 May 2026 21:00:00 GMT",
-    "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+    "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+    "url": "https://openai.com/index/mrc-supercomputer-networking",
+    "published_at": "Tue, 05 May 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -146,25 +164,7 @@
       "capability"
     ],
     "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How OpenAI delivers low-latency voice AI at scale",
-    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "published_at": "Mon, 04 May 2026 00:00:00 GMT",
-    "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "inference_cost"
+      "infrastructure"
     ]
   },
   {
@@ -172,10 +172,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-05T21:06:01.401429+00:00",
-    "summary": "Trending model with 239973503 downloads.",
+    "published_at": "2026-05-06T21:13:14.637584+00:00",
+    "summary": "Trending model with 243514474 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 239973503,
+    "importance_score": 243514474,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-05T21:06:01.401452+00:00",
-    "summary": "Trending model with 186904434 downloads.",
+    "published_at": "2026-05-06T21:13:14.637607+00:00",
+    "summary": "Trending model with 186982016 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 186904434,
+    "importance_score": 186982016,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-05T21:06:01.401462+00:00",
-    "summary": "Trending model with 59598776 downloads.",
+    "published_at": "2026-05-06T21:13:14.637618+00:00",
+    "summary": "Trending model with 60360648 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 59598776,
+    "importance_score": 60360648,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-05T21:06:01.401471+00:00",
-    "summary": "Trending model with 55141992 downloads.",
+    "published_at": "2026-05-06T21:13:14.637627+00:00",
+    "summary": "Trending model with 55575480 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 55141992,
+    "importance_score": 55575480,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-05-05T21:06:01.401480+00:00",
-    "summary": "Trending model with 44875889 downloads.",
+    "published_at": "2026-05-06T21:13:14.637636+00:00",
+    "summary": "Trending model with 45427674 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 44875889,
+    "importance_score": 45427674,
     "theme_tags": [
       "models",
       "open-source",
