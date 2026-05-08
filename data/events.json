@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-07T21:06:40.694203+00:00",
+    "published_at": "2026-05-08T21:04:32.518443+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 369428,
+    "importance_score": 369857,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-07T21:06:40.694249+00:00",
+    "published_at": "2026-05-08T21:04:32.518484+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 186988,
+    "importance_score": 187123,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-07T21:06:40.694264+00:00",
+    "published_at": "2026-05-08T21:04:32.518497+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184056,
+    "importance_score": 184095,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-07T21:06:40.694279+00:00",
+    "published_at": "2026-05-08T21:04:32.518510+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162761,
+    "importance_score": 162785,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-05-07T21:06:40.694289+00:00",
+    "published_at": "2026-05-08T21:04:32.518519+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 161777,
+    "importance_score": 161845,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,40 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Running Codex safely at OpenAI",
+    "url": "https://openai.com/index/running-codex-safely",
+    "published_at": "Fri, 08 May 2026 12:30:00 GMT",
+    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "published_at": "Thu, 07 May 2026 13:00:00 GMT",
+    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -137,48 +171,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing Trusted Contact in ChatGPT",
-    "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "published_at": "Thu, 07 May 2026 00:00:00 GMT",
-    "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How frontier firms are pulling ahead",
-    "url": "https://openai.com/index/introducing-b2b-signals",
-    "published_at": "Wed, 06 May 2026 00:00:00 GMT",
-    "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-07T21:06:41.646145+00:00",
-    "summary": "Trending model with 246935035 downloads.",
+    "published_at": "2026-05-08T21:04:33.437950+00:00",
+    "summary": "Trending model with 249496644 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 246935035,
+    "importance_score": 249496644,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-07T21:06:41.646174+00:00",
-    "summary": "Trending model with 187061679 downloads.",
+    "published_at": "2026-05-08T21:04:33.437975+00:00",
+    "summary": "Trending model with 187002217 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 187061679,
+    "importance_score": 187002217,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-07T21:06:41.646186+00:00",
-    "summary": "Trending model with 61158987 downloads.",
+    "published_at": "2026-05-08T21:04:33.437985+00:00",
+    "summary": "Trending model with 61771753 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 61158987,
+    "importance_score": 61771753,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-07T21:06:41.646196+00:00",
-    "summary": "Trending model with 56297976 downloads.",
+    "published_at": "2026-05-08T21:04:33.437995+00:00",
+    "summary": "Trending model with 56170243 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56297976,
+    "importance_score": 56170243,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-05-07T21:06:41.646208+00:00",
-    "summary": "Trending model with 45993294 downloads.",
+    "published_at": "2026-05-08T21:04:33.438003+00:00",
+    "summary": "Trending model with 46449867 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45993294,
+    "importance_score": 46449867,
     "theme_tags": [
       "models",
       "open-source",
