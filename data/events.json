@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-10T20:52:35.321951+00:00",
+    "published_at": "2026-05-11T21:20:09.837254+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 370522,
+    "importance_score": 370912,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-10T20:52:35.321994+00:00",
+    "published_at": "2026-05-11T21:20:09.837297+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 187349,
+    "importance_score": 187469,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-10T20:52:35.322009+00:00",
+    "published_at": "2026-05-11T21:20:09.837311+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184153,
+    "importance_score": 184178,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-10T20:52:35.322022+00:00",
+    "published_at": "2026-05-11T21:20:09.837322+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162800,
+    "importance_score": 162882,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-05-10T20:52:35.322030+00:00",
+    "published_at": "2026-05-11T21:20:09.837330+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 161962,
+    "importance_score": 162040,
     "theme_tags": [
       "open-source",
       "ai",
@@ -81,6 +81,56 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How enterprises are scaling AI",
+    "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "published_at": "Mon, 11 May 2026 10:00:00 GMT",
+    "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI Campus Network: Student club interest form",
+    "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "published_at": "Mon, 11 May 2026 10:00:00 GMT",
+    "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "published_at": "Mon, 11 May 2026 06:00:00 GMT",
+    "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "infrastructure"
     ]
   },
   {
@@ -118,67 +168,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Parloa builds service agents customers want to talk to",
-    "url": "https://openai.com/index/parloa",
-    "published_at": "Thu, 07 May 2026 11:00:00 GMT",
-    "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "rag"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Advancing voice intelligence with new models in the API",
-    "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "published_at": "Thu, 07 May 2026 10:00:00 GMT",
-    "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "published_at": "Thu, 07 May 2026 00:00:00 GMT",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-10T20:52:36.140985+00:00",
-    "summary": "Trending model with 252520628 downloads.",
+    "published_at": "2026-05-11T21:20:10.732967+00:00",
+    "summary": "Trending model with 253586595 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 252520628,
+    "importance_score": 253586595,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-10T20:52:36.141014+00:00",
-    "summary": "Trending model with 187009049 downloads.",
+    "published_at": "2026-05-11T21:20:10.732991+00:00",
+    "summary": "Trending model with 186971599 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 187009049,
+    "importance_score": 186971599,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-10T20:52:36.141024+00:00",
-    "summary": "Trending model with 62660343 downloads.",
+    "published_at": "2026-05-11T21:20:10.733001+00:00",
+    "summary": "Trending model with 62885243 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62660343,
+    "importance_score": 62885243,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-10T20:52:36.141033+00:00",
-    "summary": "Trending model with 54079034 downloads.",
+    "published_at": "2026-05-11T21:20:10.733010+00:00",
+    "summary": "Trending model with 53356832 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54079034,
+    "importance_score": 53356832,
     "theme_tags": [
       "models",
       "open-source",
@@ -237,17 +234,19 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-05-10T20:52:36.141042+00:00",
-    "summary": "Trending model with 46703265 downloads.",
+    "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
+    "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
+    "published_at": "2026-05-11T21:20:10.733019+00:00",
+    "summary": "Trending model with 46870445 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46703265,
+    "importance_score": 46870445,
     "theme_tags": [
       "models",
       "open-source",
       "ml"
     ],
-    "narratives": []
+    "narratives": [
+      "open-source"
+    ]
   }
 ]
