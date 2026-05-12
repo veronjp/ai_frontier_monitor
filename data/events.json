@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-11T21:20:09.837254+00:00",
+    "published_at": "2026-05-12T21:21:55.687001+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 370912,
+    "importance_score": 371259,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-11T21:20:09.837297+00:00",
+    "published_at": "2026-05-12T21:21:55.687045+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 187469,
+    "importance_score": 187599,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-11T21:20:09.837311+00:00",
+    "published_at": "2026-05-12T21:21:55.687061+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184178,
+    "importance_score": 184241,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-11T21:20:09.837322+00:00",
+    "published_at": "2026-05-12T21:21:55.687073+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 162882,
+    "importance_score": 163003,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,10 +70,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-05-11T21:20:09.837330+00:00",
+    "published_at": "2026-05-12T21:21:55.687083+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 162040,
+    "importance_score": 162114,
     "theme_tags": [
       "open-source",
       "ai",
@@ -82,6 +82,41 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "published_at": "Tue, 12 May 2026 00:00:00 GMT",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "inference_cost"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "published_at": "Mon, 11 May 2026 15:00:00 GMT",
+    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -134,48 +169,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Running Codex safely at OpenAI",
-    "url": "https://openai.com/index/running-codex-safely",
-    "published_at": "Fri, 08 May 2026 12:30:00 GMT",
-    "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-    "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "published_at": "Thu, 07 May 2026 13:00:00 GMT",
-    "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-11T21:20:10.732967+00:00",
-    "summary": "Trending model with 253586595 downloads.",
+    "published_at": "2026-05-12T21:21:56.432728+00:00",
+    "summary": "Trending model with 255877152 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 253586595,
+    "importance_score": 255877152,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,7 +189,7 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-11T21:20:10.732991+00:00",
+    "published_at": "2026-05-12T21:21:56.432755+00:00",
     "summary": "Trending model with 186971599 downloads.",
     "signal_type": "model_capability",
     "importance_score": 186971599,
@@ -204,10 +205,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-11T21:20:10.733001+00:00",
-    "summary": "Trending model with 62885243 downloads.",
+    "published_at": "2026-05-12T21:21:56.432767+00:00",
+    "summary": "Trending model with 63595758 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62885243,
+    "importance_score": 63595758,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +221,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-11T21:20:10.733010+00:00",
-    "summary": "Trending model with 53356832 downloads.",
+    "published_at": "2026-05-12T21:21:56.432777+00:00",
+    "summary": "Trending model with 53630336 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 53356832,
+    "importance_score": 53630336,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +237,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-05-11T21:20:10.733019+00:00",
-    "summary": "Trending model with 46870445 downloads.",
+    "published_at": "2026-05-12T21:21:56.432788+00:00",
+    "summary": "Trending model with 48169217 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46870445,
+    "importance_score": 48169217,
     "theme_tags": [
       "models",
       "open-source",
