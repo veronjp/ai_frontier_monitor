@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-14T21:13:26.315616+00:00",
+    "published_at": "2026-05-15T21:05:13.040392+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 371868,
+    "importance_score": 372175,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-14T21:13:26.315656+00:00",
+    "published_at": "2026-05-15T21:05:13.040435+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 187854,
+    "importance_score": 187998,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-14T21:13:26.315669+00:00",
+    "published_at": "2026-05-15T21:05:13.040478+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184298,
+    "importance_score": 184331,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-14T21:13:26.315680+00:00",
+    "published_at": "2026-05-15T21:05:13.040497+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163061,
+    "importance_score": 163074,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,16 +70,51 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-05-14T21:13:26.315689+00:00",
+    "published_at": "2026-05-15T21:05:13.040510+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 162235,
+    "importance_score": 162290,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "A new personal finance experience in ChatGPT",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "published_at": "Fri, 15 May 2026 00:00:00 GMT",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "url": "https://openai.com/index/sea-david-chen",
+    "published_at": "Thu, 14 May 2026 20:30:00 GMT",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
       "open-source"
     ]
   },
@@ -136,46 +171,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Our response to the TanStack npm supply chain attack",
-    "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "published_at": "Wed, 13 May 2026 00:00:00 GMT",
-    "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenA",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How finance teams use Codex",
-    "url": "https://openai.com/academy/how-finance-teams-use-codex",
-    "published_at": "Tue, 12 May 2026 15:00:00 GMT",
-    "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-14T21:13:27.187847+00:00",
-    "summary": "Trending model with 259230702 downloads.",
+    "published_at": "2026-05-15T21:05:14.018523+00:00",
+    "summary": "Trending model with 259858781 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 259230702,
+    "importance_score": 259858781,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-14T21:13:27.187872+00:00",
-    "summary": "Trending model with 183999222 downloads.",
+    "published_at": "2026-05-15T21:05:14.018554+00:00",
+    "summary": "Trending model with 169903359 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 183999222,
+    "importance_score": 169903359,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-14T21:13:27.187882+00:00",
-    "summary": "Trending model with 63940780 downloads.",
+    "published_at": "2026-05-15T21:05:14.018564+00:00",
+    "summary": "Trending model with 64748512 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 63940780,
+    "importance_score": 64748512,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-14T21:13:27.187891+00:00",
-    "summary": "Trending model with 52284659 downloads.",
+    "published_at": "2026-05-15T21:05:14.018573+00:00",
+    "summary": "Trending model with 52827548 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52284659,
+    "importance_score": 52827548,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-05-14T21:13:27.187899+00:00",
-    "summary": "Trending model with 50880509 downloads.",
+    "published_at": "2026-05-15T21:05:14.018582+00:00",
+    "summary": "Trending model with 52069538 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50880509,
+    "importance_score": 52069538,
     "theme_tags": [
       "models",
       "open-source",
