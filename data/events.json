@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-17T20:57:00.248977+00:00",
+    "published_at": "2026-05-18T21:14:29.758303+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 372662,
+    "importance_score": 372954,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-17T20:57:00.249022+00:00",
+    "published_at": "2026-05-18T21:14:29.758347+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 188360,
+    "importance_score": 188568,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-17T20:57:00.249036+00:00",
+    "published_at": "2026-05-18T21:14:29.758361+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184376,
+    "importance_score": 184398,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-17T20:57:00.249047+00:00",
+    "published_at": "2026-05-18T21:14:29.758372+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163106,
+    "importance_score": 163133,
     "theme_tags": [
       "open-source",
       "ai",
@@ -70,16 +70,35 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-05-17T20:57:00.249055+00:00",
+    "published_at": "2026-05-18T21:14:29.758380+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 162416,
+    "importance_score": 162476,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+    "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+    "published_at": "Mon, 18 May 2026 10:00:00 GMT",
+    "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
       "open-source"
     ]
   },
@@ -104,22 +123,6 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How business operations teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "published_at": "Fri, 15 May 2026 00:00:00 GMT",
-    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
     "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
     "url": "https://openai.com/index/databricks",
     "published_at": "Fri, 15 May 2026 00:00:00 GMT",
@@ -138,10 +141,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How data science teams use Codex",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "title": "How business operations teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
     "published_at": "Fri, 15 May 2026 00:00:00 GMT",
-    "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -154,10 +157,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "A new personal finance experience in ChatGPT",
-    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "title": "How sales teams use Codex",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "published_at": "Fri, 15 May 2026 00:00:00 GMT",
-    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa",
+    "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -172,10 +175,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-17T20:57:00.906919+00:00",
-    "summary": "Trending model with 259484016 downloads.",
+    "published_at": "2026-05-18T21:14:30.584319+00:00",
+    "summary": "Trending model with 258983755 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 259484016,
+    "importance_score": 258983755,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "Qwen/Qwen3-VL-2B-Instruct",
     "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-17T20:57:00.906979+00:00",
-    "summary": "Trending model with 148960143 downloads.",
+    "published_at": "2026-05-18T21:14:30.584341+00:00",
+    "summary": "Trending model with 137944458 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 148960143,
+    "importance_score": 137944458,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,26 +207,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-17T20:57:00.906989+00:00",
-    "summary": "Trending model with 66791895 downloads.",
+    "published_at": "2026-05-18T21:14:30.584351+00:00",
+    "summary": "Trending model with 67673868 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66791895,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
-    "title": "google/electra-base-discriminator",
-    "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-17T20:57:00.906998+00:00",
-    "summary": "Trending model with 54265556 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 54265556,
+    "importance_score": 67673868,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-05-17T20:57:00.907006+00:00",
-    "summary": "Trending model with 54165137 downloads.",
+    "published_at": "2026-05-18T21:14:30.584360+00:00",
+    "summary": "Trending model with 55108223 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54165137,
+    "importance_score": 55108223,
     "theme_tags": [
       "models",
       "open-source",
@@ -248,5 +235,21 @@
     "narratives": [
       "open-source"
     ]
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
+    "title": "google/electra-base-discriminator",
+    "url": "https://huggingface.co/google/electra-base-discriminator",
+    "published_at": "2026-05-18T21:14:30.584370+00:00",
+    "summary": "Trending model with 54716118 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 54716118,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
   }
 ]
