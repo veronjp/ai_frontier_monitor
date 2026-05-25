@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-24T20:59:33.336144+00:00",
+    "published_at": "2026-05-25T21:11:54.880349+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 374395,
+    "importance_score": 374616,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-24T20:59:33.336187+00:00",
+    "published_at": "2026-05-25T21:11:54.880387+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 189536,
+    "importance_score": 189681,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-24T20:59:33.336201+00:00",
+    "published_at": "2026-05-25T21:11:54.880398+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184514,
+    "importance_score": 184546,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-05-24T20:59:33.336211+00:00",
+    "published_at": "2026-05-25T21:11:54.880406+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 165545,
+    "importance_score": 167116,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,16 +72,50 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-24T20:59:33.336220+00:00",
+    "published_at": "2026-05-25T21:11:54.880448+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163264,
+    "importance_score": 163276,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "published_at": "Mon, 25 May 2026 00:00:00 GMT",
+    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "published_at": "Fri, 22 May 2026 00:00:00 GMT",
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "rag"
+    ]
   },
   {
     "source": "OpenAI",
@@ -100,24 +134,6 @@
     "narratives": [
       "agents",
       "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "published_at": "Fri, 22 May 2026 00:00:00 GMT",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "rag"
     ]
   },
   {
@@ -153,32 +169,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "The next phase of OpenAI’s Education for Countries",
-    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "published_at": "Wed, 20 May 2026 00:00:00 GMT",
-    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "infrastructure"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-24T20:59:34.362178+00:00",
-    "summary": "Trending model with 259779355 downloads.",
+    "published_at": "2026-05-25T21:11:55.431974+00:00",
+    "summary": "Trending model with 260375836 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 259779355,
+    "importance_score": 260375836,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,26 +189,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-24T20:59:34.362203+00:00",
-    "summary": "Trending model with 69568558 downloads.",
+    "published_at": "2026-05-25T21:11:55.431999+00:00",
+    "summary": "Trending model with 69585760 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69568558,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
-    "title": "Qwen/Qwen3-VL-2B-Instruct",
-    "url": "https://huggingface.co/Qwen/Qwen3-VL-2B-Instruct",
-    "published_at": "2026-05-24T20:59:34.362214+00:00",
-    "summary": "Trending model with 61640428 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 61640428,
+    "importance_score": 69585760,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +205,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-05-24T20:59:34.362222+00:00",
-    "summary": "Trending model with 60924049 downloads.",
+    "published_at": "2026-05-25T21:11:55.432007+00:00",
+    "summary": "Trending model with 62057602 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 60924049,
+    "importance_score": 62057602,
     "theme_tags": [
       "models",
       "open-source",
@@ -241,10 +223,26 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-24T20:59:34.362232+00:00",
-    "summary": "Trending model with 55906178 downloads.",
+    "published_at": "2026-05-25T21:11:55.432015+00:00",
+    "summary": "Trending model with 56106147 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 55906178,
+    "importance_score": 56106147,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
+    "title": "BAAI/bge-small-en-v1.5",
+    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+    "published_at": "2026-05-25T21:11:55.432022+00:00",
+    "summary": "Trending model with 49889593 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 49889593,
     "theme_tags": [
       "models",
       "open-source",
