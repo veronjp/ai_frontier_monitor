@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-27T21:58:41.574580+00:00",
+    "published_at": "2026-05-28T21:57:35.475670+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 375077,
+    "importance_score": 375290,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-27T21:58:41.574619+00:00",
+    "published_at": "2026-05-28T21:57:35.475713+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 189983,
+    "importance_score": 190112,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-27T21:58:41.574632+00:00",
+    "published_at": "2026-05-28T21:57:35.475727+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184593,
+    "importance_score": 184615,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-05-27T21:58:41.574642+00:00",
+    "published_at": "2026-05-28T21:57:35.475739+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 170163,
+    "importance_score": 171526,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,46 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-27T21:58:41.574651+00:00",
+    "published_at": "2026-05-28T21:57:35.475747+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163301,
+    "importance_score": 163325,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "published_at": "Thu, 28 May 2026 00:00:00 GMT",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "published_at": "Wed, 27 May 2026 11:00:00 GMT",
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -137,48 +169,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "published_at": "Mon, 25 May 2026 00:00:00 GMT",
-    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Virgin Atlantic ships faster with Codex",
-    "url": "https://openai.com/index/virgin-atlantic",
-    "published_at": "Fri, 22 May 2026 00:00:00 GMT",
-    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "rag"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-27T21:58:42.479368+00:00",
-    "summary": "Trending model with 262809768 downloads.",
+    "published_at": "2026-05-28T21:57:36.428283+00:00",
+    "summary": "Trending model with 262546600 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 262809768,
+    "importance_score": 262546600,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-27T21:58:42.479390+00:00",
-    "summary": "Trending model with 69722117 downloads.",
+    "published_at": "2026-05-28T21:57:36.428311+00:00",
+    "summary": "Trending model with 69893929 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69722117,
+    "importance_score": 69893929,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +205,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-05-27T21:58:42.479401+00:00",
-    "summary": "Trending model with 64538908 downloads.",
+    "published_at": "2026-05-28T21:57:36.428322+00:00",
+    "summary": "Trending model with 65671557 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 64538908,
+    "importance_score": 65671557,
     "theme_tags": [
       "models",
       "open-source",
@@ -225,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-27T21:58:42.479411+00:00",
-    "summary": "Trending model with 56606743 downloads.",
+    "published_at": "2026-05-28T21:57:36.428332+00:00",
+    "summary": "Trending model with 56688890 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56606743,
+    "importance_score": 56688890,
     "theme_tags": [
       "models",
       "open-source",
@@ -241,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-05-27T21:58:42.479420+00:00",
-    "summary": "Trending model with 51419679 downloads.",
+    "published_at": "2026-05-28T21:57:36.428341+00:00",
+    "summary": "Trending model with 52088364 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51419679,
+    "importance_score": 52088364,
     "theme_tags": [
       "models",
       "open-source",
