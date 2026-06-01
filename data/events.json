@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-05-31T21:02:06.400940+00:00",
+    "published_at": "2026-06-01T22:33:33.238737+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 375863,
+    "importance_score": 376068,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-05-31T21:02:06.400979+00:00",
+    "published_at": "2026-06-01T22:33:33.238778+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 190479,
+    "importance_score": 190642,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-05-31T21:02:06.400992+00:00",
+    "published_at": "2026-06-01T22:33:33.238791+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184676,
+    "importance_score": 184701,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-05-31T21:02:06.401003+00:00",
+    "published_at": "2026-06-01T22:33:33.238802+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 174587,
+    "importance_score": 175922,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,46 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-05-31T21:02:06.401011+00:00",
+    "published_at": "2026-06-01T22:33:33.238810+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163357,
+    "importance_score": 163381,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "published_at": "Mon, 01 Jun 2026 12:00:00 GMT",
+    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "published_at": "Mon, 01 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -132,64 +164,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "A shared playbook for trustworthy third party evaluations",
-    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "published_at": "Fri, 29 May 2026 00:00:00 GMT",
-    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Endava builds an agentic organization with Codex",
-    "url": "https://openai.com/index/endava",
-    "published_at": "Thu, 28 May 2026 12:00:00 GMT",
-    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-05-31T21:02:07.163909+00:00",
-    "summary": "Trending model with 261013106 downloads.",
+    "published_at": "2026-06-01T22:33:34.042139+00:00",
+    "summary": "Trending model with 259378419 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 261013106,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
-    "title": "google-bert/bert-base-uncased",
-    "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-05-31T21:02:07.163932+00:00",
-    "summary": "Trending model with 68921761 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 68921761,
+    "importance_score": 259378419,
     "theme_tags": [
       "models",
       "open-source",
@@ -202,10 +184,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-05-31T21:02:07.163943+00:00",
-    "summary": "Trending model with 68776670 downloads.",
+    "published_at": "2026-06-01T22:33:34.042172+00:00",
+    "summary": "Trending model with 69585055 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 68776670,
+    "importance_score": 69585055,
     "theme_tags": [
       "models",
       "open-source",
@@ -218,12 +200,28 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
+    "title": "google-bert/bert-base-uncased",
+    "url": "https://huggingface.co/google-bert/bert-base-uncased",
+    "published_at": "2026-06-01T22:33:34.042186+00:00",
+    "summary": "Trending model with 68246210 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 68246210,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-05-31T21:02:07.163954+00:00",
-    "summary": "Trending model with 57555347 downloads.",
+    "published_at": "2026-06-01T22:33:34.042198+00:00",
+    "summary": "Trending model with 57894751 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 57555347,
+    "importance_score": 57894751,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +234,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-05-31T21:02:07.163963+00:00",
-    "summary": "Trending model with 53783695 downloads.",
+    "published_at": "2026-06-01T22:33:34.042210+00:00",
+    "summary": "Trending model with 54136046 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 53783695,
+    "importance_score": 54136046,
     "theme_tags": [
       "models",
       "open-source",
