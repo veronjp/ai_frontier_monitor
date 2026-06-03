@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-01T22:33:33.238737+00:00",
+    "published_at": "2026-06-03T22:28:51.464829+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 376068,
+    "importance_score": 376571,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-01T22:33:33.238778+00:00",
+    "published_at": "2026-06-03T22:28:51.464889+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 190642,
+    "importance_score": 190968,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-01T22:33:33.238791+00:00",
+    "published_at": "2026-06-03T22:28:51.464902+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184701,
+    "importance_score": 184733,
     "theme_tags": [
       "open-source",
       "ai",
@@ -54,10 +54,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-01T22:33:33.238802+00:00",
+    "published_at": "2026-06-03T22:28:51.464913+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 175922,
+    "importance_score": 178992,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-06-01T22:33:33.238810+00:00",
+    "published_at": "2026-06-03T22:28:51.464921+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163381,
+    "importance_score": 163415,
     "theme_tags": [
       "open-source",
       "ai",
@@ -86,10 +86,28 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Building the infrastructure for the Intelligence Age in Michigan",
-    "url": "https://openai.com/index/stargate-michigan-data-center",
-    "published_at": "Mon, 01 Jun 2026 12:00:00 GMT",
-    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "published_at": "Wed, 03 Jun 2026 13:15:00 GMT",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "reasoning"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "published_at": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -102,10 +120,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "OpenAI frontier models and Codex are now available on AWS",
-    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "published_at": "Mon, 01 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "published_at": "Wed, 03 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -118,10 +136,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Boston Children’s uses AI to unlock new diagnoses",
-    "url": "https://openai.com/index/boston-childrens-hospital",
-    "published_at": "Fri, 29 May 2026 12:00:00 GMT",
-    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "url": "https://openai.com/index/travelers",
+    "published_at": "Tue, 02 Jun 2026 12:00:00 GMT",
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -129,31 +147,17 @@
       "research",
       "capability"
     ],
-    "narratives": []
+    "narratives": [
+      "copilots"
+    ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How Braintrust turns customer requests into code with Codex",
-    "url": "https://openai.com/index/braintrust",
-    "published_at": "Fri, 29 May 2026 12:00:00 GMT",
-    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Strengthening societal resilience with Rosalind Biodefense",
-    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "published_at": "Fri, 29 May 2026 03:00:00 GMT",
-    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through ",
+    "title": "Codex for every role, tool, and workflow",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "published_at": "Tue, 02 Jun 2026 09:00:00 GMT",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -168,10 +172,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-01T22:33:34.042139+00:00",
-    "summary": "Trending model with 259378419 downloads.",
+    "published_at": "2026-06-03T22:28:52.401152+00:00",
+    "summary": "Trending model with 257461566 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 259378419,
+    "importance_score": 257461566,
     "theme_tags": [
       "models",
       "open-source",
@@ -184,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-01T22:33:34.042172+00:00",
-    "summary": "Trending model with 69585055 downloads.",
+    "published_at": "2026-06-03T22:28:52.401177+00:00",
+    "summary": "Trending model with 71259114 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69585055,
+    "importance_score": 71259114,
     "theme_tags": [
       "models",
       "open-source",
@@ -202,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-01T22:33:34.042186+00:00",
-    "summary": "Trending model with 68246210 downloads.",
+    "published_at": "2026-06-03T22:28:52.401189+00:00",
+    "summary": "Trending model with 67684020 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 68246210,
+    "importance_score": 67684020,
     "theme_tags": [
       "models",
       "open-source",
@@ -218,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-06-01T22:33:34.042198+00:00",
-    "summary": "Trending model with 57894751 downloads.",
+    "published_at": "2026-06-03T22:28:52.401198+00:00",
+    "summary": "Trending model with 58018394 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 57894751,
+    "importance_score": 58018394,
     "theme_tags": [
       "models",
       "open-source",
@@ -234,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-01T22:33:34.042210+00:00",
-    "summary": "Trending model with 54136046 downloads.",
+    "published_at": "2026-06-03T22:28:52.401207+00:00",
+    "summary": "Trending model with 54972503 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54136046,
+    "importance_score": 54972503,
     "theme_tags": [
       "models",
       "open-source",
