@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-07T21:16:32.342257+00:00",
+    "published_at": "2026-06-08T21:51:36.027310+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 377421,
+    "importance_score": 377641,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-07T21:16:32.342292+00:00",
+    "published_at": "2026-06-08T21:51:36.027353+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 191500,
+    "importance_score": 191619,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-07T21:16:32.342305+00:00",
+    "published_at": "2026-06-08T21:51:36.027367+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 185805,
+    "importance_score": 187288,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-07T21:16:32.342315+00:00",
+    "published_at": "2026-06-08T21:51:36.027376+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184826,
+    "importance_score": 184848,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,62 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-06-07T21:16:32.342325+00:00",
+    "published_at": "2026-06-08T21:51:36.027404+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163531,
+    "importance_score": 163555,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "published_at": "Mon, 08 Jun 2026 14:00:00 GMT",
+    "summary": "OpenAI recently submitted a confidential S-1 to the SEC and has not decided on timing.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Built to benefit everyone: our plan",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "published_at": "Mon, 08 Jun 2026 01:30:00 GMT",
+    "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "published_at": "Mon, 08 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -121,64 +169,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Biodefense in the Intelligence Age",
-    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "published_at": "Thu, 04 Jun 2026 00:00:00 GMT",
-    "summary": "An action plan for AI-powered biological resilience",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing new capabilities to GPT-Rosalind",
-    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "published_at": "Wed, 03 Jun 2026 13:15:00 GMT",
-    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-    "url": "https://openai.com/index/wasmer",
-    "published_at": "Wed, 03 Jun 2026 12:00:00 GMT",
-    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-07T21:16:33.145171+00:00",
-    "summary": "Trending model with 253044030 downloads.",
+    "published_at": "2026-06-08T21:51:36.974238+00:00",
+    "summary": "Trending model with 251654846 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 253044030,
+    "importance_score": 251654846,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-07T21:16:33.145190+00:00",
-    "summary": "Trending model with 74846984 downloads.",
+    "published_at": "2026-06-08T21:51:36.974263+00:00",
+    "summary": "Trending model with 75647134 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 74846984,
+    "importance_score": 75647134,
     "theme_tags": [
       "models",
       "open-source",
@@ -209,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-07T21:16:33.145202+00:00",
-    "summary": "Trending model with 64555258 downloads.",
+    "published_at": "2026-06-08T21:51:36.974274+00:00",
+    "summary": "Trending model with 63727096 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 64555258,
+    "importance_score": 63727096,
     "theme_tags": [
       "models",
       "open-source",
@@ -225,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-07T21:16:33.145211+00:00",
-    "summary": "Trending model with 56950943 downloads.",
+    "published_at": "2026-06-08T21:51:36.974284+00:00",
+    "summary": "Trending model with 57400709 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56950943,
+    "importance_score": 57400709,
     "theme_tags": [
       "models",
       "open-source",
@@ -241,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-06-07T21:16:33.145220+00:00",
-    "summary": "Trending model with 56736441 downloads.",
+    "published_at": "2026-06-08T21:51:36.974292+00:00",
+    "summary": "Trending model with 55771742 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56736441,
+    "importance_score": 55771742,
     "theme_tags": [
       "models",
       "open-source",
