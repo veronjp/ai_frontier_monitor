@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-10T22:04:31.917058+00:00",
+    "published_at": "2026-06-11T22:03:46.810406+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 377994,
+    "importance_score": 378219,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-10T22:04:31.917097+00:00",
+    "published_at": "2026-06-11T22:03:46.810445+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 191963,
+    "importance_score": 192096,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-10T22:04:31.917110+00:00",
+    "published_at": "2026-06-11T22:03:46.810458+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 189867,
+    "importance_score": 190941,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-10T22:04:31.917119+00:00",
+    "published_at": "2026-06-11T22:03:46.810467+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184875,
+    "importance_score": 184886,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-06-10T22:04:31.917128+00:00",
+    "published_at": "2026-06-11T22:03:46.810477+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163601,
+    "importance_score": 163621,
     "theme_tags": [
       "open-source",
       "ai",
@@ -86,10 +86,29 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "PRC-linked influence operations are targeting AI debates in the US",
-    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "published_at": "Wed, 10 Jun 2026 12:00:00 GMT",
-    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -102,10 +121,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "From data to decisions: how LSEG is scaling trusted AI",
-    "url": "https://openai.com/index/lseg",
-    "published_at": "Wed, 10 Jun 2026 00:00:00 GMT",
-    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -113,17 +132,15 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "open-source"
-    ]
+    "narratives": []
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How engineers at Nextdoor use Codex to build without limits",
-    "url": "https://openai.com/index/nextdoor",
-    "published_at": "Tue, 09 Jun 2026 12:00:00 GMT",
-    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -131,35 +148,15 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "open-source"
-    ]
+    "narratives": []
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "What Codex unlocks for Notion",
-    "url": "https://openai.com/index/notion",
-    "published_at": "Tue, 09 Jun 2026 10:00:00 GMT",
-    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Industrial policy for the Intelligence Age",
-    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "published_at": "Tue, 09 Jun 2026 00:00:00 GMT",
-    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "published_at": "Wed, 10 Jun 2026 20:00:00 GMT",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -174,10 +171,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-10T22:04:32.753945+00:00",
-    "summary": "Trending model with 227008911 downloads.",
+    "published_at": "2026-06-11T22:03:47.731933+00:00",
+    "summary": "Trending model with 224830792 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 227008911,
+    "importance_score": 224830792,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +187,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-10T22:04:32.753971+00:00",
-    "summary": "Trending model with 69767874 downloads.",
+    "published_at": "2026-06-11T22:03:47.731959+00:00",
+    "summary": "Trending model with 69800823 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69767874,
+    "importance_score": 69800823,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +205,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-10T22:04:32.753985+00:00",
-    "summary": "Trending model with 57408998 downloads.",
+    "published_at": "2026-06-11T22:03:47.731971+00:00",
+    "summary": "Trending model with 56587953 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 57408998,
+    "importance_score": 56587953,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,7 +221,7 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-10T22:04:32.753996+00:00",
+    "published_at": "2026-06-11T22:03:47.731979+00:00",
     "summary": "Trending model with 52736260 downloads.",
     "signal_type": "model_capability",
     "importance_score": 52736260,
@@ -240,10 +237,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-06-10T22:04:32.754006+00:00",
-    "summary": "Trending model with 49710285 downloads.",
+    "published_at": "2026-06-11T22:03:47.731987+00:00",
+    "summary": "Trending model with 48474814 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 49710285,
+    "importance_score": 48474814,
     "theme_tags": [
       "models",
       "open-source",
