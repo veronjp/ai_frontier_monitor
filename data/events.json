@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-11T22:03:46.810406+00:00",
+    "published_at": "2026-06-12T21:49:11.207256+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 378219,
+    "importance_score": 378387,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-11T22:03:46.810445+00:00",
+    "published_at": "2026-06-12T21:49:11.207300+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 192096,
+    "importance_score": 192224,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-11T22:03:46.810458+00:00",
+    "published_at": "2026-06-12T21:49:11.207313+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 190941,
+    "importance_score": 191921,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-11T22:03:46.810467+00:00",
+    "published_at": "2026-06-12T21:49:11.207323+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184886,
+    "importance_score": 184913,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,48 @@
     "category": "developer_ecosystem",
     "title": "stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-    "published_at": "2026-06-11T22:03:46.810477+00:00",
+    "published_at": "2026-06-12T21:49:11.207333+00:00",
     "summary": "Stable Diffusion web UI",
     "signal_type": "developer_velocity",
-    "importance_score": 163621,
+    "importance_score": 163654,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "published_at": "Fri, 12 Jun 2026 00:00:00 GMT",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -101,22 +135,6 @@
       "agents",
       "open-source"
     ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -151,30 +169,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-    "url": "https://openai.com/index/openai-on-oracle-cloud",
-    "published_at": "Wed, 10 Jun 2026 20:00:00 GMT",
-    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-11T22:03:47.731933+00:00",
-    "summary": "Trending model with 224830792 downloads.",
+    "published_at": "2026-06-12T21:49:11.820618+00:00",
+    "summary": "Trending model with 224481337 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 224830792,
+    "importance_score": 224481337,
     "theme_tags": [
       "models",
       "open-source",
@@ -187,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-11T22:03:47.731959+00:00",
-    "summary": "Trending model with 69800823 downloads.",
+    "published_at": "2026-06-12T21:49:11.820642+00:00",
+    "summary": "Trending model with 70360452 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69800823,
+    "importance_score": 70360452,
     "theme_tags": [
       "models",
       "open-source",
@@ -205,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-11T22:03:47.731971+00:00",
-    "summary": "Trending model with 56587953 downloads.",
+    "published_at": "2026-06-12T21:49:11.820653+00:00",
+    "summary": "Trending model with 56153648 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56587953,
+    "importance_score": 56153648,
     "theme_tags": [
       "models",
       "open-source",
@@ -221,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-11T22:03:47.731979+00:00",
-    "summary": "Trending model with 52736260 downloads.",
+    "published_at": "2026-06-12T21:49:11.820662+00:00",
+    "summary": "Trending model with 52988971 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52736260,
+    "importance_score": 52988971,
     "theme_tags": [
       "models",
       "open-source",
@@ -237,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-06-11T22:03:47.731987+00:00",
-    "summary": "Trending model with 48474814 downloads.",
+    "published_at": "2026-06-12T21:49:11.820671+00:00",
+    "summary": "Trending model with 47765924 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48474814,
+    "importance_score": 47765924,
     "theme_tags": [
       "models",
       "open-source",
