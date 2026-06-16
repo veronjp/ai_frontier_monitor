@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-15T22:21:10.438292+00:00",
+    "published_at": "2026-06-16T22:14:43.853880+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 378876,
+    "importance_score": 379042,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-15T22:21:10.438337+00:00",
+    "published_at": "2026-06-16T22:14:43.853926+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 194399,
+    "importance_score": 195299,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-15T22:21:10.438348+00:00",
+    "published_at": "2026-06-16T22:14:43.853938+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 192666,
+    "importance_score": 192826,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-15T22:21:10.438359+00:00",
+    "published_at": "2026-06-16T22:14:43.853949+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 184960,
+    "importance_score": 184978,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-06-15T22:21:10.438370+00:00",
+    "published_at": "2026-06-16T22:14:43.853960+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 163778,
+    "importance_score": 163817,
     "theme_tags": [
       "open-source",
       "ai",
@@ -83,6 +83,24 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "infrastructure"
     ]
   },
   {
@@ -140,22 +158,6 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
@@ -174,10 +176,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-15T22:21:11.271280+00:00",
-    "summary": "Trending model with 167480843 downloads.",
+    "published_at": "2026-06-16T22:14:44.698405+00:00",
+    "summary": "Trending model with 170500268 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 167480843,
+    "importance_score": 170500268,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-15T22:21:11.271302+00:00",
-    "summary": "Trending model with 52067168 downloads.",
+    "published_at": "2026-06-16T22:14:44.698429+00:00",
+    "summary": "Trending model with 53054899 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52067168,
+    "importance_score": 53054899,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +210,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-15T22:21:11.271314+00:00",
-    "summary": "Trending model with 41469324 downloads.",
+    "published_at": "2026-06-16T22:14:44.698441+00:00",
+    "summary": "Trending model with 41795402 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41469324,
+    "importance_score": 41795402,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +226,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-15T22:21:11.271323+00:00",
-    "summary": "Trending model with 39663955 downloads.",
+    "published_at": "2026-06-16T22:14:44.698449+00:00",
+    "summary": "Trending model with 40435833 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 39663955,
+    "importance_score": 40435833,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +242,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-06-15T22:21:11.271332+00:00",
-    "summary": "Trending model with 34017229 downloads.",
+    "published_at": "2026-06-16T22:14:44.698458+00:00",
+    "summary": "Trending model with 34360161 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 34017229,
+    "importance_score": 34360161,
     "theme_tags": [
       "models",
       "open-source",
