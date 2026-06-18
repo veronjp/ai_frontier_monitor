@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-17T22:02:33.853717+00:00",
+    "published_at": "2026-06-18T22:12:25.811924+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 379214,
+    "importance_score": 379392,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-17T22:02:33.853761+00:00",
+    "published_at": "2026-06-18T22:12:25.811970+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 196141,
+    "importance_score": 196955,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-17T22:02:33.853773+00:00",
+    "published_at": "2026-06-18T22:12:25.811983+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 192953,
+    "importance_score": 193069,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-17T22:02:33.853784+00:00",
+    "published_at": "2026-06-18T22:12:25.811994+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185000,
+    "importance_score": 185018,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "prompts.chat",
     "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-06-17T22:02:33.853795+00:00",
+    "published_at": "2026-06-18T22:12:25.812005+00:00",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "signal_type": "developer_velocity",
-    "importance_score": 163857,
+    "importance_score": 163890,
     "theme_tags": [
       "open-source",
       "ai",
@@ -83,6 +83,58 @@
     ],
     "narratives": [
       "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "published_at": "Thu, 18 Jun 2026 17:00:00 GMT",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "published_at": "Thu, 18 Jun 2026 11:00:00 GMT",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "reasoning"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "reasoning"
     ]
   },
   {
@@ -120,68 +172,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Predicting model behavior before release by simulating deployment",
-    "url": "https://openai.com/index/deployment-simulation",
-    "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing the OpenAI Partner Network",
-    "url": "https://openai.com/index/introducing-openai-partner-network",
-    "published_at": "Sun, 14 Jun 2026 17:00:00 GMT",
-    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "New OpenAI Academy courses for the next era of work",
-    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "published_at": "Fri, 12 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-17T22:02:34.773923+00:00",
-    "summary": "Trending model with 185402960 downloads.",
+    "published_at": "2026-06-18T22:12:27.308654+00:00",
+    "summary": "Trending model with 216288695 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 185402960,
+    "importance_score": 216288695,
     "theme_tags": [
       "models",
       "open-source",
@@ -194,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-17T22:02:34.773952+00:00",
-    "summary": "Trending model with 58286877 downloads.",
+    "published_at": "2026-06-18T22:12:27.308681+00:00",
+    "summary": "Trending model with 68562031 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58286877,
+    "importance_score": 68562031,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,9 +208,25 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
+    "title": "BAAI/bge-small-en-v1.5",
+    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+    "published_at": "2026-06-18T22:12:27.308693+00:00",
+    "summary": "Trending model with 52151567 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 52151567,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-17T22:02:34.773964+00:00",
+    "published_at": "2026-06-18T22:12:27.308702+00:00",
     "summary": "Trending model with 45272769 downloads.",
     "signal_type": "model_capability",
     "importance_score": 45272769,
@@ -226,28 +240,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "BAAI/bge-small-en-v1.5",
-    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-17T22:02:34.773973+00:00",
-    "summary": "Trending model with 44291527 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 44291527,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-06-17T22:02:34.773981+00:00",
-    "summary": "Trending model with 37196573 downloads.",
+    "published_at": "2026-06-18T22:12:27.308712+00:00",
+    "summary": "Trending model with 43843739 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 37196573,
+    "importance_score": 43843739,
     "theme_tags": [
       "models",
       "open-source",
