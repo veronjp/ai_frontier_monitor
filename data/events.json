@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-18T22:12:25.811924+00:00",
+    "published_at": "2026-06-19T21:11:46.420541+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 379392,
+    "importance_score": 379528,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,12 +20,30 @@
   {
     "source": "GitHub",
     "category": "developer_ecosystem",
+    "title": "superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "published_at": "2026-06-19T21:11:46.420580+00:00",
+    "summary": "An agentic skills framework & software development methodology that works.",
+    "signal_type": "developer_velocity",
+    "importance_score": 233254,
+    "theme_tags": [
+      "open-source",
+      "ai",
+      "developer"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "GitHub",
+    "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-18T22:12:25.811970+00:00",
+    "published_at": "2026-06-19T21:11:46.420594+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 196955,
+    "importance_score": 197580,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-18T22:12:25.811983+00:00",
+    "published_at": "2026-06-19T21:11:46.420603+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 193069,
+    "importance_score": 193193,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,34 +74,16 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-18T22:12:25.811994+00:00",
+    "published_at": "2026-06-19T21:11:46.420613+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185018,
+    "importance_score": 185037,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
-  },
-  {
-    "source": "GitHub",
-    "category": "developer_ecosystem",
-    "title": "prompts.chat",
-    "url": "https://github.com/f/prompts.chat",
-    "published_at": "2026-06-18T22:12:25.812005+00:00",
-    "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "signal_type": "developer_velocity",
-    "importance_score": 163890,
-    "theme_tags": [
-      "open-source",
-      "ai",
-      "developer"
-    ],
-    "narratives": [
-      "open-source"
-    ]
   },
   {
     "source": "OpenAI",
@@ -176,10 +176,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-18T22:12:27.308654+00:00",
-    "summary": "Trending model with 216288695 downloads.",
+    "published_at": "2026-06-19T21:11:47.156901+00:00",
+    "summary": "Trending model with 245017102 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 216288695,
+    "importance_score": 245017102,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-18T22:12:27.308681+00:00",
-    "summary": "Trending model with 68562031 downloads.",
+    "published_at": "2026-06-19T21:11:47.156927+00:00",
+    "summary": "Trending model with 78789614 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 68562031,
+    "importance_score": 78789614,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,10 +210,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-18T22:12:27.308693+00:00",
-    "summary": "Trending model with 52151567 downloads.",
+    "published_at": "2026-06-19T21:11:47.156942+00:00",
+    "summary": "Trending model with 59746156 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52151567,
+    "importance_score": 59746156,
     "theme_tags": [
       "models",
       "open-source",
@@ -226,10 +226,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-18T22:12:27.308702+00:00",
-    "summary": "Trending model with 45272769 downloads.",
+    "published_at": "2026-06-19T21:11:47.156953+00:00",
+    "summary": "Trending model with 57757042 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45272769,
+    "importance_score": 57757042,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +242,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-06-18T22:12:27.308712+00:00",
-    "summary": "Trending model with 43843739 downloads.",
+    "published_at": "2026-06-19T21:11:47.156965+00:00",
+    "summary": "Trending model with 51110552 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 43843739,
+    "importance_score": 51110552,
     "theme_tags": [
       "models",
       "open-source",
