@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-21T21:17:12.485328+00:00",
+    "published_at": "2026-06-22T22:05:32.015871+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 379816,
+    "importance_score": 379966,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-06-21T21:17:12.485367+00:00",
+    "published_at": "2026-06-22T22:05:32.015909+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 234928,
+    "importance_score": 235954,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-21T21:17:12.485382+00:00",
+    "published_at": "2026-06-22T22:05:32.015924+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 198928,
+    "importance_score": 199903,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-21T21:17:12.485391+00:00",
+    "published_at": "2026-06-22T22:05:32.015933+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 193495,
+    "importance_score": 193640,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,80 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-21T21:17:12.485401+00:00",
+    "published_at": "2026-06-22T22:05:32.015944+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185061,
+    "importance_score": 185084,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "published_at": "Mon, 22 Jun 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "published_at": "Mon, 22 Jun 2026 00:00:00 GMT",
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "published_at": "Sun, 21 Jun 2026 23:00:00 GMT",
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -102,84 +168,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Improving health intelligence in ChatGPT",
-    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "published_at": "Thu, 18 Jun 2026 11:00:00 GMT",
-    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "published_at": "Thu, 18 Jun 2026 08:00:00 GMT",
-    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing LifeSciBench",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "published_at": "Wed, 17 Jun 2026 00:00:00 GMT",
-    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-21T21:17:13.433921+00:00",
-    "summary": "Trending model with 245673576 downloads.",
+    "published_at": "2026-06-22T22:05:32.970936+00:00",
+    "summary": "Trending model with 248690085 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 245673576,
+    "importance_score": 248690085,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-21T21:17:13.433947+00:00",
-    "summary": "Trending model with 79932064 downloads.",
+    "published_at": "2026-06-22T22:05:32.970961+00:00",
+    "summary": "Trending model with 81208618 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 79932064,
+    "importance_score": 81208618,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-21T21:17:13.433961+00:00",
-    "summary": "Trending model with 61178514 downloads.",
+    "published_at": "2026-06-22T22:05:32.970977+00:00",
+    "summary": "Trending model with 62391563 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 61178514,
+    "importance_score": 62391563,
     "theme_tags": [
       "models",
       "open-source",
@@ -226,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-21T21:17:13.433972+00:00",
-    "summary": "Trending model with 57757042 downloads.",
+    "published_at": "2026-06-22T22:05:32.970989+00:00",
+    "summary": "Trending model with 59044227 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 57757042,
+    "importance_score": 59044227,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-06-21T21:17:13.433982+00:00",
-    "summary": "Trending model with 51822085 downloads.",
+    "published_at": "2026-06-22T22:05:32.971001+00:00",
+    "summary": "Trending model with 52106648 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51822085,
+    "importance_score": 52106648,
     "theme_tags": [
       "models",
       "open-source",
