@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-28T21:04:37.185043+00:00",
+    "published_at": "2026-06-29T21:37:15.785329+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 380855,
+    "importance_score": 380995,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-06-28T21:04:37.185090+00:00",
+    "published_at": "2026-06-29T21:37:15.785370+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 240597,
+    "importance_score": 241457,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-28T21:04:37.185106+00:00",
+    "published_at": "2026-06-29T21:37:15.785385+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 204906,
+    "importance_score": 205657,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-28T21:04:37.185115+00:00",
+    "published_at": "2026-06-29T21:37:15.785394+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 194381,
+    "importance_score": 194532,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,16 +74,52 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-28T21:04:37.185125+00:00",
+    "published_at": "2026-06-29T21:37:15.785403+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185196,
+    "importance_score": 185212,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "published_at": "Sun, 28 Jun 2026 17:00:00 GMT",
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
   },
   {
     "source": "OpenAI",
@@ -141,46 +177,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Helping build shared standards for advanced AI",
-    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "published_at": "Tue, 23 Jun 2026 13:00:00 GMT",
-    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-    "url": "https://openai.com/index/gpt-5-immunology-mystery",
-    "published_at": "Tue, 23 Jun 2026 17:00:00 GMT",
-    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-28T21:04:38.135357+00:00",
-    "summary": "Trending model with 244454519 downloads.",
+    "published_at": "2026-06-29T21:37:16.826864+00:00",
+    "summary": "Trending model with 244269075 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 244454519,
+    "importance_score": 244269075,
     "theme_tags": [
       "models",
       "open-source",
@@ -193,10 +197,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-28T21:04:38.135387+00:00",
-    "summary": "Trending model with 80078441 downloads.",
+    "published_at": "2026-06-29T21:37:16.826885+00:00",
+    "summary": "Trending model with 79823956 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 80078441,
+    "importance_score": 79823956,
     "theme_tags": [
       "models",
       "open-source",
@@ -211,10 +215,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-28T21:04:38.135399+00:00",
-    "summary": "Trending model with 61550289 downloads.",
+    "published_at": "2026-06-29T21:37:16.826896+00:00",
+    "summary": "Trending model with 61393457 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 61550289,
+    "importance_score": 61393457,
     "theme_tags": [
       "models",
       "open-source",
@@ -227,10 +231,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-28T21:04:38.135408+00:00",
-    "summary": "Trending model with 59862478 downloads.",
+    "published_at": "2026-06-29T21:37:16.826905+00:00",
+    "summary": "Trending model with 60862739 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 59862478,
+    "importance_score": 60862739,
     "theme_tags": [
       "models",
       "open-source",
@@ -243,10 +247,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-06-28T21:04:38.135417+00:00",
-    "summary": "Trending model with 49665455 downloads.",
+    "published_at": "2026-06-29T21:37:16.826913+00:00",
+    "summary": "Trending model with 49222516 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 49665455,
+    "importance_score": 49222516,
     "theme_tags": [
       "models",
       "open-source",
