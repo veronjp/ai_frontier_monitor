@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-06-29T21:37:15.785329+00:00",
+    "published_at": "2026-06-30T21:40:01.086433+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 380995,
+    "importance_score": 381166,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-06-29T21:37:15.785370+00:00",
+    "published_at": "2026-06-30T21:40:01.086478+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 241457,
+    "importance_score": 242416,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-06-29T21:37:15.785385+00:00",
+    "published_at": "2026-06-30T21:40:01.086495+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 205657,
+    "importance_score": 206429,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-06-29T21:37:15.785394+00:00",
+    "published_at": "2026-06-30T21:40:01.086503+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 194532,
+    "importance_score": 194685,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,80 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-06-29T21:37:15.785403+00:00",
+    "published_at": "2026-06-30T21:40:01.086514+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185212,
+    "importance_score": 185217,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "published_at": "Tue, 30 Jun 2026 09:00:00 GMT",
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
+    "summary": "OpenAI update.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -104,87 +170,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "published_at": "Sun, 28 Jun 2026 17:00:00 GMT",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "published_at": "Fri, 26 Jun 2026 10:00:00 GMT",
-    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How agents are transforming work",
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
-    "published_at": "Thu, 25 Jun 2026 02:00:00 GMT",
-    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "published_at": "Wed, 24 Jun 2026 06:00:00 GMT",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source",
-      "infrastructure",
-      "inference_cost"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-06-29T21:37:16.826864+00:00",
-    "summary": "Trending model with 244269075 downloads.",
+    "published_at": "2026-06-30T21:40:02.682584+00:00",
+    "summary": "Trending model with 243187162 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 244269075,
+    "importance_score": 243187162,
     "theme_tags": [
       "models",
       "open-source",
@@ -197,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-06-29T21:37:16.826885+00:00",
-    "summary": "Trending model with 79823956 downloads.",
+    "published_at": "2026-06-30T21:40:02.682613+00:00",
+    "summary": "Trending model with 79342877 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 79823956,
+    "importance_score": 79342877,
     "theme_tags": [
       "models",
       "open-source",
@@ -213,12 +206,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "BAAI/bge-small-en-v1.5",
-    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-06-29T21:37:16.826896+00:00",
-    "summary": "Trending model with 61393457 downloads.",
+    "title": "google-bert/bert-base-uncased",
+    "url": "https://huggingface.co/google-bert/bert-base-uncased",
+    "published_at": "2026-06-30T21:40:02.682625+00:00",
+    "summary": "Trending model with 61171654 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 61393457,
+    "importance_score": 61171654,
     "theme_tags": [
       "models",
       "open-source",
@@ -229,12 +222,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "google-bert/bert-base-uncased",
-    "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-06-29T21:37:16.826905+00:00",
-    "summary": "Trending model with 60862739 downloads.",
+    "title": "BAAI/bge-small-en-v1.5",
+    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+    "published_at": "2026-06-30T21:40:02.682634+00:00",
+    "summary": "Trending model with 61077228 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 60862739,
+    "importance_score": 61077228,
     "theme_tags": [
       "models",
       "open-source",
@@ -247,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-06-29T21:37:16.826913+00:00",
-    "summary": "Trending model with 49222516 downloads.",
+    "published_at": "2026-06-30T21:40:02.682642+00:00",
+    "summary": "Trending model with 48622347 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 49222516,
+    "importance_score": 48622347,
     "theme_tags": [
       "models",
       "open-source",
