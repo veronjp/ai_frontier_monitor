@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-07-07T21:26:23.596712+00:00",
+    "published_at": "2026-07-08T21:10:03.726690+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 382101,
+    "importance_score": 382204,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-07-07T21:26:23.596750+00:00",
+    "published_at": "2026-07-08T21:10:03.726723+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 248627,
+    "importance_score": 249734,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-07-07T21:26:23.596760+00:00",
+    "published_at": "2026-07-08T21:10:03.726735+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 210934,
+    "importance_score": 211525,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-07-07T21:26:23.596767+00:00",
+    "published_at": "2026-07-08T21:10:03.726743+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 195556,
+    "importance_score": 195697,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,78 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-07-07T21:26:23.596775+00:00",
+    "published_at": "2026-07-08T21:10:03.726753+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185420,
+    "importance_score": 185435,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "published_at": "Wed, 08 Jul 2026 13:30:00 GMT",
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "published_at": "Wed, 08 Jul 2026 13:00:00 GMT",
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "published_at": "Wed, 08 Jul 2026 10:00:00 GMT",
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "published_at": "Wed, 08 Jul 2026 00:00:00 GMT",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -102,80 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How ChatGPT adoption has expanded",
-    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "published_at": "Tue, 30 Jun 2026 09:00:00 GMT",
-    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Inside Genebench-Pro",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI update.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Core dump epidemiology: fixing an 18-year-old bug",
-    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing GeneBench-Pro",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "published_at": "Tue, 30 Jun 2026 00:00:00 GMT",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-07-07T21:26:24.347736+00:00",
-    "summary": "Trending model with 247907292 downloads.",
+    "published_at": "2026-07-08T21:10:04.790656+00:00",
+    "summary": "Trending model with 255782403 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 247907292,
+    "importance_score": 255782403,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-07-07T21:26:24.347757+00:00",
-    "summary": "Trending model with 81677440 downloads.",
+    "published_at": "2026-07-08T21:10:04.790684+00:00",
+    "summary": "Trending model with 84839968 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 81677440,
+    "importance_score": 84839968,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-07-07T21:26:24.347767+00:00",
-    "summary": "Trending model with 66275262 downloads.",
+    "published_at": "2026-07-08T21:10:04.790696+00:00",
+    "summary": "Trending model with 69235770 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66275262,
+    "importance_score": 69235770,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-07-07T21:26:24.347774+00:00",
-    "summary": "Trending model with 62937189 downloads.",
+    "published_at": "2026-07-08T21:10:04.790705+00:00",
+    "summary": "Trending model with 65385705 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62937189,
+    "importance_score": 65385705,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-07-07T21:26:24.347781+00:00",
-    "summary": "Trending model with 48390736 downloads.",
+    "published_at": "2026-07-08T21:10:04.790715+00:00",
+    "summary": "Trending model with 50303787 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48390736,
+    "importance_score": 50303787,
     "theme_tags": [
       "models",
       "open-source",
