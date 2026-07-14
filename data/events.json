@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-07-13T20:58:27.281903+00:00",
+    "published_at": "2026-07-14T21:01:57.682391+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 382824,
+    "importance_score": 382940,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-07-13T20:58:27.281949+00:00",
+    "published_at": "2026-07-14T21:01:57.682438+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 253807,
+    "importance_score": 254654,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-07-13T20:58:27.281961+00:00",
+    "published_at": "2026-07-14T21:01:57.682451+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 214220,
+    "importance_score": 214836,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-07-13T20:58:27.281969+00:00",
+    "published_at": "2026-07-14T21:01:57.682460+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 196313,
+    "importance_score": 196438,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,65 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-07-13T20:58:27.281980+00:00",
+    "published_at": "2026-07-14T21:01:57.682470+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185509,
+    "importance_score": 185535,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "published_at": "Tue, 14 Jul 2026 10:00:00 GMT",
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "inference_cost"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -118,65 +169,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "published_at": "Thu, 09 Jul 2026 13:00:00 GMT",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "copilots",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "GPT-5.5 Bio Bug Bounty",
-    "url": "https://openai.com/index/bio-bug-bounty",
-    "published_at": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "summary": "Details about the OpenAI Bio Bounty program",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "url": "https://openai.com/index/gpt-5-6",
-    "published_at": "Thu, 09 Jul 2026 10:00:00 GMT",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-07-13T20:58:28.122599+00:00",
-    "summary": "Trending model with 253402358 downloads.",
+    "published_at": "2026-07-14T21:01:58.687684+00:00",
+    "summary": "Trending model with 254155897 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 253402358,
+    "importance_score": 254155897,
     "theme_tags": [
       "models",
       "open-source",
@@ -189,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-07-13T20:58:28.122627+00:00",
-    "summary": "Trending model with 85113639 downloads.",
+    "published_at": "2026-07-14T21:01:58.687717+00:00",
+    "summary": "Trending model with 85208183 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 85113639,
+    "importance_score": 85208183,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-07-13T20:58:28.122638+00:00",
-    "summary": "Trending model with 75423637 downloads.",
+    "published_at": "2026-07-14T21:01:58.687730+00:00",
+    "summary": "Trending model with 78962390 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 75423637,
+    "importance_score": 78962390,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-07-13T20:58:28.122647+00:00",
-    "summary": "Trending model with 66697644 downloads.",
+    "published_at": "2026-07-14T21:01:58.687739+00:00",
+    "summary": "Trending model with 66898960 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66697644,
+    "importance_score": 66898960,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-07-13T20:58:28.122655+00:00",
-    "summary": "Trending model with 52022122 downloads.",
+    "published_at": "2026-07-14T21:01:58.687748+00:00",
+    "summary": "Trending model with 54218527 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52022122,
+    "importance_score": 54218527,
     "theme_tags": [
       "models",
       "open-source",
