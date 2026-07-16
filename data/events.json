@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-07-15T21:02:36.252856+00:00",
+    "published_at": "2026-07-16T21:02:44.857340+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 383035,
+    "importance_score": 383154,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-07-15T21:02:36.252905+00:00",
+    "published_at": "2026-07-16T21:02:44.857386+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 255346,
+    "importance_score": 255906,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-07-15T21:02:36.252921+00:00",
+    "published_at": "2026-07-16T21:02:44.857399+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 215410,
+    "importance_score": 215942,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-07-15T21:02:36.252930+00:00",
+    "published_at": "2026-07-16T21:02:44.857408+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 196575,
+    "importance_score": 196710,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,16 +74,51 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-07-15T21:02:36.252940+00:00",
+    "published_at": "2026-07-16T21:02:44.857418+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185562,
+    "importance_score": 185581,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "published_at": "Thu, 16 Jul 2026 16:00:00 GMT",
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "url": "https://openai.com/index/cars24",
+    "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
+    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "open-source"
+    ]
   },
   {
     "source": "OpenAI",
@@ -137,46 +172,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How data science teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How sales teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "published_at": "Tue, 14 Jul 2026 00:00:00 GMT",
-    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-07-15T21:02:37.035089+00:00",
-    "summary": "Trending model with 253910237 downloads.",
+    "published_at": "2026-07-16T21:02:45.836245+00:00",
+    "summary": "Trending model with 249011265 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 253910237,
+    "importance_score": 249011265,
     "theme_tags": [
       "models",
       "open-source",
@@ -189,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-07-15T21:02:37.035118+00:00",
-    "summary": "Trending model with 85105028 downloads.",
+    "published_at": "2026-07-16T21:02:45.836271+00:00",
+    "summary": "Trending model with 83692946 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 85105028,
+    "importance_score": 83692946,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +210,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-07-15T21:02:37.035131+00:00",
-    "summary": "Trending model with 80047159 downloads.",
+    "published_at": "2026-07-16T21:02:45.836283+00:00",
+    "summary": "Trending model with 79159377 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 80047159,
+    "importance_score": 79159377,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +226,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-07-15T21:02:37.035140+00:00",
-    "summary": "Trending model with 66813343 downloads.",
+    "published_at": "2026-07-16T21:02:45.836291+00:00",
+    "summary": "Trending model with 65662549 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66813343,
+    "importance_score": 65662549,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +242,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-07-15T21:02:37.035149+00:00",
-    "summary": "Trending model with 56275314 downloads.",
+    "published_at": "2026-07-16T21:02:45.836300+00:00",
+    "summary": "Trending model with 54975013 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56275314,
+    "importance_score": 54975013,
     "theme_tags": [
       "models",
       "open-source",
