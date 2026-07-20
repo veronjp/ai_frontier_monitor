@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-07-19T20:53:21.389760+00:00",
+    "published_at": "2026-07-20T21:13:46.475206+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 383485,
+    "importance_score": 383593,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-07-19T20:53:21.389799+00:00",
+    "published_at": "2026-07-20T21:13:46.475250+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 257522,
+    "importance_score": 258127,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-07-19T20:53:21.389811+00:00",
+    "published_at": "2026-07-20T21:13:46.475264+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 217208,
+    "importance_score": 217740,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-07-19T20:53:21.389819+00:00",
+    "published_at": "2026-07-20T21:13:46.475272+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 197063,
+    "importance_score": 197213,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,16 +74,34 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-07-19T20:53:21.389829+00:00",
+    "published_at": "2026-07-20T21:13:46.475283+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185616,
+    "importance_score": 185620,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "published_at": "Mon, 20 Jul 2026 10:00:00 GMT",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "infrastructure"
+    ]
   },
   {
     "source": "OpenAI",
@@ -153,30 +171,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "published_at": "Wed, 15 Jul 2026 10:00:00 GMT",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-07-19T20:53:22.368098+00:00",
-    "summary": "Trending model with 248516777 downloads.",
+    "published_at": "2026-07-20T21:13:47.245853+00:00",
+    "summary": "Trending model with 240643472 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 248516777,
+    "importance_score": 240643472,
     "theme_tags": [
       "models",
       "open-source",
@@ -189,10 +191,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-07-19T20:53:22.368123+00:00",
-    "summary": "Trending model with 83870749 downloads.",
+    "published_at": "2026-07-20T21:13:47.245877+00:00",
+    "summary": "Trending model with 81260742 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 83870749,
+    "importance_score": 81260742,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +209,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-07-19T20:53:22.368135+00:00",
-    "summary": "Trending model with 78430360 downloads.",
+    "published_at": "2026-07-20T21:13:47.245889+00:00",
+    "summary": "Trending model with 76450882 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 78430360,
+    "importance_score": 76450882,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +225,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-07-19T20:53:22.368143+00:00",
-    "summary": "Trending model with 65211911 downloads.",
+    "published_at": "2026-07-20T21:13:47.245897+00:00",
+    "summary": "Trending model with 62961873 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 65211911,
+    "importance_score": 62961873,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +241,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-07-19T20:53:22.368152+00:00",
-    "summary": "Trending model with 54637196 downloads.",
+    "published_at": "2026-07-20T21:13:47.245905+00:00",
+    "summary": "Trending model with 52202882 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54637196,
+    "importance_score": 52202882,
     "theme_tags": [
       "models",
       "open-source",
