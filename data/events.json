@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-07-20T21:13:46.475206+00:00",
+    "published_at": "2026-07-21T21:12:31.373706+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 383593,
+    "importance_score": 383715,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-07-20T21:13:46.475250+00:00",
+    "published_at": "2026-07-21T21:12:31.373745+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 258127,
+    "importance_score": 258735,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-07-20T21:13:46.475264+00:00",
+    "published_at": "2026-07-21T21:12:31.373755+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 217740,
+    "importance_score": 218346,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-07-20T21:13:46.475272+00:00",
+    "published_at": "2026-07-21T21:12:31.373762+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 197213,
+    "importance_score": 197365,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,62 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-07-20T21:13:46.475283+00:00",
+    "published_at": "2026-07-21T21:12:31.373770+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185620,
+    "importance_score": 185643,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "published_at": "Tue, 21 Jul 2026 17:00:00 GMT",
+    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "published_at": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+    "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+    "published_at": "Tue, 21 Jul 2026 00:00:00 GMT",
+    "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -120,65 +168,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Why teens deserve access to safe AI",
-    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "published_at": "Thu, 16 Jul 2026 16:00:00 GMT",
-    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Cars24 scales conversations and builds faster with OpenAI",
-    "url": "https://openai.com/index/cars24",
-    "published_at": "Thu, 16 Jul 2026 00:00:00 GMT",
-    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "The US is advancing AI safety through state and federal action",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "published_at": "Wed, 15 Jul 2026 12:00:00 GMT",
-    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-07-20T21:13:47.245853+00:00",
-    "summary": "Trending model with 240643472 downloads.",
+    "published_at": "2026-07-21T21:12:32.163336+00:00",
+    "summary": "Trending model with 241315604 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 240643472,
+    "importance_score": 241315604,
     "theme_tags": [
       "models",
       "open-source",
@@ -191,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-07-20T21:13:47.245877+00:00",
-    "summary": "Trending model with 81260742 downloads.",
+    "published_at": "2026-07-21T21:12:32.163362+00:00",
+    "summary": "Trending model with 81752732 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 81260742,
+    "importance_score": 81752732,
     "theme_tags": [
       "models",
       "open-source",
@@ -209,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-07-20T21:13:47.245889+00:00",
-    "summary": "Trending model with 76450882 downloads.",
+    "published_at": "2026-07-21T21:12:32.163371+00:00",
+    "summary": "Trending model with 79205163 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 76450882,
+    "importance_score": 79205163,
     "theme_tags": [
       "models",
       "open-source",
@@ -225,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-07-20T21:13:47.245897+00:00",
-    "summary": "Trending model with 62961873 downloads.",
+    "published_at": "2026-07-21T21:12:32.163378+00:00",
+    "summary": "Trending model with 63242349 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62961873,
+    "importance_score": 63242349,
     "theme_tags": [
       "models",
       "open-source",
@@ -241,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-07-20T21:13:47.245905+00:00",
-    "summary": "Trending model with 52202882 downloads.",
+    "published_at": "2026-07-21T21:12:32.163384+00:00",
+    "summary": "Trending model with 52470315 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52202882,
+    "importance_score": 52470315,
     "theme_tags": [
       "models",
       "open-source",
