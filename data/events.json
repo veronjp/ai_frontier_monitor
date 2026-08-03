@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-02T20:57:43.658523+00:00",
+    "published_at": "2026-08-03T21:05:16.367224+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 384947,
+    "importance_score": 385044,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-02T20:57:43.658563+00:00",
+    "published_at": "2026-08-03T21:05:16.367263+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 265113,
+    "importance_score": 265673,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-02T20:57:43.658575+00:00",
+    "published_at": "2026-08-03T21:05:16.367273+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 224265,
+    "importance_score": 224841,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-02T20:57:43.658583+00:00",
+    "published_at": "2026-08-03T21:05:16.367280+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 199079,
+    "importance_score": 199205,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,16 +74,34 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-02T20:57:43.658593+00:00",
+    "published_at": "2026-08-03T21:05:16.367288+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185769,
+    "importance_score": 185790,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How we built a realtime system for responsive voice AI in six months",
+    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "inference_cost"
+    ]
   },
   {
     "source": "OpenAI",
@@ -152,30 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Disrupting a Criminal Scam Operation",
-    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-    "published_at": "Fri, 31 Jul 2026 00:00:00 GMT",
-    "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-02T20:57:44.319328+00:00",
-    "summary": "Trending model with 257323673 downloads.",
+    "published_at": "2026-08-03T21:05:16.981404+00:00",
+    "summary": "Trending model with 257599358 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 257323673,
+    "importance_score": 257599358,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-02T20:57:44.319354+00:00",
-    "summary": "Trending model with 112260851 downloads.",
+    "published_at": "2026-08-03T21:05:16.981428+00:00",
+    "summary": "Trending model with 114894026 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 112260851,
+    "importance_score": 114894026,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-02T20:57:44.319368+00:00",
-    "summary": "Trending model with 89049651 downloads.",
+    "published_at": "2026-08-03T21:05:16.981436+00:00",
+    "summary": "Trending model with 89120995 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 89049651,
+    "importance_score": 89120995,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-02T20:57:44.319381+00:00",
-    "summary": "Trending model with 72047595 downloads.",
+    "published_at": "2026-08-03T21:05:16.981443+00:00",
+    "summary": "Trending model with 72470174 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 72047595,
+    "importance_score": 72470174,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-08-02T20:57:44.319392+00:00",
-    "summary": "Trending model with 60018312 downloads.",
+    "published_at": "2026-08-03T21:05:16.981451+00:00",
+    "summary": "Trending model with 59964437 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 60018312,
+    "importance_score": 59964437,
     "theme_tags": [
       "models",
       "open-source",
