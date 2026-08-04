@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-03T21:05:16.367224+00:00",
+    "published_at": "2026-08-04T21:13:42.184110+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 385044,
+    "importance_score": 385128,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-03T21:05:16.367263+00:00",
+    "published_at": "2026-08-04T21:13:42.184158+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 265673,
+    "importance_score": 266396,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-03T21:05:16.367273+00:00",
+    "published_at": "2026-08-04T21:13:42.184172+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 224841,
+    "importance_score": 225450,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-03T21:05:16.367280+00:00",
+    "published_at": "2026-08-04T21:13:42.184180+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 199205,
+    "importance_score": 199333,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,62 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-03T21:05:16.367288+00:00",
+    "published_at": "2026-08-04T21:13:42.184190+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185790,
+    "importance_score": 185808,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "published_at": "Tue, 04 Aug 2026 19:00:00 GMT",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "published_at": "Tue, 04 Aug 2026 00:00:00 GMT",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "published_at": "Mon, 03 Aug 2026 22:00:00 GMT",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -106,26 +154,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Ten advances in mathematics and theoretical computer science",
-    "url": "https://openai.com/index/ten-advances-in-mathematics",
-    "published_at": "Sat, 01 Aug 2026 00:00:00 GMT",
-    "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Advancing responsible AI across Europe",
-    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "published_at": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "url": "https://openai.com/index/circles",
+    "published_at": "Mon, 03 Aug 2026 00:00:00 GMT",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -134,50 +166,18 @@
       "capability"
     ],
     "narratives": [
-      "open-source"
+      "inference_cost"
     ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Building abundant intelligence",
-    "url": "https://openai.com/index/building-abundant-intelligence",
-    "published_at": "Fri, 31 Jul 2026 15:00:00 GMT",
-    "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Univé builds an AI-ready workforce",
-    "url": "https://openai.com/index/unive",
-    "published_at": "Fri, 31 Jul 2026 07:00:00 GMT",
-    "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-03T21:05:16.981404+00:00",
-    "summary": "Trending model with 257599358 downloads.",
+    "published_at": "2026-08-04T21:13:42.747550+00:00",
+    "summary": "Trending model with 259564359 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 257599358,
+    "importance_score": 259564359,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-03T21:05:16.981428+00:00",
-    "summary": "Trending model with 114894026 downloads.",
+    "published_at": "2026-08-04T21:13:42.747575+00:00",
+    "summary": "Trending model with 119489278 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 114894026,
+    "importance_score": 119489278,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-03T21:05:16.981436+00:00",
-    "summary": "Trending model with 89120995 downloads.",
+    "published_at": "2026-08-04T21:13:42.747586+00:00",
+    "summary": "Trending model with 89315748 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 89120995,
+    "importance_score": 89315748,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-03T21:05:16.981443+00:00",
-    "summary": "Trending model with 72470174 downloads.",
+    "published_at": "2026-08-04T21:13:42.747596+00:00",
+    "summary": "Trending model with 72855959 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 72470174,
+    "importance_score": 72855959,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-08-03T21:05:16.981451+00:00",
-    "summary": "Trending model with 59964437 downloads.",
+    "published_at": "2026-08-04T21:13:42.747605+00:00",
+    "summary": "Trending model with 60011748 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 59964437,
+    "importance_score": 60011748,
     "theme_tags": [
       "models",
       "open-source",
