@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-04T21:13:42.184110+00:00",
+    "published_at": "2026-08-07T00:52:48.398355+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 385128,
+    "importance_score": 385388,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-04T21:13:42.184158+00:00",
+    "published_at": "2026-08-07T00:52:48.398392+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 266396,
+    "importance_score": 268094,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-04T21:13:42.184172+00:00",
+    "published_at": "2026-08-07T00:52:48.398405+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 225450,
+    "importance_score": 226594,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-04T21:13:42.184180+00:00",
+    "published_at": "2026-08-07T00:52:48.398413+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 199333,
+    "importance_score": 199625,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,62 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-04T21:13:42.184190+00:00",
+    "published_at": "2026-08-07T00:52:48.398423+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 185808,
+    "importance_score": 186009,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "published_at": "Thu, 06 Aug 2026 10:00:00 GMT",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "published_at": "Thu, 06 Aug 2026 06:00:00 GMT",
+    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "published_at": "Thu, 06 Aug 2026 00:00:00 GMT",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -118,66 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Apple is getting this wrong",
-    "url": "https://openai.com/index/apple-is-getting-this-wrong",
-    "published_at": "Mon, 03 Aug 2026 22:00:00 GMT",
-    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How we built a realtime system for responsive voice AI in six months",
-    "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
-    "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "inference_cost"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Circles powers telco personalization with OpenAI technology",
-    "url": "https://openai.com/index/circles",
-    "published_at": "Mon, 03 Aug 2026 00:00:00 GMT",
-    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "inference_cost"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-04T21:13:42.747550+00:00",
-    "summary": "Trending model with 259564359 downloads.",
+    "published_at": "2026-08-07T00:52:49.261505+00:00",
+    "summary": "Trending model with 252446310 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 259564359,
+    "importance_score": 252446310,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-04T21:13:42.747575+00:00",
-    "summary": "Trending model with 119489278 downloads.",
+    "published_at": "2026-08-07T00:52:49.261532+00:00",
+    "summary": "Trending model with 120158675 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 119489278,
+    "importance_score": 120158675,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +202,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-04T21:13:42.747586+00:00",
-    "summary": "Trending model with 89315748 downloads.",
+    "published_at": "2026-08-07T00:52:49.261545+00:00",
+    "summary": "Trending model with 86599291 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 89315748,
+    "importance_score": 86599291,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-04T21:13:42.747596+00:00",
-    "summary": "Trending model with 72855959 downloads.",
+    "published_at": "2026-08-07T00:52:49.261557+00:00",
+    "summary": "Trending model with 70921229 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 72855959,
+    "importance_score": 70921229,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-08-04T21:13:42.747605+00:00",
-    "summary": "Trending model with 60011748 downloads.",
+    "published_at": "2026-08-07T00:52:49.261568+00:00",
+    "summary": "Trending model with 58154897 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 60011748,
+    "importance_score": 58154897,
     "theme_tags": [
       "models",
       "open-source",
