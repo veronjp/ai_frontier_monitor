@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-18T20:26:17.387170+00:00",
+    "published_at": "2026-08-19T20:30:17.834666+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 386667,
+    "importance_score": 386802,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-18T20:26:17.387219+00:00",
+    "published_at": "2026-08-19T20:30:17.834711+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 273626,
+    "importance_score": 274191,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-18T20:26:17.387238+00:00",
+    "published_at": "2026-08-19T20:30:17.834726+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 232495,
+    "importance_score": 233007,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-18T20:26:17.387247+00:00",
+    "published_at": "2026-08-19T20:30:17.834735+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 201105,
+    "importance_score": 201202,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,10 +74,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-18T20:26:17.387257+00:00",
+    "published_at": "2026-08-19T20:30:17.834745+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 186672,
+    "importance_score": 186690,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,7 +88,57 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Strengthening Democratic Oversight in National Security",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "published_at": "Tue, 18 Aug 2026 22:00:00 GMT",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Strengthening democratic oversight in national security",
     "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "published_at": "Tue, 18 Aug 2026 19:00:00 GMT",
     "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
@@ -120,62 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Pacing model development in an era of cyber-critical capabilities",
-    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-    "url": "https://openai.com/index/chatgpt-for-teens",
-    "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-    "url": "https://openai.com/index/asana",
-    "published_at": "Tue, 18 Aug 2026 07:00:00 GMT",
-    "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-18T20:26:17.979955+00:00",
-    "summary": "Trending model with 258193926 downloads.",
+    "published_at": "2026-08-19T20:30:18.658374+00:00",
+    "summary": "Trending model with 257979686 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 258193926,
+    "importance_score": 257979686,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-18T20:26:17.979984+00:00",
-    "summary": "Trending model with 111424688 downloads.",
+    "published_at": "2026-08-19T20:30:18.658402+00:00",
+    "summary": "Trending model with 108216639 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 111424688,
+    "importance_score": 108216639,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-18T20:26:17.979994+00:00",
-    "summary": "Trending model with 89247481 downloads.",
+    "published_at": "2026-08-19T20:30:18.658416+00:00",
+    "summary": "Trending model with 89062278 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 89247481,
+    "importance_score": 89062278,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-18T20:26:17.980004+00:00",
-    "summary": "Trending model with 73518672 downloads.",
+    "published_at": "2026-08-19T20:30:18.658429+00:00",
+    "summary": "Trending model with 73267376 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 73518672,
+    "importance_score": 73267376,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,12 +238,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-08-18T20:26:17.980013+00:00",
-    "summary": "Trending model with 56248525 downloads.",
+    "title": "google/electra-base-discriminator",
+    "url": "https://huggingface.co/google/electra-base-discriminator",
+    "published_at": "2026-08-19T20:30:18.658441+00:00",
+    "summary": "Trending model with 56136973 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56248525,
+    "importance_score": 56136973,
     "theme_tags": [
       "models",
       "open-source",
