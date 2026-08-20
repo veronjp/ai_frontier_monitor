@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-19T20:30:17.834666+00:00",
+    "published_at": "2026-08-20T20:30:46.023197+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 386802,
+    "importance_score": 386904,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-19T20:30:17.834711+00:00",
+    "published_at": "2026-08-20T20:30:46.023243+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 274191,
+    "importance_score": 274863,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-19T20:30:17.834726+00:00",
+    "published_at": "2026-08-20T20:30:46.023258+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 233007,
+    "importance_score": 233501,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-19T20:30:17.834735+00:00",
+    "published_at": "2026-08-20T20:30:46.023267+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 201202,
+    "importance_score": 201360,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,46 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-19T20:30:17.834745+00:00",
+    "published_at": "2026-08-20T20:30:46.023278+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 186690,
+    "importance_score": 186686,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "published_at": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "url": "https://openai.com/index/stampli",
+    "published_at": "Thu, 20 Aug 2026 00:00:00 GMT",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -136,48 +168,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Strengthening democratic oversight in national security",
-    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "published_at": "Tue, 18 Aug 2026 19:00:00 GMT",
-    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Partnering with CodeAI to prepare the first AI generation",
-    "url": "https://openai.com/index/partnering-with-codeai",
-    "published_at": "Tue, 18 Aug 2026 11:00:00 GMT",
-    "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-19T20:30:18.658374+00:00",
-    "summary": "Trending model with 257979686 downloads.",
+    "published_at": "2026-08-20T20:30:46.686186+00:00",
+    "summary": "Trending model with 257677220 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 257979686,
+    "importance_score": 257677220,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-19T20:30:18.658402+00:00",
-    "summary": "Trending model with 108216639 downloads.",
+    "published_at": "2026-08-20T20:30:46.686218+00:00",
+    "summary": "Trending model with 105411681 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 108216639,
+    "importance_score": 105411681,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,7 +204,7 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-19T20:30:18.658416+00:00",
+    "published_at": "2026-08-20T20:30:46.686231+00:00",
     "summary": "Trending model with 89062278 downloads.",
     "signal_type": "model_capability",
     "importance_score": 89062278,
@@ -224,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-19T20:30:18.658429+00:00",
-    "summary": "Trending model with 73267376 downloads.",
+    "published_at": "2026-08-20T20:30:46.686245+00:00",
+    "summary": "Trending model with 73044660 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 73267376,
+    "importance_score": 73044660,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-08-19T20:30:18.658441+00:00",
-    "summary": "Trending model with 56136973 downloads.",
+    "published_at": "2026-08-20T20:30:46.686256+00:00",
+    "summary": "Trending model with 56129564 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56136973,
+    "importance_score": 56129564,
     "theme_tags": [
       "models",
       "open-source",
