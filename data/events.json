@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-24T20:32:13.124478+00:00",
+    "published_at": "2026-08-26T22:52:18.194546+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 387393,
+    "importance_score": 387713,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-24T20:32:13.124529+00:00",
+    "published_at": "2026-08-26T22:52:18.194591+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 277055,
+    "importance_score": 278079,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-24T20:32:13.124544+00:00",
+    "published_at": "2026-08-26T22:52:18.194606+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 235709,
+    "importance_score": 236878,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-24T20:32:13.124552+00:00",
+    "published_at": "2026-08-26T22:52:18.194615+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 202291,
+    "importance_score": 202525,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,10 +74,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-24T20:32:13.124562+00:00",
+    "published_at": "2026-08-26T22:52:18.194625+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 186850,
+    "importance_score": 186900,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,10 +88,28 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-    "url": "https://openai.com/index/gpt-5-6-in-kiro",
-    "published_at": "Mon, 24 Aug 2026 12:00:00 GMT",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "published_at": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "published_at": "Wed, 26 Aug 2026 10:00:00 GMT",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -104,10 +122,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Introducing AI Futures",
-    "url": "https://openai.com/index/introducing-ai-futures",
-    "published_at": "Thu, 20 Aug 2026 07:00:00 GMT",
-    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "title": "The Hugging Face incident and the road ahead",
+    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "published_at": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -120,10 +138,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "url": "https://openai.com/index/stampli",
-    "published_at": "Thu, 20 Aug 2026 00:00:00 GMT",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "title": "How loveholidays is making everyone a builder with Codex",
+    "url": "https://openai.com/index/loveholidays",
+    "published_at": "Wed, 26 Aug 2026 00:00:00 GMT",
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -131,15 +149,17 @@
       "research",
       "capability"
     ],
-    "narratives": []
+    "narratives": [
+      "open-source"
+    ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Offering Zero Data Retention for frontier models",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "published_at": "Wed, 19 Aug 2026 19:00:00 GMT",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "published_at": "Tue, 25 Aug 2026 07:05:00 GMT",
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -147,33 +167,19 @@
       "research",
       "capability"
     ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "url": "https://openai.com/index/replit",
-    "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
-    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
+    "narratives": [
+      "open-source"
+    ]
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-24T20:32:13.823428+00:00",
-    "summary": "Trending model with 255841858 downloads.",
+    "published_at": "2026-08-26T22:52:18.916144+00:00",
+    "summary": "Trending model with 256327995 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 255841858,
+    "importance_score": 256327995,
     "theme_tags": [
       "models",
       "open-source",
@@ -186,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-24T20:32:13.823454+00:00",
-    "summary": "Trending model with 95424377 downloads.",
+    "published_at": "2026-08-26T22:52:18.916171+00:00",
+    "summary": "Trending model with 91982965 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 95424377,
+    "importance_score": 91982965,
     "theme_tags": [
       "models",
       "open-source",
@@ -202,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-24T20:32:13.823464+00:00",
-    "summary": "Trending model with 87612957 downloads.",
+    "published_at": "2026-08-26T22:52:18.916181+00:00",
+    "summary": "Trending model with 87411511 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 87612957,
+    "importance_score": 87411511,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +226,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-24T20:32:13.823475+00:00",
-    "summary": "Trending model with 71619849 downloads.",
+    "published_at": "2026-08-26T22:52:18.916192+00:00",
+    "summary": "Trending model with 70844329 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 71619849,
+    "importance_score": 70844329,
     "theme_tags": [
       "models",
       "open-source",
@@ -234,12 +240,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "google/electra-base-discriminator",
-    "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-08-24T20:32:13.823483+00:00",
-    "summary": "Trending model with 54698880 downloads.",
+    "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "published_at": "2026-08-26T22:52:18.916201+00:00",
+    "summary": "Trending model with 54423737 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54698880,
+    "importance_score": 54423737,
     "theme_tags": [
       "models",
       "open-source",
