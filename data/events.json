@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-28T04:05:38.733825+00:00",
+    "published_at": "2026-08-29T02:45:05.505543+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 387856,
+    "importance_score": 387941,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-28T04:05:38.733894+00:00",
+    "published_at": "2026-08-29T02:45:05.505593+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 278707,
+    "importance_score": 279084,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-28T04:05:38.733911+00:00",
+    "published_at": "2026-08-29T02:45:05.505608+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 237394,
+    "importance_score": 237781,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-28T04:05:38.733920+00:00",
+    "published_at": "2026-08-29T02:45:05.505617+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 202643,
+    "importance_score": 202727,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,46 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-28T04:05:38.733930+00:00",
+    "published_at": "2026-08-29T02:45:05.505627+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 186943,
+    "importance_score": 186965,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "published_at": "Fri, 28 Aug 2026 06:00:00 GMT",
+    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "published_at": "Fri, 28 Aug 2026 02:00:00 GMT",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -124,24 +156,6 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "published_at": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
     "title": "Learning never stops: How AI makes learning continuous",
     "url": "https://openai.com/index/learning-never-stops",
     "published_at": "Wed, 26 Aug 2026 10:00:00 GMT",
@@ -156,46 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "The Hugging Face incident and the road ahead",
-    "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "published_at": "Wed, 26 Aug 2026 00:00:00 GMT",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-28T04:05:39.475783+00:00",
-    "summary": "Trending model with 251037378 downloads.",
+    "published_at": "2026-08-29T02:45:06.088407+00:00",
+    "summary": "Trending model with 241173345 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 251037378,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
-    "title": "google-bert/bert-base-uncased",
-    "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-28T04:05:39.475807+00:00",
-    "summary": "Trending model with 86510509 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 86510509,
+    "importance_score": 241173345,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-28T04:05:39.475820+00:00",
-    "summary": "Trending model with 85727088 downloads.",
+    "published_at": "2026-08-29T02:45:06.088432+00:00",
+    "summary": "Trending model with 82504284 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 85727088,
+    "importance_score": 82504284,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,12 +206,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "BAAI/bge-small-en-v1.5",
-    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-28T04:05:39.475833+00:00",
-    "summary": "Trending model with 69122991 downloads.",
+    "title": "google-bert/bert-base-uncased",
+    "url": "https://huggingface.co/google-bert/bert-base-uncased",
+    "published_at": "2026-08-29T02:45:06.088444+00:00",
+    "summary": "Trending model with 81222399 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 69122991,
+    "importance_score": 81222399,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,12 +222,28 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-08-28T04:05:39.475844+00:00",
-    "summary": "Trending model with 52931246 downloads.",
+    "title": "BAAI/bge-small-en-v1.5",
+    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+    "published_at": "2026-08-29T02:45:06.088453+00:00",
+    "summary": "Trending model with 66356634 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 52931246,
+    "importance_score": 66356634,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
+    "title": "google/electra-base-discriminator",
+    "url": "https://huggingface.co/google/electra-base-discriminator",
+    "published_at": "2026-08-29T02:45:06.088463+00:00",
+    "summary": "Trending model with 49728662 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 49728662,
     "theme_tags": [
       "models",
       "open-source",
