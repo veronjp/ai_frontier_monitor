@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-08-30T22:29:44.981859+00:00",
+    "published_at": "2026-08-31T23:39:16.984976+00:00",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 388087,
+    "importance_score": 388286,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-08-30T22:29:44.981902+00:00",
+    "published_at": "2026-08-31T23:39:16.985023+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 279665,
+    "importance_score": 280062,
     "theme_tags": [
       "open-source",
       "ai",
@@ -40,10 +40,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-08-30T22:29:44.981914+00:00",
+    "published_at": "2026-08-31T23:39:16.985037+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 238480,
+    "importance_score": 238990,
     "theme_tags": [
       "open-source",
       "ai",
@@ -58,10 +58,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-08-30T22:29:44.981921+00:00",
+    "published_at": "2026-08-31T23:39:16.985046+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 202882,
+    "importance_score": 202976,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,46 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-08-30T22:29:44.981929+00:00",
+    "published_at": "2026-08-31T23:39:16.985056+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 187017,
+    "importance_score": 187039,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "published_at": "Mon, 31 Aug 2026 04:00:00 GMT",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -136,48 +168,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Expanding OpenAI’s presence in Brazil",
-    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-    "published_at": "Thu, 27 Aug 2026 03:00:00 GMT",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "published_at": "Wed, 26 Aug 2026 10:00:00 GMT",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-08-30T22:29:45.485596+00:00",
-    "summary": "Trending model with 255115397 downloads.",
+    "published_at": "2026-08-31T23:39:17.696901+00:00",
+    "summary": "Trending model with 253520473 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 255115397,
+    "importance_score": 253520473,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-08-30T22:29:45.485616+00:00",
-    "summary": "Trending model with 87066660 downloads.",
+    "published_at": "2026-08-31T23:39:17.696924+00:00",
+    "summary": "Trending model with 86404649 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 87066660,
+    "importance_score": 86404649,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-08-30T22:29:45.485625+00:00",
-    "summary": "Trending model with 77711078 downloads.",
+    "published_at": "2026-08-31T23:39:17.696936+00:00",
+    "summary": "Trending model with 73085822 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 77711078,
+    "importance_score": 73085822,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-08-30T22:29:45.485632+00:00",
-    "summary": "Trending model with 68802651 downloads.",
+    "published_at": "2026-08-31T23:39:17.696945+00:00",
+    "summary": "Trending model with 67926190 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 68802651,
+    "importance_score": 67926190,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-08-30T22:29:45.485639+00:00",
-    "summary": "Trending model with 54807287 downloads.",
+    "published_at": "2026-08-31T23:39:17.696954+00:00",
+    "summary": "Trending model with 55017508 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54807287,
+    "importance_score": 55017508,
     "theme_tags": [
       "models",
       "open-source",
