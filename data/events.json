@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-09-05T21:57:56.785768+00:00",
+    "published_at": "2026-09-06T21:59:41.055447+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 388971,
+    "importance_score": 389045,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-09-05T21:57:56.785809+00:00",
+    "published_at": "2026-09-06T21:59:41.055493+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 282080,
+    "importance_score": 282382,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-09-05T21:57:56.785821+00:00",
+    "published_at": "2026-09-06T21:59:41.055509+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 241961,
+    "importance_score": 242506,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-09-05T21:57:56.785828+00:00",
+    "published_at": "2026-09-06T21:59:41.055519+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 203471,
+    "importance_score": 203551,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,16 +72,50 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-09-05T21:57:56.785837+00:00",
+    "published_at": "2026-09-06T21:59:41.055530+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 187162,
+    "importance_score": 187173,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "published_at": "Sun, 06 Sep 2026 09:00:00 GMT",
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Research acceleration: The view inside OpenAI",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "published_at": "Sun, 06 Sep 2026 08:00:00 GMT",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
   },
   {
     "source": "OpenAI",
@@ -104,22 +138,6 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
@@ -136,28 +154,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "GPT-6 Astra: A new generation of intelligence",
-    "url": "https://openai.com/index/gpt-6-astra",
-    "published_at": "Thu, 03 Sep 2026 11:00:00 GMT",
-    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Safety overview: GPT-6 Astra",
-    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
-    "published_at": "Thu, 03 Sep 2026 00:00:00 GMT",
-    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "published_at": "Thu, 03 Sep 2026 12:00:00 GMT",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -172,10 +172,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-09-05T21:57:57.259718+00:00",
-    "summary": "Trending model with 255006933 downloads.",
+    "published_at": "2026-09-06T21:59:41.815401+00:00",
+    "summary": "Trending model with 253029336 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 255006933,
+    "importance_score": 253029336,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-09-05T21:57:57.259736+00:00",
-    "summary": "Trending model with 87038108 downloads.",
+    "published_at": "2026-09-06T21:59:41.815430+00:00",
+    "summary": "Trending model with 86493507 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 87038108,
+    "importance_score": 86493507,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-09-05T21:57:57.259745+00:00",
-    "summary": "Trending model with 66535522 downloads.",
+    "published_at": "2026-09-06T21:59:41.815443+00:00",
+    "summary": "Trending model with 65591890 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66535522,
+    "importance_score": 65591890,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-09-05T21:57:57.259752+00:00",
-    "summary": "Trending model with 58946174 downloads.",
+    "published_at": "2026-09-06T21:59:41.815452+00:00",
+    "summary": "Trending model with 58408339 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58946174,
+    "importance_score": 58408339,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-09-05T21:57:57.259759+00:00",
-    "summary": "Trending model with 56175564 downloads.",
+    "published_at": "2026-09-06T21:59:41.815462+00:00",
+    "summary": "Trending model with 52338347 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56175564,
+    "importance_score": 52338347,
     "theme_tags": [
       "models",
       "open-source",
