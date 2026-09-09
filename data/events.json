@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-09-08T22:26:50.791317+00:00",
+    "published_at": "2026-09-09T22:20:35.925351+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 389234,
+    "importance_score": 389309,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-09-08T22:26:50.791381+00:00",
+    "published_at": "2026-09-09T22:20:35.925393+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 283323,
+    "importance_score": 283988,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-09-08T22:26:50.791397+00:00",
+    "published_at": "2026-09-09T22:20:35.925405+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 243425,
+    "importance_score": 243836,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-09-08T22:26:50.791406+00:00",
+    "published_at": "2026-09-09T22:20:35.925412+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 203766,
+    "importance_score": 203875,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,48 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-09-08T22:26:50.791415+00:00",
+    "published_at": "2026-09-09T22:20:35.925421+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 187207,
+    "importance_score": 187238,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "published_at": "Wed, 09 Sep 2026 11:00:00 GMT",
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "reasoning"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Paul Christiano joins OpenAI Foundation Board",
+    "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "published_at": "Wed, 09 Sep 2026 17:00:00 GMT",
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -134,43 +168,11 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "url": "https://openai.com/index/navier-stokes-solution",
-    "published_at": "Tue, 08 Sep 2026 10:00:00 GMT",
-    "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Funding grants for new research into AI and teen development",
-    "url": "https://openai.com/index/teen-development-research-grants",
-    "published_at": "Tue, 08 Sep 2026 09:00:00 GMT",
-    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-09-08T22:26:51.492636+00:00",
+    "published_at": "2026-09-09T22:20:36.719008+00:00",
     "summary": "Trending model with 253331994 downloads.",
     "signal_type": "model_capability",
     "importance_score": 253331994,
@@ -186,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-09-08T22:26:51.492664+00:00",
-    "summary": "Trending model with 86661012 downloads.",
+    "published_at": "2026-09-09T22:20:36.719037+00:00",
+    "summary": "Trending model with 86755068 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 86661012,
+    "importance_score": 86755068,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,7 +206,7 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-09-08T22:26:51.492676+00:00",
+    "published_at": "2026-09-09T22:20:36.719048+00:00",
     "summary": "Trending model with 64933788 downloads.",
     "signal_type": "model_capability",
     "importance_score": 64933788,
@@ -220,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-09-08T22:26:51.492685+00:00",
-    "summary": "Trending model with 58160168 downloads.",
+    "published_at": "2026-09-09T22:20:36.719057+00:00",
+    "summary": "Trending model with 58093106 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58160168,
+    "importance_score": 58093106,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-09-08T22:26:51.492693+00:00",
-    "summary": "Trending model with 50396517 downloads.",
+    "published_at": "2026-09-09T22:20:36.719066+00:00",
+    "summary": "Trending model with 48848285 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50396517,
+    "importance_score": 48848285,
     "theme_tags": [
       "models",
       "open-source",
