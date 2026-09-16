@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-09-15T22:45:36.293543+00:00",
+    "published_at": "2026-09-16T22:43:28.596036+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 389787,
+    "importance_score": 389891,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-09-15T22:45:36.293587+00:00",
+    "published_at": "2026-09-16T22:43:28.596088+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 287144,
+    "importance_score": 287602,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-09-15T22:45:36.293598+00:00",
+    "published_at": "2026-09-16T22:43:28.596103+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 245856,
+    "importance_score": 246185,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-09-15T22:45:36.293607+00:00",
+    "published_at": "2026-09-16T22:43:28.596112+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 204433,
+    "importance_score": 204648,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-09-15T22:45:36.293615+00:00",
+    "published_at": "2026-09-16T22:43:28.596139+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 187369,
+    "importance_score": 187395,
     "theme_tags": [
       "open-source",
       "ai",
@@ -86,10 +86,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "url": "https://openai.com/index/fyxer",
-    "published_at": "Mon, 14 Sep 2026 12:00:00 GMT",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "published_at": "Wed, 16 Sep 2026 16:00:00 GMT",
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -98,16 +98,52 @@
       "capability"
     ],
     "narratives": [
-      "copilots"
+      "open-source"
     ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-    "published_at": "Mon, 14 Sep 2026 00:00:00 GMT",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "title": "Reimagining advertising with AI",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "published_at": "Wed, 16 Sep 2026 13:00:00 GMT",
+    "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How to connect AI usage to business value",
+    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "published_at": "Wed, 16 Sep 2026 12:00:00 GMT",
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our framework for reporting model misalignment",
+    "url": "https://openai.com/index/model-misalignment-reporting-framework",
+    "published_at": "Wed, 16 Sep 2026 17:00:00 GMT",
+    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -120,44 +156,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-    "published_at": "Fri, 11 Sep 2026 10:00:00 GMT",
-    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "rag"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-    "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-    "published_at": "Fri, 11 Sep 2026 16:00:00 GMT",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-    "published_at": "Thu, 10 Sep 2026 16:00:00 GMT",
-    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "title": "How workers are unlocking new ways of working",
+    "url": "https://openai.com/index/unlocking-new-ways-of-working",
+    "published_at": "Wed, 16 Sep 2026 09:00:00 GMT",
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -172,10 +174,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-09-15T22:45:36.852724+00:00",
-    "summary": "Trending model with 254208155 downloads.",
+    "published_at": "2026-09-16T22:43:29.202607+00:00",
+    "summary": "Trending model with 256481161 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 254208155,
+    "importance_score": 256481161,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-09-15T22:45:36.852747+00:00",
-    "summary": "Trending model with 87870858 downloads.",
+    "published_at": "2026-09-16T22:43:29.202631+00:00",
+    "summary": "Trending model with 88865138 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 87870858,
+    "importance_score": 88865138,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-09-15T22:45:36.852757+00:00",
-    "summary": "Trending model with 64018437 downloads.",
+    "published_at": "2026-09-16T22:43:29.202644+00:00",
+    "summary": "Trending model with 64638739 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 64018437,
+    "importance_score": 64638739,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-09-15T22:45:36.852764+00:00",
-    "summary": "Trending model with 58998744 downloads.",
+    "published_at": "2026-09-16T22:43:29.202653+00:00",
+    "summary": "Trending model with 58507686 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58998744,
+    "importance_score": 58507686,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "google-bert/bert-base-uncased",
     "url": "https://huggingface.co/google-bert/bert-base-uncased",
-    "published_at": "2026-09-15T22:45:36.852771+00:00",
-    "summary": "Trending model with 46672496 downloads.",
+    "published_at": "2026-09-16T22:43:29.202662+00:00",
+    "summary": "Trending model with 47693504 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46672496,
+    "importance_score": 47693504,
     "theme_tags": [
       "models",
       "open-source",
