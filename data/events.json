@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-09-30T23:32:50.300295+00:00",
+    "published_at": "2026-10-01T23:45:36.503771+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 390981,
+    "importance_score": 391160,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-09-30T23:32:50.300333+00:00",
+    "published_at": "2026-10-01T23:45:36.503813+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 293465,
+    "importance_score": 293954,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-09-30T23:32:50.300346+00:00",
+    "published_at": "2026-10-01T23:45:36.503827+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 250342,
+    "importance_score": 250610,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-09-30T23:32:50.300355+00:00",
+    "published_at": "2026-10-01T23:45:36.503836+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 206382,
+    "importance_score": 206469,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,62 @@
     "category": "developer_ecosystem",
     "title": "AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "published_at": "2026-09-30T23:32:50.300364+00:00",
+    "published_at": "2026-10-01T23:45:36.503846+00:00",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "signal_type": "developer_velocity",
-    "importance_score": 187631,
+    "importance_score": 187649,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "published_at": "Thu, 01 Oct 2026 16:00:00 GMT",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "published_at": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -121,65 +169,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing GPT-6.1 Sol",
-    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-    "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "DevDay 2026 Recap",
-    "url": "https://openai.com/index/devday-2026-recap",
-    "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
-    "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing dots",
-    "url": "https://openai.com/index/introducing-dots",
-    "published_at": "Tue, 29 Sep 2026 00:00:00 GMT",
-    "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "copilots",
-      "open-source"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-09-30T23:32:50.977237+00:00",
-    "summary": "Trending model with 242844512 downloads.",
+    "published_at": "2026-10-01T23:45:37.270871+00:00",
+    "summary": "Trending model with 242249202 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 242844512,
+    "importance_score": 242249202,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-09-30T23:32:50.977280+00:00",
-    "summary": "Trending model with 86152855 downloads.",
+    "published_at": "2026-10-01T23:45:37.270899+00:00",
+    "summary": "Trending model with 85835476 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 86152855,
+    "importance_score": 85835476,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-09-30T23:32:50.977294+00:00",
-    "summary": "Trending model with 63395169 downloads.",
+    "published_at": "2026-10-01T23:45:37.270911+00:00",
+    "summary": "Trending model with 63277870 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 63395169,
+    "importance_score": 63277870,
     "theme_tags": [
       "models",
       "open-source",
@@ -226,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-09-30T23:32:50.977303+00:00",
-    "summary": "Trending model with 48223145 downloads.",
+    "published_at": "2026-10-01T23:45:37.270920+00:00",
+    "summary": "Trending model with 48901305 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48223145,
+    "importance_score": 48901305,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-09-30T23:32:50.977313+00:00",
-    "summary": "Trending model with 46194101 downloads.",
+    "published_at": "2026-10-01T23:45:37.270930+00:00",
+    "summary": "Trending model with 46162532 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46194101,
+    "importance_score": 46162532,
     "theme_tags": [
       "models",
       "open-source",
