@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-04T22:52:18.960552+00:00",
+    "published_at": "2026-10-06T01:11:30.450765+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 391318,
+    "importance_score": 391447,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-04T22:52:18.960590+00:00",
+    "published_at": "2026-10-06T01:11:30.450805+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 295275,
+    "importance_score": 295666,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-04T22:52:18.960601+00:00",
+    "published_at": "2026-10-06T01:11:30.450814+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 251213,
+    "importance_score": 251448,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-04T22:52:18.960608+00:00",
+    "published_at": "2026-10-06T01:11:30.450819+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 206657,
+    "importance_score": 206731,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-04T22:52:18.960617+00:00",
+    "published_at": "2026-10-06T01:11:30.450827+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 188593,
+    "importance_score": 188923,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,38 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "published_at": "Mon, 05 Oct 2026 15:00:00 GMT",
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Building advertising for the way people use AI",
+    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "published_at": "Mon, 05 Oct 2026 10:00:00 GMT",
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -136,46 +168,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Albertsons Companies is reimagining retail from the inside out",
-    "url": "https://openai.com/index/albertsons-reimagining-retail",
-    "published_at": "Thu, 01 Oct 2026 16:00:00 GMT",
-    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-    "url": "https://openai.com/index/the-den-family-social",
-    "published_at": "Thu, 01 Oct 2026 00:00:00 GMT",
-    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-04T22:52:19.630567+00:00",
-    "summary": "Trending model with 237133386 downloads.",
+    "published_at": "2026-10-06T01:11:31.003726+00:00",
+    "summary": "Trending model with 235658929 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 237133386,
+    "importance_score": 235658929,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-04T22:52:19.630588+00:00",
-    "summary": "Trending model with 84541845 downloads.",
+    "published_at": "2026-10-06T01:11:31.003744+00:00",
+    "summary": "Trending model with 84083137 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 84541845,
+    "importance_score": 84083137,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-04T22:52:19.630598+00:00",
-    "summary": "Trending model with 62671221 downloads.",
+    "published_at": "2026-10-06T01:11:31.003752+00:00",
+    "summary": "Trending model with 62625826 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62671221,
+    "importance_score": 62625826,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-04T22:52:19.630606+00:00",
-    "summary": "Trending model with 51417545 downloads.",
+    "published_at": "2026-10-06T01:11:31.003757+00:00",
+    "summary": "Trending model with 50986818 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51417545,
+    "importance_score": 50986818,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-04T22:52:19.630614+00:00",
-    "summary": "Trending model with 46003086 downloads.",
+    "published_at": "2026-10-06T01:11:31.003763+00:00",
+    "summary": "Trending model with 45905787 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46003086,
+    "importance_score": 45905787,
     "theme_tags": [
       "models",
       "open-source",
