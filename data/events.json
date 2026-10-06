@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-06T01:11:30.450765+00:00",
+    "published_at": "2026-10-06T23:38:45.197059+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 391447,
+    "importance_score": 391517,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-06T01:11:30.450805+00:00",
+    "published_at": "2026-10-06T23:38:45.197092+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 295666,
+    "importance_score": 296009,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-06T01:11:30.450814+00:00",
+    "published_at": "2026-10-06T23:38:45.197106+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 251448,
+    "importance_score": 251688,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-06T01:11:30.450819+00:00",
+    "published_at": "2026-10-06T23:38:45.197116+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 206731,
+    "importance_score": 206778,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-06T01:11:30.450827+00:00",
+    "published_at": "2026-10-06T23:38:45.197128+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 188923,
+    "importance_score": 189198,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,73 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Jump Trading is scaling quant research with ChatGPT",
+    "url": "https://openai.com/index/jump-trading",
+    "published_at": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Sharing AI progress in mathematics",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "published_at": "Tue, 06 Oct 2026 12:00:00 GMT",
+    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Advancing computer use with Ironclad",
+    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "published_at": "Tue, 06 Oct 2026 10:00:00 GMT",
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents",
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+    "url": "https://openai.com/index/atlassian-partnership",
+    "published_at": "Tue, 06 Oct 2026 16:00:00 GMT",
+    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -102,80 +169,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Building advertising for the way people use AI",
-    "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-    "published_at": "Mon, 05 Oct 2026 10:00:00 GMT",
-    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "A model guide for the GPT-6 family",
-    "url": "https://openai.com/index/practical-guide-building-gpt-6",
-    "published_at": "Fri, 02 Oct 2026 16:15:00 GMT",
-    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Chatham scales its capital markets expertise with OpenAI",
-    "url": "https://openai.com/index/chatham-financial",
-    "published_at": "Fri, 02 Oct 2026 00:00:00 GMT",
-    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "The eternal complement",
-    "url": "https://openai.com/index/the-eternal-complement",
-    "published_at": "Thu, 01 Oct 2026 17:00:00 GMT",
-    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-06T01:11:31.003726+00:00",
-    "summary": "Trending model with 235658929 downloads.",
+    "published_at": "2026-10-06T23:38:45.943413+00:00",
+    "summary": "Trending model with 235470023 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 235658929,
+    "importance_score": 235470023,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +189,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-06T01:11:31.003744+00:00",
-    "summary": "Trending model with 84083137 downloads.",
+    "published_at": "2026-10-06T23:38:45.943431+00:00",
+    "summary": "Trending model with 83843529 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 84083137,
+    "importance_score": 83843529,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +207,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-06T01:11:31.003752+00:00",
-    "summary": "Trending model with 62625826 downloads.",
+    "published_at": "2026-10-06T23:38:45.943443+00:00",
+    "summary": "Trending model with 62649609 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62625826,
+    "importance_score": 62649609,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +223,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-06T01:11:31.003757+00:00",
-    "summary": "Trending model with 50986818 downloads.",
+    "published_at": "2026-10-06T23:38:45.943453+00:00",
+    "summary": "Trending model with 50729248 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50986818,
+    "importance_score": 50729248,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +239,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-06T01:11:31.003763+00:00",
-    "summary": "Trending model with 45905787 downloads.",
+    "published_at": "2026-10-06T23:38:45.943463+00:00",
+    "summary": "Trending model with 45938278 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45905787,
+    "importance_score": 45938278,
     "theme_tags": [
       "models",
       "open-source",
