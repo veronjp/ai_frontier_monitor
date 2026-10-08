@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-06T23:38:45.197059+00:00",
+    "published_at": "2026-10-08T00:03:21.824981+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 391517,
+    "importance_score": 391599,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-06T23:38:45.197092+00:00",
+    "published_at": "2026-10-08T00:03:21.825012+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 296009,
+    "importance_score": 296387,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-06T23:38:45.197106+00:00",
+    "published_at": "2026-10-08T00:03:21.825025+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 251688,
+    "importance_score": 251943,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-06T23:38:45.197116+00:00",
+    "published_at": "2026-10-08T00:03:21.825033+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 206778,
+    "importance_score": 206836,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-06T23:38:45.197128+00:00",
+    "published_at": "2026-10-08T00:03:21.825043+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 189198,
+    "importance_score": 189491,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,54 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "published_at": "Wed, 07 Oct 2026 12:00:00 GMT",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 GMT",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "published_at": "Wed, 07 Oct 2026 00:00:00 GMT",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -118,65 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Advancing computer use with Ironclad",
-    "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-    "published_at": "Tue, 06 Oct 2026 10:00:00 GMT",
-    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-    "url": "https://openai.com/index/atlassian-partnership",
-    "published_at": "Tue, 06 Oct 2026 16:00:00 GMT",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Our approach to EU text provenance rules",
-    "url": "https://openai.com/index/eu-text-provenance",
-    "published_at": "Mon, 05 Oct 2026 15:00:00 GMT",
-    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-06T23:38:45.943413+00:00",
-    "summary": "Trending model with 235470023 downloads.",
+    "published_at": "2026-10-08T00:03:22.595957+00:00",
+    "summary": "Trending model with 234015516 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 235470023,
+    "importance_score": 234015516,
     "theme_tags": [
       "models",
       "open-source",
@@ -189,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-06T23:38:45.943431+00:00",
-    "summary": "Trending model with 83843529 downloads.",
+    "published_at": "2026-10-08T00:03:22.595974+00:00",
+    "summary": "Trending model with 83236540 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 83843529,
+    "importance_score": 83236540,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-06T23:38:45.943443+00:00",
-    "summary": "Trending model with 62649609 downloads.",
+    "published_at": "2026-10-08T00:03:22.595986+00:00",
+    "summary": "Trending model with 62278766 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62649609,
+    "importance_score": 62278766,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-06T23:38:45.943453+00:00",
-    "summary": "Trending model with 50729248 downloads.",
+    "published_at": "2026-10-08T00:03:22.595995+00:00",
+    "summary": "Trending model with 50332290 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50729248,
+    "importance_score": 50332290,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-06T23:38:45.943463+00:00",
-    "summary": "Trending model with 45938278 downloads.",
+    "published_at": "2026-10-08T00:03:22.596004+00:00",
+    "summary": "Trending model with 46039671 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45938278,
+    "importance_score": 46039671,
     "theme_tags": [
       "models",
       "open-source",
