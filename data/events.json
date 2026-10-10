@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-09T00:11:41.221019+00:00",
+    "published_at": "2026-10-10T23:19:37.000511+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 391478,
+    "importance_score": 391616,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-09T00:11:41.221053+00:00",
+    "published_at": "2026-10-10T23:19:37.000566+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 296562,
+    "importance_score": 297222,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-09T00:11:41.221064+00:00",
+    "published_at": "2026-10-10T23:19:37.000580+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 252041,
+    "importance_score": 252539,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-09T00:11:41.221071+00:00",
+    "published_at": "2026-10-10T23:19:37.000588+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 206728,
+    "importance_score": 206936,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,14 +72,48 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-09T00:11:41.221080+00:00",
+    "published_at": "2026-10-10T23:19:37.000600+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 189624,
+    "importance_score": 190216,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+    "url": "https://openai.com/index/asana-browser-agent",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": [
       "agents"
@@ -136,46 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Disrupting AI-enabled “false front” operations",
-    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-    "published_at": "Thu, 08 Oct 2026 00:00:00 GMT",
-    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Helping teens learn, plan, and shape the future of AI",
-    "url": "https://openai.com/index/teens-learn-and-plan",
-    "published_at": "Wed, 07 Oct 2026 12:00:00 GMT",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-09T00:11:41.792495+00:00",
-    "summary": "Trending model with 232247017 downloads.",
+    "published_at": "2026-10-10T23:19:37.805201+00:00",
+    "summary": "Trending model with 225633601 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 232247017,
+    "importance_score": 225633601,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-09T00:11:41.792517+00:00",
-    "summary": "Trending model with 82504124 downloads.",
+    "published_at": "2026-10-10T23:19:37.805230+00:00",
+    "summary": "Trending model with 80398259 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 82504124,
+    "importance_score": 80398259,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-09T00:11:41.792526+00:00",
-    "summary": "Trending model with 61931132 downloads.",
+    "published_at": "2026-10-10T23:19:37.805242+00:00",
+    "summary": "Trending model with 60561582 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 61931132,
+    "importance_score": 60561582,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-09T00:11:41.792533+00:00",
-    "summary": "Trending model with 49900292 downloads.",
+    "published_at": "2026-10-10T23:19:37.805251+00:00",
+    "summary": "Trending model with 48797791 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 49900292,
+    "importance_score": 48797791,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-09T00:11:41.792541+00:00",
-    "summary": "Trending model with 46065089 downloads.",
+    "published_at": "2026-10-10T23:19:37.805261+00:00",
+    "summary": "Trending model with 45353786 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46065089,
+    "importance_score": 45353786,
     "theme_tags": [
       "models",
       "open-source",
