@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-13T01:53:01.212856+00:00",
+    "published_at": "2026-10-13T23:38:26.344346+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 391809,
+    "importance_score": 391906,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-13T01:53:01.212896+00:00",
+    "published_at": "2026-10-13T23:38:26.344385+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 298222,
+    "importance_score": 298656,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-13T01:53:01.212910+00:00",
+    "published_at": "2026-10-13T23:38:26.344399+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 253144,
+    "importance_score": 253479,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-13T01:53:01.212939+00:00",
+    "published_at": "2026-10-13T23:38:26.344408+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 207149,
+    "importance_score": 207266,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-13T01:53:01.212951+00:00",
+    "published_at": "2026-10-13T23:38:26.344418+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 190880,
+    "importance_score": 191207,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,22 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "published_at": "Tue, 13 Oct 2026 12:00:00 GMT",
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -154,30 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "LegalOn halves Codex costs while maintaining development speed",
-    "url": "https://openai.com/index/legalon-halves-codex-costs",
-    "published_at": "Thu, 08 Oct 2026 12:00:00 GMT",
-    "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-13T01:53:01.949741+00:00",
-    "summary": "Trending model with 221180273 downloads.",
+    "published_at": "2026-10-13T23:38:27.140392+00:00",
+    "summary": "Trending model with 220348634 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 221180273,
+    "importance_score": 220348634,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-13T01:53:01.949766+00:00",
-    "summary": "Trending model with 79499559 downloads.",
+    "published_at": "2026-10-13T23:38:27.140418+00:00",
+    "summary": "Trending model with 79419691 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 79499559,
+    "importance_score": 79419691,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-13T01:53:01.949778+00:00",
-    "summary": "Trending model with 59936117 downloads.",
+    "published_at": "2026-10-13T23:38:27.140430+00:00",
+    "summary": "Trending model with 59788045 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 59936117,
+    "importance_score": 59788045,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-13T01:53:01.949787+00:00",
-    "summary": "Trending model with 48032209 downloads.",
+    "published_at": "2026-10-13T23:38:27.140439+00:00",
+    "summary": "Trending model with 47764582 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 48032209,
+    "importance_score": 47764582,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-13T01:53:01.949797+00:00",
-    "summary": "Trending model with 45343308 downloads.",
+    "published_at": "2026-10-13T23:38:27.140449+00:00",
+    "summary": "Trending model with 45186134 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45343308,
+    "importance_score": 45186134,
     "theme_tags": [
       "models",
       "open-source",
