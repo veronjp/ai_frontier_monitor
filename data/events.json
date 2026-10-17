@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-16T22:39:43.006763+00:00",
+    "published_at": "2026-10-17T22:00:44.027546+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 392193,
+    "importance_score": 392285,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-16T22:39:43.006803+00:00",
+    "published_at": "2026-10-17T22:00:44.027578+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 300643,
+    "importance_score": 301175,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-16T22:39:43.006817+00:00",
+    "published_at": "2026-10-17T22:00:44.027592+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 254411,
+    "importance_score": 254668,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-16T22:39:43.006826+00:00",
+    "published_at": "2026-10-17T22:00:44.027600+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 207695,
+    "importance_score": 207820,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-16T22:39:43.006837+00:00",
+    "published_at": "2026-10-17T22:00:44.027611+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 192196,
+    "importance_score": 192470,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,38 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -136,48 +168,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-    "url": "https://openai.com/index/sullivan-cromwell",
-    "published_at": "Thu, 15 Oct 2026 00:00:00 GMT",
-    "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Amp puts AI agents to work beyond code with OpenAI models",
-    "url": "https://openai.com/index/amp-beyond-coding",
-    "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
-    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-16T22:39:43.842770+00:00",
-    "summary": "Trending model with 213006807 downloads.",
+    "published_at": "2026-10-17T22:00:44.805925+00:00",
+    "summary": "Trending model with 211561799 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 213006807,
+    "importance_score": 211561799,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +188,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-16T22:39:43.842797+00:00",
-    "summary": "Trending model with 77490177 downloads.",
+    "published_at": "2026-10-17T22:00:44.805944+00:00",
+    "summary": "Trending model with 77453390 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 77490177,
+    "importance_score": 77453390,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +206,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-16T22:39:43.842811+00:00",
-    "summary": "Trending model with 58505382 downloads.",
+    "published_at": "2026-10-17T22:00:44.805957+00:00",
+    "summary": "Trending model with 58513910 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58505382,
+    "importance_score": 58513910,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +222,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-16T22:39:43.842821+00:00",
-    "summary": "Trending model with 46123773 downloads.",
+    "published_at": "2026-10-17T22:00:44.805965+00:00",
+    "summary": "Trending model with 45701383 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 46123773,
+    "importance_score": 45701383,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +238,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-16T22:39:43.842832+00:00",
-    "summary": "Trending model with 41856725 downloads.",
+    "published_at": "2026-10-17T22:00:44.805975+00:00",
+    "summary": "Trending model with 41854851 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41856725,
+    "importance_score": 41854851,
     "theme_tags": [
       "models",
       "open-source",
