@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-18T22:16:59.478516+00:00",
+    "published_at": "2026-10-19T23:25:48.407835+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 392389,
+    "importance_score": 392564,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-18T22:16:59.478563+00:00",
+    "published_at": "2026-10-19T23:25:48.407876+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 301622,
+    "importance_score": 302117,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-18T22:16:59.478579+00:00",
+    "published_at": "2026-10-19T23:25:48.407886+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 254930,
+    "importance_score": 255265,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-18T22:16:59.478590+00:00",
+    "published_at": "2026-10-19T23:25:48.407891+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 207915,
+    "importance_score": 208047,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-18T22:16:59.478605+00:00",
+    "published_at": "2026-10-19T23:25:48.407898+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 192754,
+    "importance_score": 193092,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,10 +88,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How Itaú is building generative AI for its entire customer base",
-    "url": "https://openai.com/index/itau-generative-ai",
-    "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
-    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "published_at": "Mon, 19 Oct 2026 12:00:00 GMT",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -99,15 +99,17 @@
       "research",
       "capability"
     ],
-    "narratives": []
+    "narratives": [
+      "open-source"
+    ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Benefit Street Partners answers questions faster with Codex",
-    "url": "https://openai.com/index/benefit-street-partners",
-    "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
-    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "published_at": "Fri, 16 Oct 2026 19:00:00 GMT",
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -138,6 +140,22 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
+    "title": "Benefit Street Partners answers questions faster with Codex",
+    "url": "https://openai.com/index/benefit-street-partners",
+    "published_at": "Fri, 16 Oct 2026 00:00:00 GMT",
+    "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
     "title": "Bringing GPT-Rosalind to academic research labs",
     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "published_at": "Thu, 15 Oct 2026 19:00:00 GMT",
@@ -152,30 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Teaching students to think and learn through questions",
-    "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "published_at": "Thu, 15 Oct 2026 13:00:00 GMT",
-    "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-18T22:17:00.223838+00:00",
-    "summary": "Trending model with 208935949 downloads.",
+    "published_at": "2026-10-19T23:25:49.008255+00:00",
+    "summary": "Trending model with 207019154 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 208935949,
+    "importance_score": 207019154,
     "theme_tags": [
       "models",
       "open-source",
@@ -188,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-18T22:17:00.223869+00:00",
-    "summary": "Trending model with 76815869 downloads.",
+    "published_at": "2026-10-19T23:25:49.008274+00:00",
+    "summary": "Trending model with 76053700 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 76815869,
+    "importance_score": 76053700,
     "theme_tags": [
       "models",
       "open-source",
@@ -206,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-18T22:17:00.223885+00:00",
-    "summary": "Trending model with 58081952 downloads.",
+    "published_at": "2026-10-19T23:25:49.008282+00:00",
+    "summary": "Trending model with 57543408 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58081952,
+    "importance_score": 57543408,
     "theme_tags": [
       "models",
       "open-source",
@@ -222,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-18T22:17:00.223897+00:00",
-    "summary": "Trending model with 45009975 downloads.",
+    "published_at": "2026-10-19T23:25:49.008287+00:00",
+    "summary": "Trending model with 44406763 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45009975,
+    "importance_score": 44406763,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-18T22:17:00.223909+00:00",
-    "summary": "Trending model with 41852869 downloads.",
+    "published_at": "2026-10-19T23:25:49.008294+00:00",
+    "summary": "Trending model with 41852016 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41852869,
+    "importance_score": 41852016,
     "theme_tags": [
       "models",
       "open-source",
