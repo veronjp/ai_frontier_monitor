@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-21T23:03:34.031666+00:00",
+    "published_at": "2026-10-22T23:02:02.777031+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 392688,
+    "importance_score": 392786,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-21T23:03:34.031687+00:00",
+    "published_at": "2026-10-22T23:02:02.777070+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 303142,
+    "importance_score": 303716,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-21T23:03:34.031696+00:00",
+    "published_at": "2026-10-22T23:02:02.777086+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 255880,
+    "importance_score": 256232,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-21T23:03:34.031701+00:00",
+    "published_at": "2026-10-22T23:02:02.777094+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 208248,
+    "importance_score": 208350,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-21T23:03:34.031709+00:00",
+    "published_at": "2026-10-22T23:02:02.777105+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 193922,
+    "importance_score": 194289,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,54 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "published_at": "Thu, 22 Oct 2026 19:00:00 GMT",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "What FDE means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "published_at": "Thu, 22 Oct 2026 06:00:00 GMT",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "published_at": "Thu, 22 Oct 2026 00:00:00 GMT",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -118,65 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI models are coming to Google Cloud",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "published_at": "Wed, 21 Oct 2026 12:00:00 GMT",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "published_at": "Wed, 21 Oct 2026 07:00:00 GMT",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "published_at": "Wed, 21 Oct 2026 13:00:00 GMT",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-21T23:03:34.605687+00:00",
-    "summary": "Trending model with 203243195 downloads.",
+    "published_at": "2026-10-22T23:02:03.518296+00:00",
+    "summary": "Trending model with 198627085 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 203243195,
+    "importance_score": 198627085,
     "theme_tags": [
       "models",
       "open-source",
@@ -189,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-21T23:03:34.605701+00:00",
-    "summary": "Trending model with 74721326 downloads.",
+    "published_at": "2026-10-22T23:02:03.518324+00:00",
+    "summary": "Trending model with 73130241 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 74721326,
+    "importance_score": 73130241,
     "theme_tags": [
       "models",
       "open-source",
@@ -207,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-21T23:03:34.605709+00:00",
-    "summary": "Trending model with 56560669 downloads.",
+    "published_at": "2026-10-22T23:02:03.518336+00:00",
+    "summary": "Trending model with 55394560 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56560669,
+    "importance_score": 55394560,
     "theme_tags": [
       "models",
       "open-source",
@@ -223,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-21T23:03:34.605714+00:00",
-    "summary": "Trending model with 43006495 downloads.",
+    "published_at": "2026-10-22T23:02:03.518345+00:00",
+    "summary": "Trending model with 41850767 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 43006495,
+    "importance_score": 41850767,
     "theme_tags": [
       "models",
       "open-source",
@@ -239,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-21T23:03:34.605721+00:00",
-    "summary": "Trending model with 40973910 downloads.",
+    "published_at": "2026-10-22T23:02:03.518355+00:00",
+    "summary": "Trending model with 38920094 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 40973910,
+    "importance_score": 38920094,
     "theme_tags": [
       "models",
       "open-source",
