@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-22T23:02:02.777031+00:00",
+    "published_at": "2026-10-23T22:57:03.466547+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 392786,
+    "importance_score": 392883,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-22T23:02:02.777070+00:00",
+    "published_at": "2026-10-23T22:57:03.466584+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 303716,
+    "importance_score": 304227,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-22T23:02:02.777086+00:00",
+    "published_at": "2026-10-23T22:57:03.466596+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 256232,
+    "importance_score": 256522,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-22T23:02:02.777094+00:00",
+    "published_at": "2026-10-23T22:57:03.466603+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 208350,
+    "importance_score": 208409,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-22T23:02:02.777105+00:00",
+    "published_at": "2026-10-23T22:57:03.466612+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 194289,
+    "importance_score": 194671,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,58 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "published_at": "Fri, 23 Oct 2026 17:00:00 GMT",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "rag"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "published_at": "Fri, 23 Oct 2026 10:00:00 GMT",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "infrastructure"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "published_at": "Fri, 23 Oct 2026 00:00:00 GMT",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -118,62 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-    "published_at": "Thu, 22 Oct 2026 00:00:00 GMT",
-    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How AT&T is rethinking in-house legal work with OpenAI",
-    "url": "https://openai.com/index/att-legal",
-    "published_at": "Wed, 21 Oct 2026 17:00:00 GMT",
-    "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Broad access through consistent standards",
-    "url": "https://openai.com/index/broad-access-through-consistent-standards",
-    "published_at": "Wed, 21 Oct 2026 21:00:00 GMT",
-    "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-22T23:02:03.518296+00:00",
-    "summary": "Trending model with 198627085 downloads.",
+    "published_at": "2026-10-23T22:57:04.160730+00:00",
+    "summary": "Trending model with 193424443 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 198627085,
+    "importance_score": 193424443,
     "theme_tags": [
       "models",
       "open-source",
@@ -186,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-22T23:02:03.518324+00:00",
-    "summary": "Trending model with 73130241 downloads.",
+    "published_at": "2026-10-23T22:57:04.160755+00:00",
+    "summary": "Trending model with 71405909 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 73130241,
+    "importance_score": 71405909,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-22T23:02:03.518336+00:00",
-    "summary": "Trending model with 55394560 downloads.",
+    "published_at": "2026-10-23T22:57:04.160765+00:00",
+    "summary": "Trending model with 54048872 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 55394560,
+    "importance_score": 54048872,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-22T23:02:03.518345+00:00",
-    "summary": "Trending model with 41850767 downloads.",
+    "published_at": "2026-10-23T22:57:04.160772+00:00",
+    "summary": "Trending model with 40633685 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41850767,
+    "importance_score": 40633685,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +240,10 @@
     "category": "model_ecosystem",
     "title": "google/electra-base-discriminator",
     "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-22T23:02:03.518355+00:00",
-    "summary": "Trending model with 38920094 downloads.",
+    "published_at": "2026-10-23T22:57:04.160780+00:00",
+    "summary": "Trending model with 36910216 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 38920094,
+    "importance_score": 36910216,
     "theme_tags": [
       "models",
       "open-source",
