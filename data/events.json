@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-10-26T23:37:43.372086+00:00",
+    "published_at": "2026-10-27T23:36:44.279470+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 393155,
+    "importance_score": 393219,
     "theme_tags": [
       "open-source",
       "ai",
@@ -20,10 +20,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-10-26T23:37:43.372124+00:00",
+    "published_at": "2026-10-27T23:36:44.279511+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 305597,
+    "importance_score": 306403,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-10-26T23:37:43.372136+00:00",
+    "published_at": "2026-10-27T23:36:44.279521+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 257404,
+    "importance_score": 257742,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-10-26T23:37:43.372145+00:00",
+    "published_at": "2026-10-27T23:36:44.279526+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 208669,
+    "importance_score": 208803,
     "theme_tags": [
       "open-source",
       "ai",
@@ -72,10 +72,10 @@
     "category": "developer_ecosystem",
     "title": "firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
-    "published_at": "2026-10-26T23:37:43.372156+00:00",
+    "published_at": "2026-10-27T23:36:44.279533+00:00",
     "summary": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
     "signal_type": "developer_velocity",
-    "importance_score": 195690,
+    "importance_score": 196066,
     "theme_tags": [
       "open-source",
       "ai",
@@ -84,6 +84,58 @@
     "narratives": [
       "agents"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "url": "https://openai.com/index/retell-ai",
+    "published_at": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "published_at": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "published_at": "Tue, 27 Oct 2026 00:00:00 GMT",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "OpenAI",
@@ -118,69 +170,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-    "published_at": "Mon, 26 Oct 2026 13:45:00 GMT",
-    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents",
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "ChatGPT’s expanding world of work",
-    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-    "published_at": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Fanatics and OpenAI streamline the fan experience",
-    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-    "published_at": "Mon, 26 Oct 2026 07:00:00 GMT",
-    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-10-26T23:37:44.154866+00:00",
-    "summary": "Trending model with 190188384 downloads.",
+    "published_at": "2026-10-27T23:36:44.813218+00:00",
+    "summary": "Trending model with 190761871 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 190188384,
+    "importance_score": 190761871,
     "theme_tags": [
       "models",
       "open-source",
@@ -193,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-10-26T23:37:44.154894+00:00",
-    "summary": "Trending model with 70640218 downloads.",
+    "published_at": "2026-10-27T23:36:44.813243+00:00",
+    "summary": "Trending model with 70661788 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 70640218,
+    "importance_score": 70661788,
     "theme_tags": [
       "models",
       "open-source",
@@ -211,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-10-26T23:37:44.154906+00:00",
-    "summary": "Trending model with 53066972 downloads.",
+    "published_at": "2026-10-27T23:36:44.813251+00:00",
+    "summary": "Trending model with 53024555 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 53066972,
+    "importance_score": 53024555,
     "theme_tags": [
       "models",
       "open-source",
@@ -227,10 +224,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-    "published_at": "2026-10-26T23:37:44.154916+00:00",
-    "summary": "Trending model with 39228036 downloads.",
+    "published_at": "2026-10-27T23:36:44.813256+00:00",
+    "summary": "Trending model with 38712784 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 39228036,
+    "importance_score": 38712784,
     "theme_tags": [
       "models",
       "open-source",
@@ -241,12 +238,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "google/electra-base-discriminator",
-    "url": "https://huggingface.co/google/electra-base-discriminator",
-    "published_at": "2026-10-26T23:37:44.154926+00:00",
-    "summary": "Trending model with 31308093 downloads.",
+    "title": "BAAI/bge-m3",
+    "url": "https://huggingface.co/BAAI/bge-m3",
+    "published_at": "2026-10-27T23:36:44.813262+00:00",
+    "summary": "Trending model with 29899098 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 31308093,
+    "importance_score": 29899098,
     "theme_tags": [
       "models",
       "open-source",
