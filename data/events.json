@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-01T23:24:41.386947+00:00",
+    "published_at": "2026-11-03T02:03:45.457946+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 418601,
+    "importance_score": 423148,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-01T23:24:41.386986+00:00",
+    "published_at": "2026-11-03T02:03:45.457982+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 393640,
+    "importance_score": 393759,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-01T23:24:41.387001+00:00",
+    "published_at": "2026-11-03T02:03:45.457997+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 310617,
+    "importance_score": 311273,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-01T23:24:41.387008+00:00",
+    "published_at": "2026-11-03T02:03:45.458005+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 259495,
+    "importance_score": 259889,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,10 +74,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-01T23:24:41.387013+00:00",
+    "published_at": "2026-11-03T02:03:45.458011+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 209299,
+    "importance_score": 209402,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,10 +88,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Making it easier for websites to express AI training preferences",
-    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-    "published_at": "Fri, 30 Oct 2026 09:30:00 GMT",
-    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "title": "Scaling Git at OpenAI",
+    "url": "https://openai.com/index/scaling-git-at-openai",
+    "published_at": "Mon, 02 Nov 2026 15:30:00 GMT",
+    "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -100,16 +100,16 @@
       "capability"
     ],
     "narratives": [
-      "infrastructure"
+      "open-source"
     ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Community safety report and new protections for teens",
-    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-    "published_at": "Fri, 30 Oct 2026 09:00:00 GMT",
-    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "published_at": "Mon, 02 Nov 2026 15:00:00 GMT",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -122,28 +122,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Fair use benefits everyone",
-    "url": "https://openai.com/index/fair-use-benefits-everyone",
-    "published_at": "Fri, 30 Oct 2026 00:00:00 GMT",
-    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "infrastructure"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "An updated Model Spec for more capable and beneficial AI",
-    "url": "https://openai.com/index/updated-model-spec",
-    "published_at": "Thu, 29 Oct 2026 17:00:00 GMT",
-    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "title": "LifeVal",
+    "url": "https://openai.com/index/lifeval",
+    "published_at": "Mon, 02 Nov 2026 09:00:00 GMT",
+    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -156,10 +138,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How we detect frontier model misalignment",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "published_at": "Thu, 29 Oct 2026 09:00:00 GMT",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -168,18 +150,34 @@
       "capability"
     ],
     "narratives": [
-      "agents"
+      "open-source"
     ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+    "url": "https://openai.com/index/dan-driscoll-joins-openai",
+    "published_at": "Mon, 02 Nov 2026 00:00:00 GMT",
+    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-01T23:24:41.951222+00:00",
-    "summary": "Trending model with 183847521 downloads.",
+    "published_at": "2026-11-03T02:03:46.097966+00:00",
+    "summary": "Trending model with 182509097 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 183847521,
+    "importance_score": 182509097,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +190,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-01T23:24:41.951250+00:00",
-    "summary": "Trending model with 67732949 downloads.",
+    "published_at": "2026-11-03T02:03:46.097992+00:00",
+    "summary": "Trending model with 66901235 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 67732949,
+    "importance_score": 66901235,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,26 +208,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-01T23:24:41.951258+00:00",
-    "summary": "Trending model with 50490370 downloads.",
+    "published_at": "2026-11-03T02:03:46.098002+00:00",
+    "summary": "Trending model with 49836681 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 50490370,
-    "theme_tags": [
-      "models",
-      "open-source",
-      "ml"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "HuggingFace",
-    "category": "model_ecosystem",
-    "title": "BAAI/bge-m3",
-    "url": "https://huggingface.co/BAAI/bge-m3",
-    "published_at": "2026-11-01T23:24:41.951265+00:00",
-    "summary": "Trending model with 30268327 downloads.",
-    "signal_type": "model_capability",
-    "importance_score": 30268327,
+    "importance_score": 49836681,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +224,26 @@
     "category": "model_ecosystem",
     "title": "Comfy-Org/MiniMax-H3",
     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-    "published_at": "2026-11-01T23:24:41.951270+00:00",
-    "summary": "Trending model with 30246865 downloads.",
+    "published_at": "2026-11-03T02:03:46.098008+00:00",
+    "summary": "Trending model with 31098855 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 30246865,
+    "importance_score": 31098855,
+    "theme_tags": [
+      "models",
+      "open-source",
+      "ml"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "HuggingFace",
+    "category": "model_ecosystem",
+    "title": "BAAI/bge-m3",
+    "url": "https://huggingface.co/BAAI/bge-m3",
+    "published_at": "2026-11-03T02:03:46.098015+00:00",
+    "summary": "Trending model with 30252576 downloads.",
+    "signal_type": "model_capability",
+    "importance_score": 30252576,
     "theme_tags": [
       "models",
       "open-source",
