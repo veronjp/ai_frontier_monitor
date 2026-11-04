@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-03T02:03:45.457946+00:00",
+    "published_at": "2026-11-04T00:27:15.414208+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 423148,
+    "importance_score": 427031,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-03T02:03:45.457982+00:00",
+    "published_at": "2026-11-04T00:27:15.414245+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 393759,
+    "importance_score": 393864,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-03T02:03:45.457997+00:00",
+    "published_at": "2026-11-04T00:27:15.414260+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 311273,
+    "importance_score": 311856,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-03T02:03:45.458005+00:00",
+    "published_at": "2026-11-04T00:27:15.414268+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 259889,
+    "importance_score": 260254,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,82 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-03T02:03:45.458011+00:00",
+    "published_at": "2026-11-04T00:27:15.414274+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 209402,
+    "importance_score": 209481,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "published_at": "Tue, 03 Nov 2026 12:00:00 GMT",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "published_at": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "published_at": "Tue, 03 Nov 2026 00:00:00 GMT",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -104,80 +172,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Introducing the Grid Protectors Program",
-    "url": "https://openai.com/index/grid-protectors-program",
-    "published_at": "Mon, 02 Nov 2026 15:00:00 GMT",
-    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "LifeVal",
-    "url": "https://openai.com/index/lifeval",
-    "published_at": "Mon, 02 Nov 2026 09:00:00 GMT",
-    "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Qodo builds context into AI code review with Codex",
-    "url": "https://openai.com/index/qodo-codex-plugin",
-    "published_at": "Mon, 02 Nov 2026 00:00:00 GMT",
-    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-    "url": "https://openai.com/index/dan-driscoll-joins-openai",
-    "published_at": "Mon, 02 Nov 2026 00:00:00 GMT",
-    "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-03T02:03:46.097966+00:00",
-    "summary": "Trending model with 182509097 downloads.",
+    "published_at": "2026-11-04T00:27:16.073737+00:00",
+    "summary": "Trending model with 182461837 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 182509097,
+    "importance_score": 182461837,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-03T02:03:46.097992+00:00",
-    "summary": "Trending model with 66901235 downloads.",
+    "published_at": "2026-11-04T00:27:16.073765+00:00",
+    "summary": "Trending model with 66397898 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 66901235,
+    "importance_score": 66397898,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +210,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-03T02:03:46.098002+00:00",
-    "summary": "Trending model with 49836681 downloads.",
+    "published_at": "2026-11-04T00:27:16.073774+00:00",
+    "summary": "Trending model with 49421693 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 49836681,
+    "importance_score": 49421693,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +226,10 @@
     "category": "model_ecosystem",
     "title": "Comfy-Org/MiniMax-H3",
     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-    "published_at": "2026-11-03T02:03:46.098008+00:00",
-    "summary": "Trending model with 31098855 downloads.",
+    "published_at": "2026-11-04T00:27:16.073781+00:00",
+    "summary": "Trending model with 31821266 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 31098855,
+    "importance_score": 31821266,
     "theme_tags": [
       "models",
       "open-source",
@@ -238,12 +240,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "BAAI/bge-m3",
-    "url": "https://huggingface.co/BAAI/bge-m3",
-    "published_at": "2026-11-03T02:03:46.098015+00:00",
-    "summary": "Trending model with 30252576 downloads.",
+    "title": "argmaxinc/whisperkit-coreml",
+    "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
+    "published_at": "2026-11-04T00:27:16.073788+00:00",
+    "summary": "Trending model with 31110151 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 30252576,
+    "importance_score": 31110151,
     "theme_tags": [
       "models",
       "open-source",
