@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-10T02:35:17.590669+00:00",
+    "published_at": "2026-11-11T00:27:36.367870+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 447200,
+    "importance_score": 449962,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-10T02:35:17.590708+00:00",
+    "published_at": "2026-11-11T00:27:36.367908+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 394260,
+    "importance_score": 394302,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-10T02:35:17.590725+00:00",
+    "published_at": "2026-11-11T00:27:36.367922+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 315196,
+    "importance_score": 315754,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-10T02:35:17.590734+00:00",
+    "published_at": "2026-11-11T00:27:36.367943+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 262100,
+    "importance_score": 262447,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,78 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-10T02:35:17.590743+00:00",
+    "published_at": "2026-11-11T00:27:36.367948+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 209943,
+    "importance_score": 210025,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "published_at": "Tue, 10 Nov 2026 12:00:00 GMT",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "published_at": "Tue, 10 Nov 2026 10:00:00 GMT",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "published_at": "Tue, 10 Nov 2026 09:00:00 GMT",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "published_at": "Tue, 10 Nov 2026 07:00:00 GMT",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -102,82 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "url": "https://openai.com/index/control-room",
-    "published_at": "Mon, 09 Nov 2026 13:00:00 GMT",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "url": "https://openai.com/index/coderabbit-codex-daybreak",
-    "published_at": "Mon, 09 Nov 2026 08:00:00 GMT",
-    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "url": "https://openai.com/index/kuken",
-    "published_at": "Mon, 09 Nov 2026 08:00:00 GMT",
-    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "url": "https://openai.com/index/partnering-with-hacktron",
-    "published_at": "Fri, 06 Nov 2026 08:00:00 GMT",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-10T02:35:18.331598+00:00",
-    "summary": "Trending model with 177602109 downloads.",
+    "published_at": "2026-11-11T00:27:36.948601+00:00",
+    "summary": "Trending model with 177011779 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 177602109,
+    "importance_score": 177011779,
     "theme_tags": [
       "models",
       "open-source",
@@ -190,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-10T02:35:18.331621+00:00",
-    "summary": "Trending model with 63128527 downloads.",
+    "published_at": "2026-11-11T00:27:36.948629+00:00",
+    "summary": "Trending model with 62404301 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 63128527,
+    "importance_score": 62404301,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-10T02:35:18.331631+00:00",
-    "summary": "Trending model with 51550655 downloads.",
+    "published_at": "2026-11-11T00:27:36.948637+00:00",
+    "summary": "Trending model with 54455770 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 51550655,
+    "importance_score": 54455770,
     "theme_tags": [
       "models",
       "open-source",
@@ -224,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-10T02:35:18.331639+00:00",
-    "summary": "Trending model with 47585573 downloads.",
+    "published_at": "2026-11-11T00:27:36.948643+00:00",
+    "summary": "Trending model with 47146596 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 47585573,
+    "importance_score": 47146596,
     "theme_tags": [
       "models",
       "open-source",
@@ -240,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "Comfy-Org/MiniMax-H3",
     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-    "published_at": "2026-11-10T02:35:18.331647+00:00",
-    "summary": "Trending model with 32229772 downloads.",
+    "published_at": "2026-11-11T00:27:36.948649+00:00",
+    "summary": "Trending model with 32531539 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 32229772,
+    "importance_score": 32531539,
     "theme_tags": [
       "models",
       "open-source",
