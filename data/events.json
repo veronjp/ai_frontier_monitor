@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-11T00:27:36.367870+00:00",
+    "published_at": "2026-11-12T01:49:48.821804+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 449962,
+    "importance_score": 452847,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-11T00:27:36.367908+00:00",
+    "published_at": "2026-11-12T01:49:48.821845+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 394302,
+    "importance_score": 394367,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-11T00:27:36.367922+00:00",
+    "published_at": "2026-11-12T01:49:48.821879+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 315754,
+    "importance_score": 316323,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-11T00:27:36.367943+00:00",
+    "published_at": "2026-11-12T01:49:48.821889+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 262447,
+    "importance_score": 262743,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,62 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-11T00:27:36.367948+00:00",
+    "published_at": "2026-11-12T01:49:48.821896+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 210025,
+    "importance_score": 210222,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "published_at": "Thu, 12 Nov 2026 00:00:00 GMT",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "published_at": "Wed, 11 Nov 2026 08:00:00 GMT",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "published_at": "Wed, 11 Nov 2026 00:00:00 GMT",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -118,62 +166,14 @@
     "narratives": []
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Closing the AI guidance gap in education",
-    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "published_at": "Tue, 10 Nov 2026 09:00:00 GMT",
-    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Work at the Frontier: AI’s effect on freelance work",
-    "url": "https://openai.com/index/ai-effect-on-freelance-work",
-    "published_at": "Tue, 10 Nov 2026 07:00:00 GMT",
-    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "published_at": "Mon, 09 Nov 2026 19:00:00 GMT",
-    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-11T00:27:36.948601+00:00",
-    "summary": "Trending model with 177011779 downloads.",
+    "published_at": "2026-11-12T01:49:49.637653+00:00",
+    "summary": "Trending model with 175899798 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 177011779,
+    "importance_score": 175899798,
     "theme_tags": [
       "models",
       "open-source",
@@ -186,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-11T00:27:36.948629+00:00",
-    "summary": "Trending model with 62404301 downloads.",
+    "published_at": "2026-11-12T01:49:49.637683+00:00",
+    "summary": "Trending model with 61416131 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 62404301,
+    "importance_score": 61416131,
     "theme_tags": [
       "models",
       "open-source",
@@ -204,10 +204,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-11T00:27:36.948637+00:00",
-    "summary": "Trending model with 54455770 downloads.",
+    "published_at": "2026-11-12T01:49:49.637695+00:00",
+    "summary": "Trending model with 57608655 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54455770,
+    "importance_score": 57608655,
     "theme_tags": [
       "models",
       "open-source",
@@ -220,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-11T00:27:36.948643+00:00",
-    "summary": "Trending model with 47146596 downloads.",
+    "published_at": "2026-11-12T01:49:49.637704+00:00",
+    "summary": "Trending model with 46666291 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 47146596,
+    "importance_score": 46666291,
     "theme_tags": [
       "models",
       "open-source",
@@ -236,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "Comfy-Org/MiniMax-H3",
     "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-    "published_at": "2026-11-11T00:27:36.948649+00:00",
-    "summary": "Trending model with 32531539 downloads.",
+    "published_at": "2026-11-12T01:49:49.637713+00:00",
+    "summary": "Trending model with 32866777 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 32531539,
+    "importance_score": 32866777,
     "theme_tags": [
       "models",
       "open-source",
