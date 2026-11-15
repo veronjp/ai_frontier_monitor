@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-14T23:43:36.754995+00:00",
+    "published_at": "2026-11-15T23:50:13.808687+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 459809,
+    "importance_score": 461914,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-14T23:43:36.755030+00:00",
+    "published_at": "2026-11-15T23:50:13.808726+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 394457,
+    "importance_score": 394533,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-14T23:43:36.755045+00:00",
+    "published_at": "2026-11-15T23:50:13.808740+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 317642,
+    "importance_score": 318066,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-14T23:43:36.755052+00:00",
+    "published_at": "2026-11-15T23:50:13.808749+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 263400,
+    "importance_score": 263636,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,14 +74,46 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-14T23:43:36.755058+00:00",
+    "published_at": "2026-11-15T23:50:13.808755+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 210504,
+    "importance_score": 210607,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "published_at": "Sun, 15 Nov 2026 22:00:01 GMT",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "published_at": "Sun, 15 Nov 2026 22:00:00 GMT",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
     ],
     "narratives": []
   },
@@ -140,48 +172,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "url": "https://openai.com/business/customer-stories/gondola",
-    "published_at": "Thu, 12 Nov 2026 12:00:00 GMT",
-    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-    "published_at": "Thu, 12 Nov 2026 09:30:00 GMT",
-    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "open-source"
-    ]
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-14T23:43:37.245565+00:00",
-    "summary": "Trending model with 172686714 downloads.",
+    "published_at": "2026-11-15T23:50:14.404145+00:00",
+    "summary": "Trending model with 171152694 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 172686714,
+    "importance_score": 171152694,
     "theme_tags": [
       "models",
       "open-source",
@@ -194,10 +192,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-14T23:43:37.245588+00:00",
-    "summary": "Trending model with 67619890 downloads.",
+    "published_at": "2026-11-15T23:50:14.404170+00:00",
+    "summary": "Trending model with 71538504 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 67619890,
+    "importance_score": 71538504,
     "theme_tags": [
       "models",
       "open-source",
@@ -210,10 +208,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-14T23:43:37.245596+00:00",
-    "summary": "Trending model with 59276345 downloads.",
+    "published_at": "2026-11-15T23:50:14.404178+00:00",
+    "summary": "Trending model with 58447082 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 59276345,
+    "importance_score": 58447082,
     "theme_tags": [
       "models",
       "open-source",
@@ -228,10 +226,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-14T23:43:37.245629+00:00",
-    "summary": "Trending model with 45283709 downloads.",
+    "published_at": "2026-11-15T23:50:14.404186+00:00",
+    "summary": "Trending model with 44778916 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45283709,
+    "importance_score": 44778916,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,12 +240,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "autogluon/chronos-2",
-    "url": "https://huggingface.co/autogluon/chronos-2",
-    "published_at": "2026-11-14T23:43:37.245637+00:00",
-    "summary": "Trending model with 33652469 downloads.",
+    "title": "openai-community/gpt2",
+    "url": "https://huggingface.co/openai-community/gpt2",
+    "published_at": "2026-11-15T23:50:14.404192+00:00",
+    "summary": "Trending model with 33889983 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 33652469,
+    "importance_score": 33889983,
     "theme_tags": [
       "models",
       "open-source",
