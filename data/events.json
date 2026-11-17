@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-15T23:50:13.808687+00:00",
+    "published_at": "2026-11-17T02:48:50.330825+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 461914,
+    "importance_score": 464326,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-15T23:50:13.808726+00:00",
+    "published_at": "2026-11-17T02:48:50.330860+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 394533,
+    "importance_score": 394606,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-15T23:50:13.808740+00:00",
+    "published_at": "2026-11-17T02:48:50.330874+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 318066,
+    "importance_score": 318726,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-15T23:50:13.808749+00:00",
+    "published_at": "2026-11-17T02:48:50.330882+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 263636,
+    "importance_score": 263945,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,10 +74,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-15T23:50:13.808755+00:00",
+    "published_at": "2026-11-17T02:48:50.330888+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 210607,
+    "importance_score": 210676,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,10 +88,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "A step toward defining the Standard Model on a lattice",
-    "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "published_at": "Sun, 15 Nov 2026 22:00:01 GMT",
-    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -104,10 +104,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Our new blog for science",
-    "url": "https://openai.com/index/our-new-blog-for-science",
-    "published_at": "Sun, 15 Nov 2026 22:00:00 GMT",
-    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -120,10 +120,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Introducing ChatGPT Wallet",
-    "url": "https://openai.com/index/introducing-chatgpt-wallet",
-    "published_at": "Fri, 13 Nov 2026 15:00:00 GMT",
-    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "published_at": "Mon, 16 Nov 2026 12:00:00 GMT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -131,17 +131,15 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "agents"
-    ]
+    "narratives": []
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "url": "https://openai.com/business/customer-stories/shield",
-    "published_at": "Fri, 13 Nov 2026 08:00:00 GMT",
-    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "published_at": "Mon, 16 Nov 2026 09:00:00 GMT",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -149,17 +147,15 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "agents"
-    ]
+    "narratives": []
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "url": "https://openai.com/business/customer-stories/amplitude",
-    "published_at": "Thu, 12 Nov 2026 20:00:00 GMT",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "title": "Our first phase of embedded assessments",
+    "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "published_at": "Mon, 16 Nov 2026 08:00:00 GMT",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -167,19 +163,17 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "agents"
-    ]
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-15T23:50:14.404145+00:00",
-    "summary": "Trending model with 171152694 downloads.",
+    "published_at": "2026-11-17T02:48:50.821567+00:00",
+    "summary": "Trending model with 170160953 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 171152694,
+    "importance_score": 170160953,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-15T23:50:14.404170+00:00",
-    "summary": "Trending model with 71538504 downloads.",
+    "published_at": "2026-11-17T02:48:50.821590+00:00",
+    "summary": "Trending model with 74682389 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 71538504,
+    "importance_score": 74682389,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +202,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-15T23:50:14.404178+00:00",
-    "summary": "Trending model with 58447082 downloads.",
+    "published_at": "2026-11-17T02:48:50.821599+00:00",
+    "summary": "Trending model with 57878163 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 58447082,
+    "importance_score": 57878163,
     "theme_tags": [
       "models",
       "open-source",
@@ -226,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-15T23:50:14.404186+00:00",
-    "summary": "Trending model with 44778916 downloads.",
+    "published_at": "2026-11-17T02:48:50.821607+00:00",
+    "summary": "Trending model with 44467542 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 44778916,
+    "importance_score": 44467542,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "openai-community/gpt2",
     "url": "https://huggingface.co/openai-community/gpt2",
-    "published_at": "2026-11-15T23:50:14.404192+00:00",
-    "summary": "Trending model with 33889983 downloads.",
+    "published_at": "2026-11-17T02:48:50.821614+00:00",
+    "summary": "Trending model with 34186762 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 33889983,
+    "importance_score": 34186762,
     "theme_tags": [
       "models",
       "open-source",
