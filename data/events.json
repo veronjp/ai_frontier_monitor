@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-19T01:45:53.122725+00:00",
+    "published_at": "2026-11-20T01:41:24.406867+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 468351,
+    "importance_score": 470063,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-19T01:45:53.122760+00:00",
+    "published_at": "2026-11-20T01:41:24.406907+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 394765,
+    "importance_score": 394835,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-19T01:45:53.122777+00:00",
+    "published_at": "2026-11-20T01:41:24.406924+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 321346,
+    "importance_score": 322112,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-19T01:45:53.122787+00:00",
+    "published_at": "2026-11-20T01:41:24.406935+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 264505,
+    "importance_score": 264765,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,10 +74,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-19T01:45:53.122795+00:00",
+    "published_at": "2026-11-20T01:41:24.406945+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 211101,
+    "importance_score": 211436,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,10 +88,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "The Silent Consensus",
-    "url": "https://openai.com/index/the-silent-consensus",
-    "published_at": "Wed, 18 Nov 2026 10:00:00 GMT",
-    "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "published_at": "Thu, 19 Nov 2026 08:00:00 GMT",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -104,28 +104,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Research acceleration: The jagged frontier",
-    "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-    "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "agents"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "url": "https://openai.com/business/customer-stories/sumitomo-life",
-    "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "published_at": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -138,10 +120,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Inside the Codex sandbox",
-    "url": "https://openai.com/index/inside-the-codex-sandbox",
-    "published_at": "Wed, 18 Nov 2026 08:00:00 GMT",
-    "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+    "title": "See PR scans in action",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "published_at": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -149,17 +131,15 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "open-source"
-    ]
+    "narratives": []
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Managing frontier AI risk: From training to deployment",
-    "url": "https://openai.com/index/managing-frontier-ai-risk",
-    "published_at": "Wed, 18 Nov 2026 06:00:00 GMT",
-    "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+    "title": "Explore the Codex Security Plugin",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "published_at": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -167,19 +147,33 @@
       "research",
       "capability"
     ],
-    "narratives": [
-      "infrastructure"
-    ]
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Get started with Daybreak Blue",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "published_at": "Thu, 19 Nov 2026 00:00:00 GMT",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
   },
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-19T01:45:53.943016+00:00",
-    "summary": "Trending model with 169032775 downloads.",
+    "published_at": "2026-11-20T01:41:25.032608+00:00",
+    "summary": "Trending model with 167728168 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 169032775,
+    "importance_score": 167728168,
     "theme_tags": [
       "models",
       "open-source",
@@ -192,10 +186,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-19T01:45:53.943042+00:00",
-    "summary": "Trending model with 81160291 downloads.",
+    "published_at": "2026-11-20T01:41:25.032636+00:00",
+    "summary": "Trending model with 84267005 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 81160291,
+    "importance_score": 84267005,
     "theme_tags": [
       "models",
       "open-source",
@@ -208,10 +202,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-19T01:45:53.943051+00:00",
-    "summary": "Trending model with 56925600 downloads.",
+    "published_at": "2026-11-20T01:41:25.032646+00:00",
+    "summary": "Trending model with 56284496 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 56925600,
+    "importance_score": 56284496,
     "theme_tags": [
       "models",
       "open-source",
@@ -226,10 +220,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-19T01:45:53.943061+00:00",
-    "summary": "Trending model with 43957042 downloads.",
+    "published_at": "2026-11-20T01:41:25.032656+00:00",
+    "summary": "Trending model with 43610697 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 43957042,
+    "importance_score": 43610697,
     "theme_tags": [
       "models",
       "open-source",
@@ -242,10 +236,10 @@
     "category": "model_ecosystem",
     "title": "openai-community/gpt2",
     "url": "https://huggingface.co/openai-community/gpt2",
-    "published_at": "2026-11-19T01:45:53.943070+00:00",
-    "summary": "Trending model with 34439416 downloads.",
+    "published_at": "2026-11-20T01:41:25.032665+00:00",
+    "summary": "Trending model with 34336215 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 34439416,
+    "importance_score": 34336215,
     "theme_tags": [
       "models",
       "open-source",
