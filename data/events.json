@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-23T00:37:15.355827+00:00",
+    "published_at": "2026-11-24T04:39:26.566845+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 474092,
+    "importance_score": 475836,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-23T00:37:15.355853+00:00",
+    "published_at": "2026-11-24T04:39:26.566878+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 395063,
+    "importance_score": 395122,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-23T00:37:15.355866+00:00",
+    "published_at": "2026-11-24T04:39:26.566891+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 324161,
+    "importance_score": 325223,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-23T00:37:15.355872+00:00",
+    "published_at": "2026-11-24T04:39:26.566898+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 265425,
+    "importance_score": 265696,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,16 +74,68 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-23T00:37:15.355876+00:00",
+    "published_at": "2026-11-24T04:39:26.566904+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 211840,
+    "importance_score": 211873,
     "theme_tags": [
       "open-source",
       "ai",
       "developer"
     ],
     "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "published_at": "Mon, 23 Nov 2026 21:20:00 GMT",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "open-source"
+    ]
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": [
+      "agents"
+    ]
   },
   {
     "source": "OpenAI",
@@ -121,66 +173,14 @@
     ]
   },
   {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-    "url": "https://openai.com/business/customer-stories/hebbia",
-    "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
-    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "rag"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Can AI help scientists identify promising drug candidates?",
-    "url": "https://openai.com/index/introducing-medchembench",
-    "published_at": "Fri, 20 Nov 2026 00:00:00 GMT",
-    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": [
-      "reasoning"
-    ]
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-    "published_at": "Thu, 19 Nov 2026 08:00:00 GMT",
-    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
     "source": "HuggingFace",
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-23T00:37:15.889882+00:00",
-    "summary": "Trending model with 165698383 downloads.",
+    "published_at": "2026-11-24T04:39:27.157678+00:00",
+    "summary": "Trending model with 164731740 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 165698383,
+    "importance_score": 164731740,
     "theme_tags": [
       "models",
       "open-source",
@@ -193,10 +193,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-23T00:37:15.889897+00:00",
-    "summary": "Trending model with 95140913 downloads.",
+    "published_at": "2026-11-24T04:39:27.157705+00:00",
+    "summary": "Trending model with 98106994 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 95140913,
+    "importance_score": 98106994,
     "theme_tags": [
       "models",
       "open-source",
@@ -209,10 +209,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-23T00:37:15.889904+00:00",
-    "summary": "Trending model with 55350487 downloads.",
+    "published_at": "2026-11-24T04:39:27.157712+00:00",
+    "summary": "Trending model with 54750400 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 55350487,
+    "importance_score": 54750400,
     "theme_tags": [
       "models",
       "open-source",
@@ -225,12 +225,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "BAAI/bge-small-en-v1.5",
-    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-23T00:37:15.889909+00:00",
-    "summary": "Trending model with 43139469 downloads.",
+    "title": "autogluon/chronos-2",
+    "url": "https://huggingface.co/autogluon/chronos-2",
+    "published_at": "2026-11-24T04:39:27.157719+00:00",
+    "summary": "Trending model with 45374973 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 43139469,
+    "importance_score": 45374973,
     "theme_tags": [
       "models",
       "open-source",
@@ -241,12 +241,12 @@
   {
     "source": "HuggingFace",
     "category": "model_ecosystem",
-    "title": "autogluon/chronos-2",
-    "url": "https://huggingface.co/autogluon/chronos-2",
-    "published_at": "2026-11-23T00:37:15.889914+00:00",
-    "summary": "Trending model with 41548376 downloads.",
+    "title": "BAAI/bge-small-en-v1.5",
+    "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+    "published_at": "2026-11-24T04:39:27.157725+00:00",
+    "summary": "Trending model with 42863227 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 41548376,
+    "importance_score": 42863227,
     "theme_tags": [
       "models",
       "open-source",
