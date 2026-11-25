@@ -4,10 +4,10 @@
     "category": "developer_ecosystem",
     "title": "rea",
     "url": "https://github.com/morluto/rea",
-    "published_at": "2026-11-24T04:39:26.566845+00:00",
+    "published_at": "2026-11-25T03:24:58.697928+00:00",
     "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "signal_type": "developer_velocity",
-    "importance_score": 475836,
+    "importance_score": 477299,
     "theme_tags": [
       "open-source",
       "ai",
@@ -22,10 +22,10 @@
     "category": "developer_ecosystem",
     "title": "openclaw",
     "url": "https://github.com/openclaw/openclaw",
-    "published_at": "2026-11-24T04:39:26.566878+00:00",
+    "published_at": "2026-11-25T03:24:58.697962+00:00",
     "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "signal_type": "developer_velocity",
-    "importance_score": 395122,
+    "importance_score": 395167,
     "theme_tags": [
       "open-source",
       "ai",
@@ -38,10 +38,10 @@
     "category": "developer_ecosystem",
     "title": "superpowers",
     "url": "https://github.com/obra/superpowers",
-    "published_at": "2026-11-24T04:39:26.566891+00:00",
+    "published_at": "2026-11-25T03:24:58.697978+00:00",
     "summary": "An agentic skills framework & software development methodology that works.",
     "signal_type": "developer_velocity",
-    "importance_score": 325223,
+    "importance_score": 325910,
     "theme_tags": [
       "open-source",
       "ai",
@@ -56,10 +56,10 @@
     "category": "developer_ecosystem",
     "title": "hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
-    "published_at": "2026-11-24T04:39:26.566898+00:00",
+    "published_at": "2026-11-25T03:24:58.697988+00:00",
     "summary": "The agent that grows with you",
     "signal_type": "developer_velocity",
-    "importance_score": 265696,
+    "importance_score": 265923,
     "theme_tags": [
       "open-source",
       "ai",
@@ -74,10 +74,10 @@
     "category": "developer_ecosystem",
     "title": "n8n",
     "url": "https://github.com/n8n-io/n8n",
-    "published_at": "2026-11-24T04:39:26.566904+00:00",
+    "published_at": "2026-11-25T03:24:58.697996+00:00",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "signal_type": "developer_velocity",
-    "importance_score": 211873,
+    "importance_score": 212043,
     "theme_tags": [
       "open-source",
       "ai",
@@ -88,10 +88,10 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "OpenAI and Cisco introduce Shirudo",
-    "url": "https://openai.com/index/introducing-shirudo",
-    "published_at": "Mon, 23 Nov 2026 21:20:00 GMT",
-    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+    "published_at": "Tue, 24 Nov 2026 13:00:00 GMT",
+    "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -100,16 +100,17 @@
       "capability"
     ],
     "narratives": [
+      "reasoning",
       "open-source"
     ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Connected intelligence for in-house legal",
-    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-    "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
-    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get ",
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "published_at": "Tue, 24 Nov 2026 11:00:00 GMT",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -122,10 +123,26 @@
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Richpanel helps companies automate 50% of support in 30 days",
-    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-    "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
-    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "title": "How Intentful uses dots to make more time for growth",
+    "url": "https://openai.com/business/customer-stories/intentful-dots",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+    "signal_type": "model_capability",
+    "importance_score": 8,
+    "theme_tags": [
+      "models",
+      "research",
+      "capability"
+    ],
+    "narratives": []
+  },
+  {
+    "source": "OpenAI",
+    "category": "core_tech",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/business/customer-stories/ifood",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "summary": "OpenAI update.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -134,32 +151,17 @@
       "capability"
     ],
     "narratives": [
-      "agents"
+      "agents",
+      "open-source"
     ]
   },
   {
     "source": "OpenAI",
     "category": "core_tech",
-    "title": "Perplexity and Intelligence",
-    "url": "https://openai.com/index/perplexity-and-intelligence",
-    "published_at": "Sun, 22 Nov 2026 00:00:00 GMT",
-    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-    "signal_type": "model_capability",
-    "importance_score": 8,
-    "theme_tags": [
-      "models",
-      "research",
-      "capability"
-    ],
-    "narratives": []
-  },
-  {
-    "source": "OpenAI",
-    "category": "core_tech",
-    "title": "Combatting adversarial distillation",
-    "url": "https://openai.com/index/combatting-adversarial-distillation",
-    "published_at": "Fri, 20 Nov 2026 10:00:00 GMT",
-    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "published_at": "Tue, 24 Nov 2026 00:00:00 GMT",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
     "signal_type": "model_capability",
     "importance_score": 8,
     "theme_tags": [
@@ -168,8 +170,7 @@
       "capability"
     ],
     "narratives": [
-      "infrastructure",
-      "inference_cost"
+      "reasoning"
     ]
   },
   {
@@ -177,10 +178,10 @@
     "category": "model_ecosystem",
     "title": "sentence-transformers/all-MiniLM-L6-v2",
     "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-    "published_at": "2026-11-24T04:39:27.157678+00:00",
-    "summary": "Trending model with 164731740 downloads.",
+    "published_at": "2026-11-25T03:24:59.411039+00:00",
+    "summary": "Trending model with 165041501 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 164731740,
+    "importance_score": 165041501,
     "theme_tags": [
       "models",
       "open-source",
@@ -193,10 +194,10 @@
     "category": "model_ecosystem",
     "title": "argmaxinc/whisperkit-coreml",
     "url": "https://huggingface.co/argmaxinc/whisperkit-coreml",
-    "published_at": "2026-11-24T04:39:27.157705+00:00",
-    "summary": "Trending model with 98106994 downloads.",
+    "published_at": "2026-11-25T03:24:59.411063+00:00",
+    "summary": "Trending model with 101073863 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 98106994,
+    "importance_score": 101073863,
     "theme_tags": [
       "models",
       "open-source",
@@ -209,10 +210,10 @@
     "category": "model_ecosystem",
     "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
     "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
-    "published_at": "2026-11-24T04:39:27.157712+00:00",
-    "summary": "Trending model with 54750400 downloads.",
+    "published_at": "2026-11-25T03:24:59.411076+00:00",
+    "summary": "Trending model with 54459434 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 54750400,
+    "importance_score": 54459434,
     "theme_tags": [
       "models",
       "open-source",
@@ -227,10 +228,10 @@
     "category": "model_ecosystem",
     "title": "autogluon/chronos-2",
     "url": "https://huggingface.co/autogluon/chronos-2",
-    "published_at": "2026-11-24T04:39:27.157719+00:00",
-    "summary": "Trending model with 45374973 downloads.",
+    "published_at": "2026-11-25T03:24:59.411089+00:00",
+    "summary": "Trending model with 49531026 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 45374973,
+    "importance_score": 49531026,
     "theme_tags": [
       "models",
       "open-source",
@@ -243,10 +244,10 @@
     "category": "model_ecosystem",
     "title": "BAAI/bge-small-en-v1.5",
     "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
-    "published_at": "2026-11-24T04:39:27.157725+00:00",
-    "summary": "Trending model with 42863227 downloads.",
+    "published_at": "2026-11-25T03:24:59.411099+00:00",
+    "summary": "Trending model with 42917569 downloads.",
     "signal_type": "model_capability",
-    "importance_score": 42863227,
+    "importance_score": 42917569,
     "theme_tags": [
       "models",
       "open-source",
